@@ -1,0 +1,187 @@
+﻿file,map_id,site_id,site_name,side,old_operators,new_operators
+bank.json,bank,bank-b,B1 金庫 / 金庫走廊,attack,Thermite | Sledge | Smoke | Bandit | Iana | Jager,Ace | Solid Snake | Grim | Ram | Smoke | Bandit
+bank.json,bank,bank-b,B1 金庫 / 金庫走廊,defense,Bandit | Smoke | Jager | Valkyrie | Echo | Kaid,Fenrir | Jager | Valkyrie | Mute | Echo | Smoke
+bank.json,bank,bank-1a,1F 大廳 / 出納,attack,Ash | Sledge | Buck | Iana | Thermite | Hibana,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+bank.json,bank,bank-1a,1F 大廳 / 出納,defense,Valkyrie | Jager | Mira | Smoke | Echo | Bandit,Azami | Fenrir | Jager | Valkyrie | Mute | Echo
+bank.json,bank,bank-2a,2F 行長辦公室 / 開放式辦公區,attack,Sledge | Buck | Ash | Zero | Iana | Thermite,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+bank.json,bank,bank-2a,2F 行長辦公室 / 開放式辦公區,defense,Jager | Vigil | Pulse | Bandit | Echo | Smoke,Fenrir | Jager | Valkyrie | Mute | Ela | Echo
+bank.json,bank,bank-2b,2F 員工休息室 / 會議室,attack,Sledge | Ash | Iana | Nomad | Hibana | Zero,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+bank.json,bank,bank-2b,2F 員工休息室 / 會議室,defense,Valkyrie | Jager | Vigil | Mira | Smoke | Bandit,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+border-2.json,border,border-1a,1F 通風道 / 貨運辦公室,attack,Sledge | Ash | Thermite | Iana | Sledge | Twitch,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+border-2.json,border,border-1a,1F 通風道 / 貨運辦公室,defense,Bandit | Jager | Smoke | Valkyrie | Vigil | Mozzie,Fenrir | Jager | Valkyrie | Mute | Ela | Smoke
+border-2.json,border,border-1b,1F 海關檢查室 / 物資倉庫,attack,Ash | Sledge | Buck | Iana | Thermite | Flores,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+border-2.json,border,border-1b,1F 海關檢查室 / 物資倉庫,defense,Bandit | Jager | Smoke | Mira | Echo | Vigil,Azami | Fenrir | Jager | Bandit | Ela | Echo
+border-2.json,border,border-2a,2F 武器室 / 檔案室,attack,Thermite | Sledge | Buck | Iana | Zero | Hibana,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+border-2.json,border,border-2a,2F 武器室 / 檔案室,defense,Bandit | Smoke | Jager | Echo | Valkyrie | Vigil,Fenrir | Jager | Valkyrie | Mute | Ela | Echo
+border-2.json,border,border-2b,2F 衛浴設施 / 出入境辦公室,attack,Ash | Sledge | Nomad | Iana | Thermite | Flores,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+border-2.json,border,border-2b,2F 衛浴設施 / 出入境辦公室,defense,Mira | Jager | Bandit | Valkyrie | Smoke | Vigil,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+chalet-27.json,chalet,chal-b,B1 酒窖 / 雪地車庫,attack,Sledge | Thermite | Iana | Smoke | Buck | Zero,Ace | Solid Snake | Buck | Dokkaebi | Ram | Brava
+chalet-27.json,chalet,chal-b,B1 酒窖 / 雪地車庫,defense,Bandit | Smoke | Echo | Jager | Pulse | Valkyrie,Azami | Fenrir | Smoke | Jager | Valkyrie | Ela
+chalet-27.json,chalet,chal-1a,1F 廚房 / 餐廳,attack,Ash | Sledge | Smoke | Iana | Thermite | Zero,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+chalet-27.json,chalet,chal-1a,1F 廚房 / 餐廳,defense,Jager | Bandit | Vigil | Smoke | Mira | Valkyrie,Azami | Fenrir | Mira | Smoke | Jager | Ela
+chalet-27.json,chalet,chal-1b,1F 酒吧 / 遊戲室,attack,Buck | Sledge | Smoke | Ash | Iana | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+chalet-27.json,chalet,chal-1b,1F 酒吧 / 遊戲室,defense,Smoke | Jager | Vigil | Echo | Bandit | Mozzie,Azami | Fenrir | Smoke | Jager | Valkyrie | Ela
+chalet-27.json,chalet,chal-2,2F 主臥室 / 辦公室,attack,Sledge | Thermite | Ash | Smoke | Iana | Buck,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+chalet-27.json,chalet,chal-2,2F 主臥室 / 辦公室,defense,Jager | Bandit | Vigil | Echo | Pulse | Maestro,Azami | Fenrir | Jager | Valkyrie | Ela | Mira
+closequarter-8.json,closequarter,closequarter-2f,2F 廚房 / 餐廳,attack,Thermite | Capitao | Blitz | Zofia | Nomad | Thatcher,Ace | Grim | Ram | Thatcher | Nomad | Buck
+closequarter-8.json,closequarter,closequarter-2f,2F 廚房 / 餐廳,defense,Jager | Smoke | Bandit | Ela | Caveira | Rook,Azami | Fenrir | Jager | Bandit | Caveira | Mira
+closequarter-8.json,closequarter,closequarter-1f,1F 健身房 / 倉庫,attack,Sledge | Ash | Ying | Dokkaebi | Flores | Gridlock,Solid Snake | Grim | Ram | Dokkaebi | Nomad | Buck
+closequarter-8.json,closequarter,closequarter-1f,1F 健身房 / 倉庫,defense,Lesion | Pulse | Castle | Oryx | Aruni | Wamai,Jager | Valkyrie | Mute | Ela | Bandit | Kaid
+clubhouse-3.json,clubhouse,club-b,B1 教堂 / 武器庫,attack,Buck | Sledge | Smoke | Thermite | Iana | Zero,Ace | Solid Snake | Buck | Dokkaebi | Ram | Brava
+clubhouse-3.json,clubhouse,club-b,B1 教堂 / 武器庫,defense,Jager | Bandit | Smoke | Echo | Vigil | Valkyrie,Azami | Fenrir | Smoke | Jager | Valkyrie | Ela
+clubhouse-3.json,clubhouse,club-1a,1F 酒吧 / 車庫,attack,Ash | Sledge | Smoke | Thermite | Iana | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+clubhouse-3.json,clubhouse,club-1a,1F 酒吧 / 車庫,defense,Jager | Bandit | Vigil | Smoke | Mira | Mozzie,Azami | Fenrir | Mira | Smoke | Jager | Ela
+clubhouse-3.json,clubhouse,club-1b,1F 辦公室 / 大廳,attack,Buck | Sledge | Thermite | Ash | Smoke | Iana,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+clubhouse-3.json,clubhouse,club-1b,1F 辦公室 / 大廳,defense,Jager | Bandit | Mira | Echo | Vigil | Smoke,Azami | Fenrir | Mira | Smoke | Jager | Ela
+clubhouse-3.json,clubhouse,club-2,2F 臥室 / 健身房,attack,Sledge | Thermite | Buck | Ash | Smoke | Iana,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+clubhouse-3.json,clubhouse,club-2,2F 臥室 / 健身房,defense,Jager | Bandit | Vigil | Echo | Pulse | Maestro,Azami | Fenrir | Jager | Valkyrie | Ela | Mira
+coastline-4.json,coastline,coast-1a,1F 廚房 / 服務通道,attack,Thermite | Hibana | Ash | Sledge | Iana | Buck,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+coastline-4.json,coastline,coast-1a,1F 廚房 / 服務通道,defense,Bandit | Jager | Smoke | Mozzie | Pulse | Vigil,Azami | Fenrir | Jager | Valkyrie | Mute | Lesion
+coastline-4.json,coastline,coast-1b,1F 藍天吧 / 日落吧,attack,Hibana | Thermite | Flores | Iana | Gridlock | Buck,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+coastline-4.json,coastline,coast-1b,1F 藍天吧 / 日落吧,defense,Jager | Smoke | Bandit | Valkyrie | Maestro | Vigil,Azami | Fenrir | Valkyrie | Jager | Mute | Lesion
+coastline-4.json,coastline,coast-2a,2F 大廳 / 劇院,attack,Ace | Hibana | Ash | Iana | Sledge | Goyo,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+coastline-4.json,coastline,coast-2a,2F 大廳 / 劇院,defense,Kaid | Jager | Valkyrie | Smoke | Echo | Vigil,Azami | Fenrir | Valkyrie | Jager | Mute | Lesion
+coastline-4.json,coastline,coast-2b,2F 鉤環室 / 水煙吧,attack,Thermite | Hibana | Zero | Ash | Iana | Nomad,Ace | Solid Snake | Grim | Nomad | Dokkaebi | Ram
+coastline-4.json,coastline,coast-2b,2F 鉤環室 / 水煙吧,defense,Jager | Bandit | Valkyrie | Smoke | Maestro | Vigil,Azami | Fenrir | Valkyrie | Jager | Mute | Lesion
+consulate-24.json,consulate,cons-b,B1 車庫 / 食堂,attack,Thermite | Buck | Iana | Smoke | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+consulate-24.json,consulate,cons-b,B1 車庫 / 食堂,defense,Bandit | Smoke | Valkyrie | Vigil | Kaid | Mozzie,Azami | Smoke | Valkyrie | Mute | Ela | Mira
+consulate-24.json,consulate,cons-1,1F 大廳 / 新聞室,attack,Ash | Sledge | Iana | Smoke | Flores | Nomad,Solid Snake | Grim | Ram | Dokkaebi | Nomad | Buck
+consulate-24.json,consulate,cons-1,1F 大廳 / 新聞室,defense,Jager | Smoke | Valkyrie | Vigil | Mira | Maestro,Azami | Smoke | Valkyrie | Ela | Mira | Jager
+consulate-24.json,consulate,cons-2a,2F 領事辦公室 / 會議室,attack,Thermite | Buck | Iana | Smoke | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+consulate-24.json,consulate,cons-2a,2F 領事辦公室 / 會議室,defense,Bandit | Smoke | Jager | Valkyrie | Vigil | Mira,Azami | Smoke | Valkyrie | Mute | Ela | Mira
+consulate-24.json,consulate,cons-2b,2F 開放式辦公區 / 列印室,attack,Ace | Sledge | Iana | Smoke | Flores | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+consulate-24.json,consulate,cons-2b,2F 開放式辦公區 / 列印室,defense,Jager | Smoke | Valkyrie | Vigil | Echo | Maestro,Smoke | Valkyrie | Ela | Jager | Aruni | Alibi
+district-9.json,district,district-1f-a,1F 餐廳廚房 / 主廳,attack,Thermite | Thatcher | Ying | Jackal | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi
+district-9.json,district,district-1f-a,1F 餐廳廚房 / 主廳,defense,Smoke | Jager | Bandit | Vigil | Maestro | Kapkan,Fenrir | Jager | Valkyrie | Mute | Ela | Smoke
+district-9.json,district,district-1f-b,1F 酒吧 / 後台,attack,Ace | Buck | Iana | Zero | Gridlock | Finka,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+district-9.json,district,district-1f-b,1F 酒吧 / 後台,defense,Rook | Castle | Mute | Caveira | Goyo | Solis,Azami | Fenrir | Valkyrie | Mute | Ela | Mira
+emerald-23.json,emerald,em-1a,1F 酒廊 / 宴會廳,attack,Ash | Buck | Iana | Smoke | Zero | Nomad,Solid Snake | Grim | Ram | Dokkaebi | Nomad | Buck
+emerald-23.json,emerald,em-1a,1F 酒廊 / 宴會廳,defense,Jager | Smoke | Valkyrie | Vigil | Echo | Maestro,Smoke | Valkyrie | Ela | Jager | Aruni | Alibi
+emerald-23.json,emerald,em-1b,1F 廚房 / 後廚,attack,Thermite | Sledge | Iana | Smoke | Flores | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+emerald-23.json,emerald,em-1b,1F 廚房 / 後廚,defense,Bandit | Smoke | Valkyrie | Vigil | Kaid | Mozzie,Azami | Smoke | Valkyrie | Mute | Ela | Mira
+emerald-23.json,emerald,em-2a,2F 行政辦公室 / 執行長辦公室,attack,Thermite | Buck | Iana | Smoke | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+emerald-23.json,emerald,em-2a,2F 行政辦公室 / 執行長辦公室,defense,Bandit | Smoke | Jager | Valkyrie | Vigil | Mira,Azami | Smoke | Valkyrie | Mute | Ela | Mira
+emerald-23.json,emerald,em-2b,2F 展覽廳 / 禮品店,attack,Ash | Buck | Iana | Smoke | Flores | Nomad,Solid Snake | Grim | Ram | Dokkaebi | Nomad | Buck
+emerald-23.json,emerald,em-2b,2F 展覽廳 / 禮品店,defense,Jager | Smoke | Valkyrie | Vigil | Echo | Maestro,Smoke | Valkyrie | Ela | Jager | Aruni | Alibi
+favela-22.json,favela,fav-1,1F 生化危機室 / 倉庫,attack,Ash | Buck | Iana | Smoke | Nomad | Flores,Solid Snake | Grim | Ram | Dokkaebi | Nomad | Buck
+favela-22.json,favela,fav-1,1F 生化危機室 / 倉庫,defense,Jager | Smoke | Valkyrie | Vigil | Echo | Maestro,Smoke | Valkyrie | Ela | Jager | Aruni | Alibi
+favela-22.json,favela,fav-2,2F 包裝室 / 主臥室,attack,Thermite | Sledge | Iana | Smoke | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+favela-22.json,favela,fav-2,2F 包裝室 / 主臥室,defense,Bandit | Smoke | Valkyrie | Vigil | Kaid | Mozzie,Azami | Smoke | Valkyrie | Mute | Ela | Mira
+favela-22.json,favela,fav-3,3F 足球室 / 閣樓,attack,Ash | Buck | Iana | Smoke | Flores | Nomad,Solid Snake | Grim | Ram | Dokkaebi | Nomad | Buck
+favela-22.json,favela,fav-3,3F 足球室 / 閣樓,defense,Jager | Smoke | Valkyrie | Vigil | Echo | Maestro,Smoke | Valkyrie | Ela | Jager | Aruni | Alibi
+fortress-26.json,fortress,fort-1a,1F 大廳 / 書房,attack,Thermite | Ash | Iana | Nomad | Smoke | Zero,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+fortress-26.json,fortress,fort-1a,1F 大廳 / 書房,defense,Kaid | Jager | Echo | Smoke | Vigil | Valkyrie,Azami | Fenrir | Jager | Kaid | Valkyrie | Ela
+fortress-26.json,fortress,fort-1b,1F 廚房 / 餐廳,attack,Buck | Ace | Iana | Nomad | Thermite | Flores,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+fortress-26.json,fortress,fort-1b,1F 廚房 / 餐廳,defense,Bandit | Valkyrie | Jager | Smoke | Vigil | Echo,Azami | Fenrir | Jager | Bandit | Valkyrie | Lesion
+fortress-26.json,fortress,fort-2,2F 臥室 / 指揮室,attack,Thermite | Sledge | Ash | Zero | Nomad | Iana,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+fortress-26.json,fortress,fort-2,2F 臥室 / 指揮室,defense,Kaid | Jager | Echo | Smoke | Vigil | Valkyrie,Azami | Fenrir | Valkyrie | Jager | Kaid | Lesion
+hereford-25.json,hereford,here-b,B1 彈藥庫 / 補給站,attack,Thermite | Ash | Iana | Nomad | Smoke | Sledge,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+hereford-25.json,hereford,here-b,B1 彈藥庫 / 補給站,defense,Kaid | Jager | Echo | Smoke | Vigil | Valkyrie,Azami | Fenrir | Jager | Kaid | Valkyrie | Ela
+hereford-25.json,hereford,here-1,1F 教室 / 大廳,attack,Thermite | Ash | Iana | Nomad | Smoke | Zero,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+hereford-25.json,hereford,here-1,1F 教室 / 大廳,defense,Bandit | Jager | Echo | Smoke | Vigil | Valkyrie,Azami | Fenrir | Jager | Bandit | Valkyrie | Ela
+hereford-25.json,hereford,here-2,2F 宿舍 / 辦公室,attack,Ace | Sledge | Ash | Iana | Nomad | Flowers,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+hereford-25.json,hereford,here-2,2F 宿舍 / 辦公室,defense,Jager | Kaid | Echo | Smoke | Vigil | Valkyrie,Azami | Fenrir | Valkyrie | Jager | Kaid | Lesion
+house-21.json,house,house-b,B1 健身房 / 車庫,attack,Sledge | Ash | Thermite | Iana | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+house-21.json,house,house-b,B1 健身房 / 車庫,defense,Jager | Smoke | Pulse | Valkyrie | Vigil | Maestro,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+house-21.json,house,house-1,1F 客廳 / 餐廳,attack,Ash | Buck | Iana | Thermite | Nomad | Flores,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+house-21.json,house,house-1,1F 客廳 / 餐廳,defense,Jager | Echo | Smoke | Valkyrie | Vigil | Pulse,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+house-21.json,house,house-2,2F 兒童房 / 主臥室,attack,Sledge | Buck | Thermite | Iana | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+house-21.json,house,house-2,2F 兒童房 / 主臥室,defense,Jager | Echo | Valkyrie | Smoke | Vigil | Maestro,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+kafe-5.json,kafe,kafe-1,1F 廚房 / 備餐區,attack,Thermite | Ash | Buck | Iana | Ace | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+kafe-5.json,kafe,kafe-1,1F 廚房 / 備餐區,defense,Bandit | Jager | Smoke | Valkyrie | Mozzie | Pulse,Azami | Fenrir | Jager | Valkyrie | Bandit | Ela
+kafe-5.json,kafe,kafe-2a,2F 壁爐廳 / 採礦室,attack,Sledge | Thermite | Buck | Iana | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+kafe-5.json,kafe,kafe-2a,2F 壁爐廳 / 採礦室,defense,Jager | Echo | Valkyrie | Smoke | Vigil | Maestro,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+kafe-5.json,kafe,kafe-2b,2F 閱讀室 / 燈光廊,attack,Thermite | Ash | Buck | Iana | Ace | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+kafe-5.json,kafe,kafe-2b,2F 閱讀室 / 燈光廊,defense,Bandit | Jager | Smoke | Valkyrie | Mozzie | Pulse,Azami | Fenrir | Jager | Valkyrie | Bandit | Ela
+kafe-5.json,kafe,kafe-3,3F 酒吧廳 / 雞尾酒廊,attack,Sledge | Thermite | Buck | Iana | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+kafe-5.json,kafe,kafe-3,3F 酒吧廳 / 雞尾酒廊,defense,Jager | Echo | Valkyrie | Smoke | Vigil | Maestro,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+kanal-19.json,kanal,kan-1a,1F 伺服器室 / 機房,attack,Thermite | Ash | Buck | Iana | Ace | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+kanal-19.json,kanal,kan-1a,1F 伺服器室 / 機房,defense,Bandit | Jager | Smoke | Valkyrie | Mozzie | Pulse,Azami | Fenrir | Jager | Valkyrie | Bandit | Ela
+kanal-19.json,kanal,kan-1b,1F 海岸警衛隊辦公室 / 等候區,attack,Thermite | Ash | Buck | Iana | Ace | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+kanal-19.json,kanal,kan-1b,1F 海岸警衛隊辦公室 / 等候區,defense,Bandit | Jager | Smoke | Valkyrie | Mozzie | Pulse,Azami | Fenrir | Jager | Valkyrie | Bandit | Ela
+kanal-19.json,kanal,kan-2a,2F 雷達室 / 地圖室,attack,Thermite | Ash | Buck | Iana | Ace | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+kanal-19.json,kanal,kan-2a,2F 雷達室 / 地圖室,defense,Bandit | Jager | Smoke | Valkyrie | Mozzie | Pulse,Azami | Fenrir | Jager | Valkyrie | Bandit | Ela
+kanal-19.json,kanal,kan-2b,2F 管制室 / 休息室,attack,Thermite | Ash | Buck | Iana | Ace | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+kanal-19.json,kanal,kan-2b,2F 管制室 / 休息室,defense,Bandit | Jager | Smoke | Valkyrie | Mozzie | Pulse,Azami | Fenrir | Jager | Valkyrie | Bandit | Ela
+lair-20.json,lair,lair-1a,1F 車間 / 貨物區,attack,Thermite | Ash | Iana | Nomad | Twitch | Sledge,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+lair-20.json,lair,lair-1a,1F 車間 / 貨物區,defense,Jäger | Bandit | Smoke | Valkyrie | Vigil | Echo,Azami | Jager | Valkyrie | Mute | Ela | Mira
+lair-20.json,lair,lair-1b,1F 伺服器室 / 研究區,attack,Ace | Buck | Zero | IQ | Thermite | Sledge,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+lair-20.json,lair,lair-1b,1F 伺服器室 / 研究區,defense,Kaid | Mute | Echo | Goyo | Mozzie | Pulse,Azami | Valkyrie | Bandit | Mute | Ela | Mira
+lair-20.json,lair,lair-2,2F 辦公室 / 會議室,attack,Ash | Thermite | Iana | Nomad | Twitch | Buck,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+lair-20.json,lair,lair-2,2F 辦公室 / 會議室,defense,Bandit | Valkyrie | Jäger | Smoke | Vigil | Echo,Azami | Jager | Valkyrie | Mute | Ela | Mira
+nighthaven-18.json,nighthaven,nh-b,B1 儲槽區 / 組裝間,attack,Thermite | Buck | Iana | Nomad | Twitch | Sledge,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+nighthaven-18.json,nighthaven,nh-b,B1 儲槽區 / 組裝間,defense,Jäger | Kaid | Smoke | Echo | Vigil | Valkyrie,Azami | Jager | Valkyrie | Mute | Ela | Mira
+nighthaven-18.json,nighthaven,nh-1a,1F 控制室 / 儲藏室,attack,Ace | Ash | Zero | IQ | Nomad | Twitch,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+nighthaven-18.json,nighthaven,nh-1a,1F 控制室 / 儲藏室,defense,Bandit | Mute | Valkyrie | Goyo | Mozzie | Pulse,Azami | Valkyrie | Bandit | Mute | Ela | Mira
+nighthaven-18.json,nighthaven,nh-1b,1F 廚房 / 餐廳,attack,Thermite | Buck | Iana | Ash | Nomad | Twitch,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+nighthaven-18.json,nighthaven,nh-1b,1F 廚房 / 餐廳,defense,Kaid | Jäger | Valkyrie | Smoke | Vigil | Echo,Azami | Jager | Valkyrie | Mute | Ela | Mira
+nighthaven-18.json,nighthaven,nh-2,2F 指揮中心 / 伺服器室,attack,Ace | Ash | Zero | Buck | Nomad | Twitch,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+nighthaven-18.json,nighthaven,nh-2,2F 指揮中心 / 伺服器室,defense,Bandit | Valkyrie | Jäger | Goyo | Mozzie | Echo,Azami | Jager | Valkyrie | Mute | Mozzie | Mira
+oregon-14.json,oregon,ore-b,B1 洗衣房 / 供應室,attack,Thermite | Buck | Zero | Ash | Iana,Ace | Solid Snake | Ram | Dokkaebi | Buck
+oregon-14.json,oregon,ore-b,B1 洗衣房 / 供應室,defense,Bandit | Jager | Smoke | Echo | Vigil,Fenrir | Jager | Valkyrie | Mute | Ela
+oregon-14.json,oregon,ore-1a,1F 廚房 / 餐廳,attack,Ash | Sledge | Iana | Thermite | Flores,Ace | Solid Snake | Ram | Dokkaebi | Buck
+oregon-14.json,oregon,ore-1a,1F 廚房 / 餐廳,defense,Jager | Valkyrie | Bandit | Vigil | Smoke,Fenrir | Jager | Valkyrie | Mute | Ela
+oregon-14.json,oregon,ore-1b,1F 會議室 / 大廳,attack,Thermite | Buck | Ash | Iana | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi
+oregon-14.json,oregon,ore-1b,1F 會議室 / 大廳,defense,Kaid | Valkyrie | Jager | Vigil | Maestro,Azami | Jager | Valkyrie | Mute | Ela
+oregon-14.json,oregon,ore-2,2F 兒童宿舍 / 宿舍,attack,Buck | Ace | Iana | Sledge | Ash,Ace | Solid Snake | Ram | Dokkaebi | Buck
+oregon-14.json,oregon,ore-2,2F 兒童宿舍 / 宿舍,defense,Jager | Bandit | Valkyrie | Vigil | Smoke,Fenrir | Jager | Valkyrie | Mute | Ela
+outback-13.json,outback,out-1a,1F 機械室 / 生物實驗室,attack,Thermite | Ash | Sledge | Iana | Zero,Ace | Solid Snake | Ram | Dokkaebi | Buck
+outback-13.json,outback,out-1a,1F 機械室 / 生物實驗室,defense,Bandit | Jager | Valkyrie | Vigil | Smoke,Fenrir | Jager | Valkyrie | Mute | Ela
+outback-13.json,outback,out-1b,1F 紀念品商店 / 辦公室,attack,Ace | Ash | Iana | Buck | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi
+outback-13.json,outback,out-1b,1F 紀念品商店 / 辦公室,defense,Jager | Kaid | Valkyrie | Vigil | Maestro,Azami | Jager | Valkyrie | Mute | Ela
+outback-13.json,outback,out-2a,2F 洗衣房 / 遊戲室,attack,Thermite | Buck | Ash | Iana | Zero,Ace | Solid Snake | Ram | Dokkaebi | Buck
+outback-13.json,outback,out-2a,2F 洗衣房 / 遊戲室,defense,Jager | Bandit | Valkyrie | Vigil | Smoke,Fenrir | Jager | Valkyrie | Mute | Ela
+outback-13.json,outback,out-2b,2F 總統套房 / 閣樓,attack,Buck | Ace | Iana | Sledge | Ash,Ace | Solid Snake | Ram | Dokkaebi | Buck
+outback-13.json,outback,out-2b,2F 總統套房 / 閣樓,defense,Jager | Kaid | Valkyrie | Vigil | Smoke,Fenrir | Jager | Valkyrie | Mute | Ela
+plane-15.json,plane,plane-m,中段 會議室 / 辦公室,attack,Ash | Sledge | Iana | Zero | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi
+plane-15.json,plane,plane-m,中段 會議室 / 辦公室,defense,Jager | Bandit | Valkyrie | Vigil | Maestro,Azami | Jager | Valkyrie | Mute | Ela
+plane-15.json,plane,plane-f,前段 駕駛艙 / 貴賓廂,attack,Ash | Sledge | Iana | Buck | Flores,Ace | Solid Snake | Ram | Dokkaebi | Buck
+plane-15.json,plane,plane-f,前段 駕駛艙 / 貴賓廂,defense,Jager | Bandit | Valkyrie | Vigil | Smoke,Fenrir | Jager | Valkyrie | Mute | Ela
+plane-15.json,plane,plane-r,後段 浴室 / 行李艙,attack,Ash | Sledge | Zero | Iana | Nomad,Ace | Solid Snake | Grim | Ram | Dokkaebi
+plane-15.json,plane,plane-r,後段 浴室 / 行李艙,defense,Jager | Bandit | Valkyrie | Vigil | Maestro,Azami | Jager | Valkyrie | Mute | Ela
+skyscraper-17.json,skyscraper,sky-1a,1F 廚房 / 備餐室,attack,Ash | Thermite | Nomad,Ace | Grim | Ram | Nomad
+skyscraper-17.json,skyscraper,sky-1a,1F 廚房 / 備餐室,defense,Jager | Vigil | Valkyrie,Azami | Fenrir | Jager | Valkyrie
+skyscraper-17.json,skyscraper,sky-1b,1F 茶室 / 龍之間,attack,Ash | Buck | Zero,Solid Snake | Ram | Dokkaebi | Buck
+skyscraper-17.json,skyscraper,sky-1b,1F 茶室 / 龍之間,defense,Jager | Kaid | Echo,Azami | Fenrir | Jager | Kaid
+skyscraper-17.json,skyscraper,sky-2a,2F 辦公區 / 會客室,attack,Thermite | Iana | Sledge,Ace | Solid Snake | Ram | Dokkaebi
+skyscraper-17.json,skyscraper,sky-2a,2F 辦公區 / 會客室,defense,Bandit | Smoke | Valkyrie,Azami | Fenrir | Valkyrie | Bandit
+skyscraper-17.json,skyscraper,sky-2b,2F 工作區 / 倉庫,attack,Ace | Flores | Sledge,Ace | Solid Snake | Ram | Dokkaebi
+skyscraper-17.json,skyscraper,sky-2b,2F 工作區 / 倉庫,defense,Kaid | Jager | Pulse,Azami | Jager | Kaid | Valkyrie
+stadium-a-6.json,stadium-a,stadium-a-2f,2F 貴賓室 / 走廊,attack,Thermite | Glaz | Kali | Iana | Nomad | Finka,Ace | Solid Snake | Grim | Dokkaebi | Nomad | Brava
+stadium-a-6.json,stadium-a,stadium-a-2f,2F 貴賓室 / 走廊,defense,Maestro | Jager | Vigil | Valkyrie | Thorn | Bandit,Jager | Valkyrie | Mute | Ela | Bandit | Kaid
+stadium-a-6.json,stadium-a,stadium-a-1f,1F 儲藏室 / 更衣室,attack,Ace | Buck | Hibana | Jackal | Gridlock | Capitao,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+stadium-a-6.json,stadium-a,stadium-a-1f,1F 儲藏室 / 更衣室,defense,Rook | Bandit | Smoke | Caveira | Goyo | Solis,Azami | Fenrir | Valkyrie | Mute | Ela | Mira
+stadium-b-7.json,stadium-b,stadium-b-2f,2F 控制室 / 媒體室,attack,Thermite | Amaru | Ying | Zero | Sens | Dokkaebi,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+stadium-b-7.json,stadium-b,stadium-b-2f,2F 控制室 / 媒體室,defense,Echo | Jager | Kapkan | Oryx | Azami | Wamai,Jager | Valkyrie | Ela | Azami | Aruni | Alibi
+stadium-b-7.json,stadium-b,stadium-b-1f,1F 球員休息室 / 醫療室,attack,Ace | Ash | Hibana | Grim | Osa | Ram,Ace | Solid Snake | Buck | Dokkaebi | Grim | Ram
+stadium-b-7.json,stadium-b,stadium-b-1f,1F 球員休息室 / 醫療室,defense,Doc | Mute | Lesion | Vigil | Fenrir | Thunderbird,Azami | Mute | Ela | Fenrir | Mira | Lesion
+themepark-16.json,themepark,tp-1a,1F 藥局 / 服務中心,attack,Buck | Ace | Nomad,Ace | Grim | Ram | Nomad
+themepark-16.json,themepark,tp-1a,1F 藥局 / 服務中心,defense,Smoke | Jager | Vigil,Azami | Fenrir | Jager | Ela
+themepark-16.json,themepark,tp-1b,1F 爆炸實驗室 / 保全室,attack,Buck | Ace | Sledge,Ace | Ram | Buck | Thatcher
+themepark-16.json,themepark,tp-1b,1F 爆炸實驗室 / 保全室,defense,Smoke | Jager | Vigil,Azami | Fenrir | Jager | Ela
+themepark-16.json,themepark,tp-2a,2F 辦公室 / 鐵路,attack,Ash | Ace | Nomad,Ace | Grim | Ram | Nomad
+themepark-16.json,themepark,tp-2a,2F 辦公室 / 鐵路,defense,Smoke | Jager | Vigil,Azami | Fenrir | Jager | Ela
+themepark-16.json,themepark,tp-2b,2F 托兒所 / 火車,attack,Ash | Ace | Nomad,Ace | Grim | Ram | Nomad
+themepark-16.json,themepark,tp-2b,2F 托兒所 / 火車,defense,Smoke | Jager | Vigil,Azami | Fenrir | Jager | Ela
+tower-12.json,tower,tower-2f,2F 鹿角室 / 茶室,attack,Hibana | Ash | Jackal | Ying | Thermite | Thatcher,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+tower-12.json,tower,tower-2f,2F 鹿角室 / 茶室,defense,Bandit | Smoke | Caveira | Jager | Valkyrie | Kapkan,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+tower-12.json,tower,tower-1f,1F 展示室 / 接待室,attack,Ace | Buck | Twitch | Zofia | Iana | Sens,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+tower-12.json,tower,tower-1f,1F 展示室 / 接待室,defense,Lesion | Pulse | Frost | Jager | Caveira | Maestro,Jager | Valkyrie | Ela | Aruni | Lesion | Maestro
+tower-12.json,tower,tower-b1,B1 發電機室 / 儲藏室,attack,Thermite | Sledge | Dokkaebi | Hibana | Gridlock | Thatcher,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+tower-12.json,tower,tower-b1,B1 發電機室 / 儲藏室,defense,Smoke | Bandit | Kapkan | Maestro | Oryx | Jager,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+villa-11.json,villa,villa-2f,2F 遊戲室 / 創作室,attack,Hibana | Buck | Twitch | Kali | Ying | Dokkaebi,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+villa-11.json,villa,villa-2f,2F 遊戲室 / 創作室,defense,Jager | Lesion | Frost | Valkyrie | Caveira | Bandit,Jager | Valkyrie | Mute | Ela | Bandit | Kaid
+villa-11.json,villa,villa-1f-a,1F 台球室 / 廚房,attack,Ace | Ash | Zero | Sens | Zofia | Jackal,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+villa-11.json,villa,villa-1f-a,1F 台球室 / 廚房,defense,Kapkan | Smoke | Echo | Bandit | Vigil | Jager,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+villa-11.json,villa,villa-1f-b,1F 宴會廳 / 書房,attack,Hibana | Sledge | Dokkaebi | Nomad | Ying | Capitao,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+villa-11.json,villa,villa-1f-b,1F 宴會廳 / 書房,defense,Frost | Pulse | Jager | Maestro | Oryx | Goyo,Azami | Jager | Valkyrie | Ela | Mira | Aruni
+villa-11.json,villa,villa-b1,B1 地窖 / 酒窖,attack,Thermite | Buck | Zero | Twitch | Hibana | Finka,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+villa-11.json,villa,villa-b1,B1 地窖 / 酒窖,defense,Smoke | Bandit | Lesion | Maestro | Caveira | Jager,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+yacht-10.json,yacht,yacht-3f,3F 雷達室 / 地圖室,attack,Hibana | Sledge | Ash | Amaru | Ying | Thatcher,Ace | Ram | Thatcher | Buck | Brava | Hibana
+yacht-10.json,yacht,yacht-3f,3F 雷達室 / 地圖室,defense,Bandit | Smoke | Frost | Jager | Valkyrie | Caveira,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+yacht-10.json,yacht,yacht-2f,2F 餐廳 / 廚房,attack,Ace | Buck | Dokkaebi | Zofia | Zero | Fuze,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+yacht-10.json,yacht,yacht-2f,2F 餐廳 / 廚房,defense,Kapkan | Smoke | Echo | Bandit | Oryx | Jager,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
+yacht-10.json,yacht,yacht-1f,1F 廁所 / 衣帽間,attack,Hibana | Ash | Jackal | Sens | Iana | Twitch,Ace | Solid Snake | Ram | Dokkaebi | Buck | Brava
+yacht-10.json,yacht,yacht-1f,1F 廁所 / 衣帽間,defense,Lesion | Pulse | Jager | Maestro | Vigil | Goyo,Azami | Jager | Valkyrie | Ela | Mira | Aruni
+yacht-10.json,yacht,yacht-b1,B1 引擎室 / 貨艙,attack,Thermite | Sledge | Twitch | Hibana | Gridlock | Finka,Ace | Solid Snake | Grim | Ram | Dokkaebi | Nomad
+yacht-10.json,yacht,yacht-b1,B1 引擎室 / 貨艙,defense,Smoke | Bandit | Frost | Maestro | Caveira | Jager,Azami | Fenrir | Jager | Valkyrie | Mute | Ela
