@@ -1,0 +1,63 @@
+﻿file,map_id,map_name,site_id,old_name,new_name,old_shortName,new_shortName
+bank-y11s1.json,bank,銀行,bank-2a,2F 行長辦公室 / 開放式辦公區,2F 行長室 / 開放區,行長室,行長室
+bank-y11s1.json,bank,銀行,bank-2b,2F 員工休息室 / 會議室,2F 休息室 / 會議室,休息室,休息室
+bank.json,bank,銀行,bank-2a,2F 行長辦公室 / 開放式辦公區,2F 行長室 / 開放區,行長室,行長室
+bank.json,bank,銀行,bank-2b,2F 員工休息室 / 會議室,2F 休息室 / 會議室,休息室,休息室
+border-2-y11s1.json,border,邊境,border-1a,1F 通風道 / 貨運辦公室,1F 通風道 / 貨運,通風道,通風道
+border-2-y11s1.json,border,邊境,border-1b,1F 海關檢查室 / 物資倉庫,1F 海關 / 物資倉庫,海關,海關
+border-2-y11s1.json,border,邊境,border-2b,2F 衛浴設施 / 出入境辦公室,2F 浴室 / 出入境,衛浴,衛浴
+border-2.json,border,邊境,border-1a,1F 通風道 / 貨運辦公室,1F 通風道 / 貨運,通風道,通風道
+border-2.json,border,邊境,border-1b,1F 海關檢查室 / 物資倉庫,1F 海關 / 物資倉庫,海關,海關
+border-2.json,border,邊境,border-2b,2F 衛浴設施 / 出入境辦公室,2F 浴室 / 出入境,衛浴,衛浴
+chalet-27-y11s1.json,chalet,木屋,chal-b,B1 酒窖 / 雪地車庫,B1 酒窖 / 雪車庫,酒窖,酒窖
+chalet-27-y11s1.json,chalet,木屋,chal-2,2F 主臥室 / 辦公室,2F 主臥 / 辦公室,主臥,主臥
+chalet-27.json,chalet,木屋,chal-b,B1 酒窖 / 雪地車庫,B1 酒窖 / 雪車庫,酒窖,酒窖
+chalet-27.json,chalet,木屋,chal-2,2F 主臥室 / 辦公室,2F 主臥 / 辦公室,主臥,主臥
+closequarter-8-y11s1.json,closequarter,近戰特區,closequarter-2f,2F 廚房 / 餐廳,2F 廚房 / 餐廳,廚房/餐廳,廚房 / 餐廳
+closequarter-8-y11s1.json,closequarter,近戰特區,closequarter-1f,1F 健身房 / 倉庫,1F 健身房 / 倉庫,健身房/倉庫,健身房 / 倉庫
+closequarter-8.json,closequarter,近戰特區,closequarter-2f,2F 廚房 / 餐廳,2F 廚房 / 餐廳,廚房/餐廳,廚房 / 餐廳
+closequarter-8.json,closequarter,近戰特區,closequarter-1f,1F 健身房 / 倉庫,1F 健身房 / 倉庫,健身房/倉庫,健身房 / 倉庫
+consulate-24-y11s1.json,consulate,領事館,cons-2b,2F 開放式辦公區 / 列印室,2F 開放區 / 列印室,開放辦公,開放辦公
+consulate-24.json,consulate,領事館,cons-2b,2F 開放式辦公區 / 列印室,2F 開放區 / 列印室,開放辦公,開放辦公
+district-9-y11s1.json,district,戰區,district-1f-a,1F 餐廳廚房 / 主廳,1F 廚房餐廳 / 主廳,廚房/主廳,廚房 / 主廳
+district-9-y11s1.json,district,戰區,district-1f-b,1F 酒吧 / 後台,1F 酒吧 / 後台,酒吧/後台,酒吧 / 後台
+district-9.json,district,戰區,district-1f-a,1F 餐廳廚房 / 主廳,1F 廚房餐廳 / 主廳,廚房/主廳,廚房 / 主廳
+district-9.json,district,戰區,district-1f-b,1F 酒吧 / 後台,1F 酒吧 / 後台,酒吧/後台,酒吧 / 後台
+emerald-23-y11s1.json,emerald,綠寶石平原,em-2a,2F 行政辦公室 / 執行長辦公室,2F 行政辦公室 / 執行長室,行政辦,行政辦
+emerald-23.json,emerald,綠寶石平原,em-2a,2F 行政辦公室 / 執行長辦公室,2F 行政辦公室 / 執行長室,行政辦,行政辦
+favela-22-y11s1.json,favela,貧民窟,fav-2,2F 包裝室 / 主臥室,2F 包裝室 / 主臥,包裝室,包裝室
+favela-22.json,favela,貧民窟,fav-2,2F 包裝室 / 主臥室,2F 包裝室 / 主臥,包裝室,包裝室
+house-21-y11s1.json,house,芝加哥豪宅,house-2,2F 兒童房 / 主臥室,2F 兒童房 / 主臥,主臥,主臥
+house-21.json,house,芝加哥豪宅,house-2,2F 兒童房 / 主臥室,2F 兒童房 / 主臥,主臥,主臥
+kafe-5-y11s1.json,kafe,杜斯妥也夫斯基咖啡館,kafe-2b,2F 閱讀室 / 燈光廊,2F 閱覽室 / 燈光廊,閱讀室,閱覽室
+kafe-5.json,kafe,杜斯妥也夫斯基咖啡館,kafe-2b,2F 閱讀室 / 燈光廊,2F 閱覽室 / 燈光廊,閱讀室,閱覽室
+stadium-a-6-y11s1.json,stadium-a,體育場 A,stadium-a-2f,2F 貴賓室 / 走廊,2F 貴賓室 / 走廊,貴賓室/走廊,貴賓室 / 走廊
+stadium-a-6-y11s1.json,stadium-a,體育場 A,stadium-a-1f,1F 儲藏室 / 更衣室,1F 儲藏室 / 更衣室,儲藏室/更衣室,儲藏室 / 更衣室
+stadium-a-6.json,stadium-a,體育場 A,stadium-a-2f,2F 貴賓室 / 走廊,2F 貴賓室 / 走廊,貴賓室/走廊,貴賓室 / 走廊
+stadium-a-6.json,stadium-a,體育場 A,stadium-a-1f,1F 儲藏室 / 更衣室,1F 儲藏室 / 更衣室,儲藏室/更衣室,儲藏室 / 更衣室
+stadium-b-7-y11s1.json,stadium-b,體育場 B,stadium-b-2f,2F 控制室 / 媒體室,2F 控制室 / 媒體室,控制室/媒體室,控制室 / 媒體室
+stadium-b-7-y11s1.json,stadium-b,體育場 B,stadium-b-1f,1F 球員休息室 / 醫療室,1F 球員休息室 / 醫療室,球員休息室/醫療室,球員休息室 / 醫療室
+stadium-b-7.json,stadium-b,體育場 B,stadium-b-2f,2F 控制室 / 媒體室,2F 控制室 / 媒體室,控制室/媒體室,控制室 / 媒體室
+stadium-b-7.json,stadium-b,體育場 B,stadium-b-1f,1F 球員休息室 / 醫療室,1F 球員休息室 / 醫療室,球員休息室/醫療室,球員休息室 / 醫療室
+tower-12-y11s1.json,tower,塔樓,tower-2f,2F 鹿角室 / 茶室,2F 鹿角室 / 茶室,鹿角/茶室,鹿角 / 茶室
+tower-12-y11s1.json,tower,塔樓,tower-1f,1F 展示室 / 接待室,1F 展示室 / 接待室,展示/接待,展示 / 接待
+tower-12-y11s1.json,tower,塔樓,tower-b1,B1 發電機室 / 儲藏室,B1 發電機室 / 儲藏室,發電/儲藏,發電 / 儲藏
+tower-12.json,tower,塔樓,tower-2f,2F 鹿角室 / 茶室,2F 鹿角室 / 茶室,鹿角/茶室,鹿角 / 茶室
+tower-12.json,tower,塔樓,tower-1f,1F 展示室 / 接待室,1F 展示室 / 接待室,展示/接待,展示 / 接待
+tower-12.json,tower,塔樓,tower-b1,B1 發電機室 / 儲藏室,B1 發電機室 / 儲藏室,發電/儲藏,發電 / 儲藏
+villa-11-y11s1.json,villa,別墅,villa-2f,2F 遊戲室 / 創作室,2F 遊戲室 / 創作室,遊戲/創作,遊戲 / 創作
+villa-11-y11s1.json,villa,別墅,villa-1f-a,1F 台球室 / 廚房,1F 台球室 / 廚房,台球/廚房,台球 / 廚房
+villa-11-y11s1.json,villa,別墅,villa-1f-b,1F 宴會廳 / 書房,1F 宴會廳 / 書房,宴會/書房,宴會 / 書房
+villa-11-y11s1.json,villa,別墅,villa-b1,B1 地窖 / 酒窖,B1 地窖 / 酒窖,地窖/酒窖,地窖 / 酒窖
+villa-11.json,villa,別墅,villa-2f,2F 遊戲室 / 創作室,2F 遊戲室 / 創作室,遊戲/創作,遊戲 / 創作
+villa-11.json,villa,別墅,villa-1f-a,1F 台球室 / 廚房,1F 台球室 / 廚房,台球/廚房,台球 / 廚房
+villa-11.json,villa,別墅,villa-1f-b,1F 宴會廳 / 書房,1F 宴會廳 / 書房,宴會/書房,宴會 / 書房
+villa-11.json,villa,別墅,villa-b1,B1 地窖 / 酒窖,B1 地窖 / 酒窖,地窖/酒窖,地窖 / 酒窖
+yacht-10-y11s1.json,yacht,遊艇,yacht-3f,3F 雷達室 / 地圖室,3F 雷達室 / 地圖室,雷達/地圖,雷達 / 地圖
+yacht-10-y11s1.json,yacht,遊艇,yacht-2f,2F 餐廳 / 廚房,2F 餐廳 / 廚房,餐廳/廚房,餐廳 / 廚房
+yacht-10-y11s1.json,yacht,遊艇,yacht-1f,1F 廁所 / 衣帽間,1F 廁所 / 衣帽間,廁所/衣帽間,廁所 / 衣帽間
+yacht-10-y11s1.json,yacht,遊艇,yacht-b1,B1 引擎室 / 貨艙,B1 引擎室 / 貨艙,引擎/貨艙,引擎 / 貨艙
+yacht-10.json,yacht,遊艇,yacht-3f,3F 雷達室 / 地圖室,3F 雷達室 / 地圖室,雷達/地圖,雷達 / 地圖
+yacht-10.json,yacht,遊艇,yacht-2f,2F 餐廳 / 廚房,2F 餐廳 / 廚房,餐廳/廚房,餐廳 / 廚房
+yacht-10.json,yacht,遊艇,yacht-1f,1F 廁所 / 衣帽間,1F 廁所 / 衣帽間,廁所/衣帽間,廁所 / 衣帽間
+yacht-10.json,yacht,遊艇,yacht-b1,B1 引擎室 / 貨艙,B1 引擎室 / 貨艙,引擎/貨艙,引擎 / 貨艙
