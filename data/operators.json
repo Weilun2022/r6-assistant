@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Ace",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "開牆",
+      "泛用"
+    ],
+    "appearances": 58
+  },
+  {
+    "name": "Ash",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "進點",
+      "泛用"
+    ],
+    "appearances": 74
+  },
+  {
+    "name": "Bandit",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "點內",
+      "反投擲物"
+    ],
+    "appearances": 7
+  },
+  {
+    "name": "Buck",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "垂直",
+      "泛用"
+    ],
+    "appearances": 35
+  },
+  {
+    "name": "Dokkaebi",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "情報"
+    ],
+    "appearances": 10
+  },
+  {
+    "name": "Gridlock",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "控側翼"
+    ],
+    "appearances": 6
+  },
+  {
+    "name": "Hibana",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "開牆"
+    ],
+    "appearances": 2
+  },
+  {
+    "name": "Iana",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "情報",
+      "泛用"
+    ],
+    "appearances": 39
+  },
+  {
+    "name": "Jager",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "反投擲物",
+      "泛用"
+    ],
+    "appearances": 69
+  },
+  {
+    "name": "Lesion",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "拖時間",
+      "情報"
+    ],
+    "appearances": 48
+  },
+  {
+    "name": "Mira",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "點內"
+    ],
+    "appearances": 4
+  },
+  {
+    "name": "Mozzie",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "情報"
+    ],
+    "appearances": 6
+  },
+  {
+    "name": "Mute",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "點內",
+      "反投擲物"
+    ],
+    "appearances": 15
+  },
+  {
+    "name": "Nomad",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "控側翼"
+    ],
+    "appearances": 105
+  },
+  {
+    "name": "Sledge",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "垂直",
+      "泛用"
+    ],
+    "appearances": 21
+  },
+  {
+    "name": "Smoke",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "點內",
+      "拖時間"
+    ],
+    "appearances": 47
+  },
+  {
+    "name": "Thermite",
+    "sides": [
+      "attack"
+    ],
+    "roles": [
+      "開牆"
+    ],
+    "appearances": 16
+  },
+  {
+    "name": "Valkyrie",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "情報"
+    ],
+    "appearances": 52
+  },
+  {
+    "name": "Vigil",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "遊走"
+    ],
+    "appearances": 100
+  },
+  {
+    "name": "Wamai",
+    "sides": [
+      "defense"
+    ],
+    "roles": [
+      "反投擲物",
+      "點內"
+    ],
+    "appearances": 18
+  }
+]

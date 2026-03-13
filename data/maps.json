@@ -1,0 +1,929 @@
+[
+  {
+    "id": "clubhouse",
+    "name": "俱樂部會所",
+    "nameEN": "Clubhouse",
+    "aliases": [
+      "會所",
+      "club",
+      "clubhouse",
+      "俱樂部"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "club-b",
+        "name": "B1 教堂 / 武器庫",
+        "floor": "B1",
+        "shortName": "地下室"
+      },
+      {
+        "id": "club-1a",
+        "name": "1F 吧台 / 車庫",
+        "floor": "1F",
+        "shortName": "吧台"
+      },
+      {
+        "id": "club-1b",
+        "name": "1F 現金室 / CCTV",
+        "floor": "1F",
+        "shortName": "現金室"
+      },
+      {
+        "id": "club-2",
+        "name": "2F 臥室 / 健身房",
+        "floor": "2F",
+        "shortName": "臥室"
+      }
+    ]
+  },
+  {
+    "id": "bank",
+    "name": "銀行",
+    "nameEN": "Bank",
+    "aliases": [
+      "bank",
+      "銀行"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "bank-b",
+        "name": "B1 金庫 / 金庫走廊",
+        "floor": "B1",
+        "shortName": "金庫"
+      },
+      {
+        "id": "bank-1a",
+        "name": "1F 大廳開放區 / 出納",
+        "floor": "1F",
+        "shortName": "出納"
+      },
+      {
+        "id": "bank-1b",
+        "name": "1F CEO辦公室 / 經理室",
+        "floor": "1F",
+        "shortName": "CEO"
+      },
+      {
+        "id": "bank-2",
+        "name": "2F 執行休息室 / 會議室",
+        "floor": "2F",
+        "shortName": "休息室"
+      }
+    ]
+  },
+  {
+    "id": "kafe",
+    "name": "杜斯妥也夫斯基咖啡館",
+    "nameEN": "Kafe Dostoyevsky",
+    "aliases": [
+      "咖啡館",
+      "kafe",
+      "cafe",
+      "咖啡",
+      "dostoyevsky"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "kafe-1",
+        "name": "1F 廚房 / 麵包區",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "kafe-2a",
+        "name": "2F 壁爐廳 / 採礦室",
+        "floor": "2F",
+        "shortName": "壁爐廳"
+      },
+      {
+        "id": "kafe-2b",
+        "name": "2F 閱讀室 / 壁爐廳",
+        "floor": "2F",
+        "shortName": "閱讀室"
+      },
+      {
+        "id": "kafe-3",
+        "name": "3F 酒吧 / 雞尾酒廳",
+        "floor": "3F",
+        "shortName": "酒吧"
+      }
+    ]
+  },
+  {
+    "id": "border",
+    "name": "邊境",
+    "nameEN": "Border",
+    "aliases": [
+      "border",
+      "邊境"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "border-1a",
+        "name": "1F 通風口 / 物流辦公室",
+        "floor": "1F",
+        "shortName": "通風口"
+      },
+      {
+        "id": "border-1b",
+        "name": "1F 海關查驗室 / 物品供應室",
+        "floor": "1F",
+        "shortName": "海關"
+      },
+      {
+        "id": "border-2a",
+        "name": "2F 軍械庫 / 檔案室",
+        "floor": "2F",
+        "shortName": "軍械庫"
+      },
+      {
+        "id": "border-2b",
+        "name": "2F 浴室 / 出入境管理辦公室",
+        "floor": "2F",
+        "shortName": "浴室"
+      }
+    ]
+  },
+  {
+    "id": "coastline",
+    "name": "海岸線",
+    "nameEN": "Coastline",
+    "aliases": [
+      "coastline",
+      "海岸",
+      "海岸線"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "coast-1a",
+        "name": "1F 廚房 / 服務入口",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "coast-1b",
+        "name": "1F 藍色吧台 / 日落吧台",
+        "floor": "1F",
+        "shortName": "藍色吧台"
+      },
+      {
+        "id": "coast-2a",
+        "name": "2F 大廳 / 劇場",
+        "floor": "2F",
+        "shortName": "劇場"
+      },
+      {
+        "id": "coast-2b",
+        "name": "2F 鉤環休息室 / 水煙吧",
+        "floor": "2F",
+        "shortName": "鉤環"
+      }
+    ]
+  },
+  {
+    "id": "consulate",
+    "name": "領事館",
+    "nameEN": "Consulate",
+    "aliases": [
+      "consulate",
+      "領館",
+      "領事館",
+      "領事"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "cons-b",
+        "name": "B1 車庫 / 食堂",
+        "floor": "B1",
+        "shortName": "車庫"
+      },
+      {
+        "id": "cons-1",
+        "name": "1F 大廳 / 新聞室",
+        "floor": "1F",
+        "shortName": "大廳"
+      },
+      {
+        "id": "cons-2a",
+        "name": "2F 領事辦公室 / 會議室",
+        "floor": "2F",
+        "shortName": "領事辦"
+      },
+      {
+        "id": "cons-2b",
+        "name": "2F 管理員辦公室 / 列印室",
+        "floor": "2F",
+        "shortName": "管理辦"
+      }
+    ]
+  },
+  {
+    "id": "oregon",
+    "name": "奧勒岡鄉間屋宅",
+    "nameEN": "Oregon",
+    "aliases": [
+      "oregon",
+      "奧勒岡",
+      "鄉間"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "ore-b",
+        "name": "B1 洗衣室 / 供應室",
+        "floor": "B1",
+        "shortName": "地下室"
+      },
+      {
+        "id": "ore-1a",
+        "name": "1F 廚房 / 餐廳",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "ore-1b",
+        "name": "1F 會議室 / 大廳",
+        "floor": "1F",
+        "shortName": "會議室"
+      },
+      {
+        "id": "ore-2",
+        "name": "2F 兒童宿舍 / 宿舍",
+        "floor": "2F",
+        "shortName": "宿舍"
+      }
+    ]
+  },
+  {
+    "id": "chalet",
+    "name": "木屋",
+    "nameEN": "Chalet",
+    "aliases": [
+      "chalet",
+      "木屋",
+      "小木屋"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "chal-b",
+        "name": "B1 雪地車庫 / 酒窖",
+        "floor": "B1",
+        "shortName": "地下室"
+      },
+      {
+        "id": "chal-1a",
+        "name": "1F 廚房 / 餐廳",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "chal-1b",
+        "name": "1F 酒吧 / 遊戲室",
+        "floor": "1F",
+        "shortName": "酒吧"
+      },
+      {
+        "id": "chal-2",
+        "name": "2F 主臥室 / 辦公室",
+        "floor": "2F",
+        "shortName": "主臥室"
+      }
+    ]
+  },
+  {
+    "id": "villa",
+    "name": "別墅",
+    "nameEN": "Villa",
+    "aliases": [
+      "villa",
+      "別墅"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "villa-1a",
+        "name": "1F 客廳 / 圖書館",
+        "floor": "1F",
+        "shortName": "客廳"
+      },
+      {
+        "id": "villa-1b",
+        "name": "1F 餐廳 / 廚房",
+        "floor": "1F",
+        "shortName": "餐廳"
+      },
+      {
+        "id": "villa-2a",
+        "name": "2F 天文室 / 遊戲室",
+        "floor": "2F",
+        "shortName": "天文室"
+      },
+      {
+        "id": "villa-2b",
+        "name": "2F 飛行員室 / 獎盃室",
+        "floor": "2F",
+        "shortName": "飛行員室"
+      }
+    ]
+  },
+  {
+    "id": "themepark",
+    "name": "主題樂園",
+    "nameEN": "Theme Park",
+    "aliases": [
+      "theme park",
+      "themepark",
+      "樂園",
+      "主題"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "tp-1a",
+        "name": "1F 藥店 / 大廳",
+        "floor": "1F",
+        "shortName": "藥店"
+      },
+      {
+        "id": "tp-1b",
+        "name": "1F 實驗室 / 辦公室",
+        "floor": "1F",
+        "shortName": "實驗室"
+      },
+      {
+        "id": "tp-2a",
+        "name": "2F 行政辦公室 / 鐵軌",
+        "floor": "2F",
+        "shortName": "行政辦"
+      },
+      {
+        "id": "tp-2b",
+        "name": "2F 日間托兒 / 火車",
+        "floor": "2F",
+        "shortName": "托兒所"
+      }
+    ]
+  },
+  {
+    "id": "skyscraper",
+    "name": "摩天大樓",
+    "nameEN": "Skyscraper",
+    "aliases": [
+      "skyscraper",
+      "摩天大樓",
+      "摩天",
+      "大樓"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "sky-1a",
+        "name": "1F 廚房 / 餐廳",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "sky-1b",
+        "name": "1F 茶室 / 龍",
+        "floor": "1F",
+        "shortName": "茶室"
+      },
+      {
+        "id": "sky-2a",
+        "name": "2F 辦公室 / 展覽室",
+        "floor": "2F",
+        "shortName": "辦公室"
+      },
+      {
+        "id": "sky-2b",
+        "name": "2F 工作區 / 貨倉",
+        "floor": "2F",
+        "shortName": "工作區"
+      }
+    ]
+  },
+  {
+    "id": "outback",
+    "name": "荒漠",
+    "nameEN": "Outback",
+    "aliases": [
+      "outback",
+      "荒漠"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "out-1a",
+        "name": "1F 自然室 / 維修站",
+        "floor": "1F",
+        "shortName": "自然室"
+      },
+      {
+        "id": "out-1b",
+        "name": "1F 黨組室 / 辦公室",
+        "floor": "1F",
+        "shortName": "黨組室"
+      },
+      {
+        "id": "out-2a",
+        "name": "2F 洗衣室 / 遊戲室",
+        "floor": "2F",
+        "shortName": "洗衣室"
+      },
+      {
+        "id": "out-2b",
+        "name": "2F 辦公室 / 閣樓",
+        "floor": "2F",
+        "shortName": "閣樓"
+      }
+    ]
+  },
+  {
+    "id": "kanal",
+    "name": "運河",
+    "nameEN": "Kanal",
+    "aliases": [
+      "kanal",
+      "canal",
+      "運河"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "kan-1a",
+        "name": "1F 服務器室 / 機房",
+        "floor": "1F",
+        "shortName": "服務器室"
+      },
+      {
+        "id": "kan-1b",
+        "name": "1F 海岸警衛辦公室 / 候船室",
+        "floor": "1F",
+        "shortName": "海岸警衛"
+      },
+      {
+        "id": "kan-2a",
+        "name": "2F 雷達室 / 地圖室",
+        "floor": "2F",
+        "shortName": "雷達室"
+      },
+      {
+        "id": "kan-2b",
+        "name": "2F 管制室 / 休息室",
+        "floor": "2F",
+        "shortName": "管制室"
+      }
+    ]
+  },
+  {
+    "id": "house",
+    "name": "芝加哥豪宅",
+    "nameEN": "House",
+    "aliases": [
+      "house",
+      "豪宅",
+      "芝加哥"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "house-b",
+        "name": "B1 健身房 / 車庫",
+        "floor": "B1",
+        "shortName": "地下室"
+      },
+      {
+        "id": "house-1",
+        "name": "1F 客廳 / 餐廳",
+        "floor": "1F",
+        "shortName": "客廳"
+      },
+      {
+        "id": "house-2",
+        "name": "2F 兒童房 / 主臥室",
+        "floor": "2F",
+        "shortName": "兒童房"
+      }
+    ]
+  },
+  {
+    "id": "hereford",
+    "name": "赫里福基地",
+    "nameEN": "Hereford Base",
+    "aliases": [
+      "hereford",
+      "赫里福",
+      "基地"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "here-b",
+        "name": "B1 彈藥庫 / 補給站",
+        "floor": "B1",
+        "shortName": "彈藥庫"
+      },
+      {
+        "id": "here-1",
+        "name": "1F 教室 / 大廳",
+        "floor": "1F",
+        "shortName": "教室"
+      },
+      {
+        "id": "here-2",
+        "name": "2F 宿舍 / 辦公室",
+        "floor": "2F",
+        "shortName": "宿舍"
+      }
+    ]
+  },
+  {
+    "id": "plane",
+    "name": "總統專機",
+    "nameEN": "Presidential Plane",
+    "aliases": [
+      "plane",
+      "專機",
+      "總統",
+      "飛機",
+      "presidential"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "plane-m",
+        "name": "中段 會議室 / 辦公室",
+        "floor": "M",
+        "shortName": "會議室"
+      },
+      {
+        "id": "plane-f",
+        "name": "前段 駕駛艙 / 貴賓室",
+        "floor": "F",
+        "shortName": "駕駛艙"
+      },
+      {
+        "id": "plane-r",
+        "name": "後段 貨艙 / 行李區",
+        "floor": "R",
+        "shortName": "貨艙"
+      }
+    ]
+  },
+  {
+    "id": "yacht",
+    "name": "遊艇",
+    "nameEN": "Yacht",
+    "aliases": [
+      "yacht",
+      "遊艇"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "yacht-1a",
+        "name": "1F 廚房 / 餐廳",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "yacht-2a",
+        "name": "2F 駕駛台 / 更衣室",
+        "floor": "2F",
+        "shortName": "駕駛台"
+      },
+      {
+        "id": "yacht-2b",
+        "name": "2F 臥室 / 浴室",
+        "floor": "2F",
+        "shortName": "臥室"
+      }
+    ]
+  },
+  {
+    "id": "favela",
+    "name": "貧民窟",
+    "nameEN": "Favela",
+    "aliases": [
+      "favela",
+      "貧民窟",
+      "貧民"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "fav-1",
+        "name": "1F 生物危害 / 倉庫",
+        "floor": "1F",
+        "shortName": "生物危害"
+      },
+      {
+        "id": "fav-2",
+        "name": "2F 包裝室 / 主臥",
+        "floor": "2F",
+        "shortName": "包裝室"
+      },
+      {
+        "id": "fav-3",
+        "name": "3F 足球公寓 / 閣樓",
+        "floor": "3F",
+        "shortName": "足球公寓"
+      }
+    ]
+  },
+  {
+    "id": "tower",
+    "name": "塔樓",
+    "nameEN": "Tower",
+    "aliases": [
+      "tower",
+      "塔樓",
+      "高塔"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "tow-1a",
+        "name": "1F 餐廳 / 鳥籠",
+        "floor": "1F",
+        "shortName": "餐廳"
+      },
+      {
+        "id": "tow-1b",
+        "name": "1F 茶室 / 酒吧",
+        "floor": "1F",
+        "shortName": "茶室"
+      },
+      {
+        "id": "tow-2",
+        "name": "2F CEO辦公室 / 展覽室",
+        "floor": "2F",
+        "shortName": "CEO"
+      }
+    ]
+  },
+  {
+    "id": "fortress",
+    "name": "要塞",
+    "nameEN": "Fortress",
+    "aliases": [
+      "fortress",
+      "要塞"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "fort-1a",
+        "name": "1F 大廳 / 書房",
+        "floor": "1F",
+        "shortName": "大廳"
+      },
+      {
+        "id": "fort-1b",
+        "name": "1F 廚房 / 餐廳",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "fort-2",
+        "name": "2F 臥室 / 指揮室",
+        "floor": "2F",
+        "shortName": "臥室"
+      }
+    ]
+  },
+  {
+    "id": "emerald",
+    "name": "綠寶石平原",
+    "nameEN": "Emerald Plains",
+    "aliases": [
+      "emerald",
+      "emerald plains",
+      "綠寶石",
+      "平原"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "em-1a",
+        "name": "1F 餐廳 / 宴會廳",
+        "floor": "1F",
+        "shortName": "餐廳"
+      },
+      {
+        "id": "em-1b",
+        "name": "1F 廚房 / 維修區",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "em-2a",
+        "name": "2F 行政辦公室 / CEO辦公室",
+        "floor": "2F",
+        "shortName": "行政辦"
+      },
+      {
+        "id": "em-2b",
+        "name": "2F 特藏展覽室 / 禮品區",
+        "floor": "2F",
+        "shortName": "特藏展覽"
+      }
+    ]
+  },
+  {
+    "id": "nighthaven",
+    "name": "Nighthaven 實驗室",
+    "nameEN": "Nighthaven Labs",
+    "aliases": [
+      "nighthaven",
+      "labs",
+      "實驗室",
+      "nh"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "nh-b",
+        "name": "B1 儲槽區 / 組裝間",
+        "floor": "B1",
+        "shortName": "儲槽區"
+      },
+      {
+        "id": "nh-1a",
+        "name": "1F 控制室 / 儲藏室",
+        "floor": "1F",
+        "shortName": "控制室"
+      },
+      {
+        "id": "nh-1b",
+        "name": "1F 廚房 / 餐廳",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "nh-2",
+        "name": "2F 指揮中心 / 伺服器室",
+        "floor": "2F",
+        "shortName": "指揮中心"
+      }
+    ]
+  },
+  {
+    "id": "lair",
+    "name": "賊窩",
+    "nameEN": "Lair",
+    "aliases": [
+      "lair",
+      "賊窩"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "lair-1a",
+        "name": "1F 車間 / 貨物區",
+        "floor": "1F",
+        "shortName": "車間"
+      },
+      {
+        "id": "lair-1b",
+        "name": "1F 服務器室 / 研究區",
+        "floor": "1F",
+        "shortName": "服務器室"
+      },
+      {
+        "id": "lair-2",
+        "name": "2F 辦公室 / 會議室",
+        "floor": "2F",
+        "shortName": "辦公室"
+      }
+    ]
+  },
+  {
+    "id": "closequarter",
+    "name": "近戰特區",
+    "nameEN": "Close Quarter",
+    "aliases": [
+      "close quarter",
+      "cq",
+      "近戰",
+      "特區"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "cq-1",
+        "name": "1F 訓練室 / 走廊",
+        "floor": "1F",
+        "shortName": "訓練室"
+      },
+      {
+        "id": "cq-2",
+        "name": "2F 辦公室 / 休息室",
+        "floor": "2F",
+        "shortName": "辦公室"
+      }
+    ]
+  },
+  {
+    "id": "stadium-a",
+    "name": "體育場 A",
+    "nameEN": "Stadium Alpha",
+    "aliases": [
+      "stadium alpha",
+      "stadium a",
+      "體育場a",
+      "體育場 a"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "sta-1a",
+        "name": "1F 播報室 / 安保室",
+        "floor": "1F",
+        "shortName": "播報室"
+      },
+      {
+        "id": "sta-1b",
+        "name": "1F 浴室 / 更衣室",
+        "floor": "1F",
+        "shortName": "浴室"
+      },
+      {
+        "id": "sta-2",
+        "name": "2F VIP休息室 / 辦公室",
+        "floor": "2F",
+        "shortName": "VIP"
+      }
+    ]
+  },
+  {
+    "id": "stadium-b",
+    "name": "體育場 B",
+    "nameEN": "Stadium Bravo",
+    "aliases": [
+      "stadium bravo",
+      "stadium b",
+      "體育場b",
+      "體育場 b"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "stb-1a",
+        "name": "1F 紀念品商店 / 走廊",
+        "floor": "1F",
+        "shortName": "紀念品店"
+      },
+      {
+        "id": "stb-1b",
+        "name": "1F 廚房 / 餐飲區",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "stb-2",
+        "name": "2F 會議室 / 觀景台",
+        "floor": "2F",
+        "shortName": "會議室"
+      }
+    ]
+  },
+  {
+    "id": "district",
+    "name": "戰區",
+    "nameEN": "District",
+    "aliases": [
+      "district",
+      "戰區",
+      "warfare"
+    ],
+    "tier": "full",
+    "sites": [
+      {
+        "id": "dist-1a",
+        "name": "1F 酒吧 / 儲藏室",
+        "floor": "1F",
+        "shortName": "酒吧"
+      },
+      {
+        "id": "dist-1b",
+        "name": "1F 廚房 / 辦公室",
+        "floor": "1F",
+        "shortName": "廚房"
+      },
+      {
+        "id": "dist-2",
+        "name": "2F 臥室 / 浴室",
+        "floor": "2F",
+        "shortName": "臥室"
+      }
+    ]
+  }
+]

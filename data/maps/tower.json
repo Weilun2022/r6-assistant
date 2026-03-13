@@ -1,0 +1,318 @@
+{
+  "id": "tower",
+  "name": "塔樓",
+  "nameEN": "Tower",
+  "aliases": ["tower", "塔樓", "Tower"],
+  "sites": [
+    {
+      "id": "tower-2f",
+      "name": "2F 鹿角室 / 茶室",
+      "floor": "2F",
+      "shortName": "鹿角/茶室",
+      "attack": {
+        "topTasks": ["控制屋頂天窗優勢", "打開關鍵牆壁創造攻擊點", "追蹤並清除遊走守衛", "建立垂直壓制縮小防守活動範圍", "在衝擊前消除外圍防守工事"],
+        "commonMistakes": ["忽視屋頂天窗防守導致遭受垂直壓制", "過早進入據點被Smoke煙霧彈困住", "分散兵力被各個擊破", "忽視梯井電磁干擾損失人員", "沒有情報掩護直接衝點"],
+        "operators": [
+          {
+            "name": "Hibana",
+            "reason": "快速打開屋頂和牆壁，建立垂直進攻通道",
+            "tips": ["X-KAIROS 炸彈優先破除屋頂天窗", "配合Thermite交叉打牆確保進攻路線", "保持距離躲避防守反火"],
+            "alternatives": ["Thermite", "Maverick"],
+            "roles": ["硬突破"]
+          },
+          {
+            "name": "Ash",
+            "reason": "快速摧毀防守工事和陷阱，推進控制點",
+            "tips": ["優先破除Jager防榴彈架", "靈活移動規避Smoke和Lesion陷阱", "火力掩護隊友衝點"],
+            "alternatives": ["Zofia"],
+            "roles": ["軟突破", "先鋒"]
+          },
+          {
+            "name": "Jackal",
+            "reason": "追蹤遊走守衛足跡，提供實時情報支持",
+            "tips": ["掃描足跡提前預警遊走位置", "與隊友協調定點獲取高價值目標", "注意不要被Caveira伏擊"],
+            "alternatives": ["Dokkaebi", "Lion"],
+            "roles": ["情報"]
+          },
+          {
+            "name": "Ying",
+            "reason": "在屋頂和走廊製造煙霧混亂，遮蔽防守視線",
+            "tips": ["超聲閃光彈配合隊友突破", "利用煙霧掩護梯井推進", "注意Goyo炸彈和Maestro監控"],
+            "alternatives": ["Fuze"],
+            "roles": ["干擾", "煙霧"]
+          },
+          {
+            "name": "Thermite",
+            "reason": "破除加固牆壁，創造多進攻通道",
+            "tips": ["優先破除屋頂加固牆", "與Hibana配合確保突破效率", "保持距離躲避反火"],
+            "alternatives": ["Ace"],
+            "roles": ["硬突破"]
+          },
+          {
+            "name": "Thatcher",
+            "reason": "禁用Bandit和Jager防守工事，支援隊友突破",
+            "tips": ["EMP脈衝優先禁用梯井電氣防守", "為Hibana/Thermite掃清障礙", "在關鍵時刻使用確保推進順利"],
+            "alternatives": ["Twitch"],
+            "roles": ["干擾"]
+          }
+        ]
+      },
+      "defense": {
+        "topTasks": ["控制屋頂天窗防止垂直壓制", "在走廊和入口設置陷阱延緩進攻", "維持多角度監控掌握攻擊方動向", "強化關鍵牆壁抵擋硬突破", "遊走清側翼打亂攻擊方計劃"],
+        "commonMistakes": ["屋頂防守過度分散導致據點空虛", "過早使用Smoke煙霧彈浪費資源", "遊走走位不當被追蹤", "忽視上層窗戶被Ying混亂", "多人集中同一點被Fuze集火"],
+        "operators": [
+          {
+            "name": "Bandit",
+            "reason": "電氣強化梯井和關鍵牆壁，防止Thermite突破",
+            "tips": ["優先防護東側梯井和關鍵牆面", "電池跳躍防止Thatcher EMP", "配合Jager形成層級防守"],
+            "alternatives": ["Wamai"],
+            "roles": ["強化", "反突破"]
+          },
+          {
+            "name": "Smoke",
+            "reason": "遙控煙霧彈封守關鍵點位，延緩衝擊",
+            "tips": ["在鹿角室和茶室交界放置煙霧", "延遲使用在敵方衝擊時困住他們", "配合隊友輸出最大化"],
+            "alternatives": ["Goyo"],
+            "roles": ["拖時間", "據點"]
+          },
+          {
+            "name": "Caveira",
+            "reason": "遊走清側翼和走廊，伏擊高價值目標",
+            "tips": ["控制屋頂樓梯伏擊Hibana等突破手", "利用無聲移動規避情報掃描", "獲得情報後幫助隊友定點"],
+            "alternatives": ["Vigil", "Oryx"],
+            "roles": ["遊走"]
+          },
+          {
+            "name": "Jager",
+            "reason": "防榴彈架防止Ash和手榴彈進攻",
+            "tips": ["覆蓋屋頂和走廊主要進攻軸線", "與Bandit配合層級防守", "注意Twitch無人機清點"],
+            "alternatives": ["Wamai"],
+            "roles": ["投擲物反制"]
+          },
+          {
+            "name": "Valkyrie",
+            "reason": "黑眼監控屋頂和外部，提供全方位情報",
+            "tips": ["屋頂外部放置監控掌握攻擊動向", "走廊內放置預警進攻推進", "注意Twitch無人機位置"],
+            "alternatives": ["Echo", "Maestro"],
+            "roles": ["情報"]
+          },
+          {
+            "name": "Kapkan",
+            "reason": "在入口和走廊設陷阱，削弱進攻方",
+            "tips": ["梯井出口放置陷阱攔截推進", "走廊轉角設置預警", "配合其他防守工事增加傷害"],
+            "alternatives": ["Frost"],
+            "roles": ["封鎖"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tower-1f",
+      "name": "1F 展示室 / 接待室",
+      "floor": "1F",
+      "shortName": "展示/接待",
+      "attack": {
+        "topTasks": ["控制展示室和接待室之間的走廊", "打開展示室加固牆創造進攻通道", "建立垂直掩護確保地板進攻點", "清除走廊陷阱和防守裝置", "協調多點進攻分散防守兵力"],
+        "commonMistakes": ["無視梯井防守直接衝點", "被Kapkan陷阱連續擊殺", "忽視Caveira遊走被伏擊", "過度依賴天花板進攻被Smoke控制", "分散進攻被各個擊破"],
+        "operators": [
+          {
+            "name": "Ace",
+            "reason": "快速破除加固牆壁，創造多進攻點",
+            "tips": ["優先破除展示室西面加固牆", "配合隊友協同打開多個洞口", "保持後退位置躲避反火"],
+            "alternatives": ["Hibana", "Thermite"],
+            "roles": ["硬突破"]
+          },
+          {
+            "name": "Buck",
+            "reason": "開鑿地板天花板創造垂直進攻優勢",
+            "tips": ["與2F隊友配合開天花板加強壓制", "開鑿展示室上方地板創造掩護", "躲避Lesion和Smoke區域"],
+            "alternatives": ["Sledge"],
+            "roles": ["垂直壓制"]
+          },
+          {
+            "name": "Twitch",
+            "reason": "無人機清點防守工事和監控攝像頭",
+            "tips": ["優先清點Jager防榴彈架", "掃描走廊避免陷阱傷害", "最後無人機衝點開啟優勢"],
+            "alternatives": ["IQ"],
+            "roles": ["情報"]
+          },
+          {
+            "name": "Zofia",
+            "reason": "集爆炸傷害和瓦解防守工事",
+            "tips": ["步槍彈摧毀Kapkan陷阱", "衝擊彈消除Lesion釘子", "衝擊彈支援隊友衝擊"],
+            "alternatives": ["Ash"],
+            "roles": ["軟突破"]
+          },
+          {
+            "name": "Iana",
+            "reason": "全息投影迷惑防守提供戰術信息",
+            "tips": ["投影探測走廊和據點情報", "利用投影掩護隊友推進", "注意Maestro激光摧毀投影"],
+            "alternatives": ["Dokkaebi"],
+            "roles": ["情報"]
+          },
+          {
+            "name": "Sens",
+            "reason": "放射性導彈遮蔽防守視線，直接進攻",
+            "tips": ["在走廊中央放置遮蔽視線", "掩護隊友衝擊據點", "配合Smoke形成完全視線阻斷"],
+            "alternatives": ["Ying"],
+            "roles": ["煙霧"]
+          }
+        ]
+      },
+      "defense": {
+        "topTasks": ["封鎖展示室和接待室之間通道", "在走廊部署陷阱和防守工事", "維持走廊防線掌握進攻時機", "強化展示室牆壁防止突破", "多角度監控掌握敵方推進"],
+        "commonMistakes": ["走廊防守過度分散被逐點消滅", "陷阱放置位置太明顯無效", "Smoke過早使用導致冷卻期內無法防守", "遊走走位不當被追蹤", "集中防守被垂直壓制繞開"],
+        "operators": [
+          {
+            "name": "Lesion",
+            "reason": "釘子陷阱在走廊延緩進攻並提供情報",
+            "tips": ["走廊轉角和入口放置釘子", "追蹤中毒敵人位置", "延遲使用保持全場覆蓋"],
+            "alternatives": ["Kapkan"],
+            "roles": ["封鎖", "情報"]
+          },
+          {
+            "name": "Pulse",
+            "reason": "心跳掃瞄器監控走廊進攻動向",
+            "tips": ["監控走廊預警敵方推進", "心跳峰值時刻提醒隊友", "配合遊走伏擊高價值目標"],
+            "alternatives": ["Valkyrie"],
+            "roles": ["情報"]
+          },
+          {
+            "name": "Frost",
+            "reason": "Bear Trap在窗戶和走廊設置陷阱",
+            "tips": ["展示室窗戶外放置陷阱", "走廊轉角設置預警", "配合Lesion形成雙重陷阱"],
+            "alternatives": ["Kapkan"],
+            "roles": ["封鎖"]
+          },
+          {
+            "name": "Jager",
+            "reason": "防榴彈架保護走廊和據點防線",
+            "tips": ["走廊關鍵點部署防榴彈架", "覆蓋接待室窗戶", "與防守工事配合延緩進攻"],
+            "alternatives": ["Wamai"],
+            "roles": ["投擲物反制"]
+          },
+          {
+            "name": "Caveira",
+            "reason": "遊走伏擊走廊和側翼敵人",
+            "tips": ["控制接待室側翼伏擊", "利用無聲移動規避追蹤", "獲得情報支援隊友防守"],
+            "alternatives": ["Vigil"],
+            "roles": ["遊走"]
+          },
+          {
+            "name": "Maestro",
+            "reason": "邪眼監控走廊和窗戶，支援防守",
+            "tips": ["監控展示室窗戶進攻", "走廊監控預警敵方推進", "激光支援隊友輸出"],
+            "alternatives": ["Echo"],
+            "roles": ["情報"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tower-b1",
+      "name": "B1 發電機室 / 儲藏室",
+      "floor": "B1",
+      "shortName": "發電/儲藏",
+      "attack": {
+        "topTasks": ["控制發電機室和儲藏室出入口", "打開地下樓梯和通道加固牆", "建立多方向進攻確保優勢", "清除陷阱確保隊友安全推進", "在衝擊前完全摧毀防守工事"],
+        "commonMistakes": ["忽視地下多入口被分批消滅", "被Smoke煙霧彈困住無法推進", "無視梯井防守直接衝點", "陷阱傷害積累導致人員大幅減少", "進攻節奏不當被防守各個擊破"],
+        "operators": [
+          {
+            "name": "Thermite",
+            "reason": "快速破除地下加固牆創造進攻通道",
+            "tips": ["優先破除發電機室西面牆", "與Hibana交叉打牆確保推進", "保持隊友掩護位置躲避反火"],
+            "alternatives": ["Ace"],
+            "roles": ["硬突破"]
+          },
+          {
+            "name": "Sledge",
+            "reason": "快速開鑿地板和牆壁創造垂直進攻",
+            "tips": ["開鑿地下樓梯上方地板創造掩護", "破除牆壁創造進攻路線", "靈活移動規避Lesion和陷阱"],
+            "alternatives": ["Buck"],
+            "roles": ["垂直壓制"]
+          },
+          {
+            "name": "Dokkaebi",
+            "reason": "駭客通訊禁用防守監控和信息",
+            "tips": ["黑掉Maestro和Valkyrie監控", "電話打樓上防守官員暴露位置", "配合隊友在敵人混亂時推進"],
+            "alternatives": ["Lion"],
+            "roles": ["干擾", "情報"]
+          },
+          {
+            "name": "Hibana",
+            "reason": "快速打開多個加固洞口創造進攻優勢",
+            "tips": ["優先破除發電機室關鍵牆", "配合Thermite確保突破效率", "保持安全距離躲避反火"],
+            "alternatives": ["Ace"],
+            "roles": ["硬突破"]
+          },
+          {
+            "name": "Gridlock",
+            "reason": "震撼陷阱在走廊延緩防守和偵測",
+            "tips": ["走廊中央放置陷阱延緩進攻", "發動陷阱時隊友推進", "配合情報幹員確保有效性"],
+            "alternatives": ["Nomad"],
+            "roles": ["控側翼"]
+          },
+          {
+            "name": "Thatcher",
+            "reason": "禁用防守電氣工事支援突破",
+            "tips": ["EMP脈衝禁用Bandit電池", "掃清梯井防守障礙", "在關鍵推進時刻使用"],
+            "alternatives": ["Twitch"],
+            "roles": ["干擾"]
+          }
+        ]
+      },
+      "defense": {
+        "topTasks": ["控制地下多出入口建立防線", "在走廊放置陷阱延緩進攻", "強化發電機室和儲藏室牆壁", "維持多角度監控掌握敵方動向", "遊走清側翼打亂敵方計劃"],
+        "commonMistakes": ["防守點位分散被逐點擊殺", "陷阱過多導致移動受限", "Smoke過早使用冷卻期無法防守", "遊走走位不當被追蹤消滅", "集中一個點被垂直壓制繞開"],
+        "operators": [
+          {
+            "name": "Smoke",
+            "reason": "遙控煙霧彈在據點封守關鍵通道",
+            "tips": ["發電機室和儲藏室交界放置", "衝擊時刻使用困住敵方", "配合隊友輸出最大化傷害"],
+            "alternatives": ["Goyo"],
+            "roles": ["拖時間", "據點"]
+          },
+          {
+            "name": "Bandit",
+            "reason": "電氣強化牆壁防止Thermite突破",
+            "tips": ["發電機室主牆面電池防護", "跳躍防止EMP脈衝", "配合Jager形成防守層級"],
+            "alternatives": ["Wamai"],
+            "roles": ["強化", "反突破"]
+          },
+          {
+            "name": "Kapkan",
+            "reason": "機關陷阱在入口走廊設置防線",
+            "tips": ["梯井和通道出口放置陷阱", "走廊轉角設置預警", "與Lesion配合雙重延遲"],
+            "alternatives": ["Frost"],
+            "roles": ["封鎖"]
+          },
+          {
+            "name": "Maestro",
+            "reason": "邪眼監控走廊和進攻路線",
+            "tips": ["監控發電機室入口進攻動向", "走廊掩護點放置備用監控", "激光支援隊友防守"],
+            "alternatives": ["Echo"],
+            "roles": ["情報"]
+          },
+          {
+            "name": "Oryx",
+            "reason": "遊走清側翼和走廊伏擊敵人",
+            "tips": ["控制梯井下方伏擊高價值目標", "利用牆壁冒險規避追蹤", "伏擊Sledge等突破手"],
+            "alternatives": ["Caveira", "Vigil"],
+            "roles": ["遊走"]
+          },
+          {
+            "name": "Jager",
+            "reason": "防榴彈架覆蓋據點防止手榴彈進攻",
+            "tips": ["據點中央放置防榴彈架", "走廊覆蓋預防手榴彈投擲", "與電氣工事配合強化防守"],
+            "alternatives": ["Wamai"],
+            "roles": ["投擲物反制"]
+          }
+        ]
+      }
+    }
+  ],
+  "generalTactics": {
+    "attack": "Tower為垂直優勢地圖，攻擊方應優先控制屋頂和上層天窗建立垂直壓制，利用Hibana/Thermite打開關鍵牆壁創造多進攻通道，使用Jackal追蹤遊走清除威脅，Ying/Fuze製造混亂。建議多點進攻分散防守兵力，利用垂直優勢從多個角度同時壓制據點。",
+    "defense": "防守應控制屋頂和梯井防止垂直壓制，利用Smoke/Goyo在據點口封守，Bandit/Jager強化電氣防守防止突破，Valkyrie/Echo/Maestro多角度監控掌握敵方動向。遊走清側翼用Caveira伏擊高價值目標，Kapkan/Frost設置陷阱延緩進攻，形成分層防守網絡。"
+  }
+}
