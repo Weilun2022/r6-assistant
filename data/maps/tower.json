@@ -829,6 +829,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "site-3",
+      "name": "一樓 餐廳 / 一樓 鳥室",
+      "floor": "",
+      "shortName": "一樓 餐廳",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      }
     }
   ],
   "generalTactics": {

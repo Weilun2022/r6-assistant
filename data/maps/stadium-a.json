@@ -551,6 +551,46 @@
           }
         ]
       }
+    },
+    {
+      "id": "site-2",
+      "name": "一樓 鋼琴室 / 一樓 客廳",
+      "floor": "",
+      "shortName": "一樓 鋼琴室",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      }
+    },
+    {
+      "id": "site-3",
+      "name": "一樓 廚房 / 一樓 飯廳",
+      "floor": "",
+      "shortName": "一樓 廚房",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      }
     }
   ],
   "generalTactics": {

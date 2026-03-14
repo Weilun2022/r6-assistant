@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "house-b",
-      "name": "二樓 主辦公室 / 二樓 虹彩小隊室",
+      "name": "二樓 玩具車房 / 二樓 粉紅房間",
       "floor": "B1",
       "shortName": "健身房",
       "attack": {
@@ -286,7 +286,7 @@
     },
     {
       "id": "house-1",
-      "name": "一樓 床鋪 / 一樓 簡報室",
+      "name": "二樓 主臥室 / 二樓 玩具車房",
       "floor": "1F",
       "shortName": "客廳",
       "attack": {
@@ -565,7 +565,7 @@
     },
     {
       "id": "house-2",
-      "name": "一樓 武器保養間 / 一樓 軍械室",
+      "name": "一樓 電視間 / 一樓 音樂室",
       "floor": "2F",
       "shortName": "主臥",
       "attack": {
@@ -839,6 +839,26 @@
             ]
           }
         ]
+      }
+    },
+    {
+      "id": "site-3",
+      "name": "地下室 健身房 / 地下室 車庫",
+      "floor": "",
+      "shortName": "地下室 健身房",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
       }
     }
   ],

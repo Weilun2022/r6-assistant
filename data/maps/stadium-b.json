@@ -532,6 +532,46 @@
           }
         ]
       }
+    },
+    {
+      "id": "site-2",
+      "name": "一樓 淋浴間 / 一樓 機房",
+      "floor": "",
+      "shortName": "一樓 淋浴間",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      }
+    },
+    {
+      "id": "site-3",
+      "name": "一樓 用餐區 / 一樓 廚房",
+      "floor": "",
+      "shortName": "一樓 用餐區",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      }
     }
   ],
   "generalTactics": {

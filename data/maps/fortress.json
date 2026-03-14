@@ -841,6 +841,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "site-3",
+      "name": "一樓 土耳其浴場 / 一樓 會客廳",
+      "floor": "",
+      "shortName": "一樓 土耳其浴場",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      }
     }
   ],
   "generalTactics": {

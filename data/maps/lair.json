@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "lair-1a",
-      "name": "1F 車間 / 貨物區",
+      "name": "二樓 主辦公室 / 二樓 虹彩小隊室",
       "floor": "1F",
       "shortName": "車間",
       "attack": {
@@ -285,7 +285,7 @@
     },
     {
       "id": "lair-1b",
-      "name": "1F 伺服器室 / 研究區",
+      "name": "一樓 床鋪 / 一樓 簡報室",
       "floor": "1F",
       "shortName": "伺服器室",
       "attack": {
@@ -563,7 +563,7 @@
     },
     {
       "id": "lair-2",
-      "name": "2F 辦公室 / 會議室",
+      "name": "一樓 武器保養間 / 一樓 軍械室",
       "floor": "2F",
       "shortName": "辦公室",
       "attack": {
@@ -831,6 +831,26 @@
             ]
           }
         ]
+      }
+    },
+    {
+      "id": "site-3",
+      "name": "地下室 實驗支援室 / 地下室 實驗室",
+      "floor": "",
+      "shortName": "地下室 實驗支援室",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
       }
     }
   ],
