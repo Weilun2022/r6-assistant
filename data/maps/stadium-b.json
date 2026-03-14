@@ -30,119 +30,108 @@
         ],
         "operators": [
           {
-            "name": "Osa",
-            "reason": "玻璃屏障提供臨時掩護和進攻支援",
+            "name": "Ace",
+            "reason": "Y11S1 S Tier 硬突破，軟硬牆通吃，SoloQ 首選開牆手",
             "tips": [
-              "在推進時部署屏障",
-              "屏障保護隊友並阻擋敵方射線",
-              "隨時調整屏障位置"
-            ],
-            "alternatives": [
-              "Sens",
-              "Nomad"
+              "主牆優先開在安全角度",
+              "配合 Thatcher/Maverick 先清電牆",
+              "破口後煙霧掩護進點"
             ],
             "roles": [
-              "控側翼"
-            ]
+              "硬突破"
+            ],
+            "priority": "core"
           },
           {
-            "name": "Thermite",
-            "reason": "摧毀點位周圍硬牆開闢主要推進通道，對廚房外側強化牆破壞效率最高",
+            "name": "Sledge",
+            "reason": "S Tier 垂直壓制，榔頭快速打天花板，靜音開孔無預警",
             "tips": [
-              "在控制室周邊的強化牆進行破壞",
-              "確保有充分的掩護火力",
-              "破壞後快速進入掩護位置",
-              "優先從樓下開牆進入"
+              "打天花板建立垂直控制",
+              "靜音開孔偷打防守方",
+              "配合炸彈點上方壓制"
             ],
-            "alternatives": [
-              "Ace",
-              "Hibana",
-              "Thermite",
-              "Iana"
+            "roles": [
+              "垂直壓制",
+              "軟突破"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Maverick",
+            "reason": "Y11S1 S Tier，反 Bandit/Kaid 首選，悄聲開小洞反電牆",
+            "tips": [
+              "小洞反電牆不要開大口",
+              "吹牆配合硬突破幹員",
+              "靜音操作避免暴露位置"
             ],
             "roles": [
               "硬突破",
-              "先鋒"
-            ]
+              "反裝備"
+            ],
+            "priority": "alt"
           },
           {
-            "name": "Sens",
-            "reason": "放射性導彈遮蔽防守視線，直接進攻",
+            "name": "Ram",
+            "reason": "S Tier 垂直壓制，BU-GI 清多層軟牆，配合 Sledge 雙垂直",
             "tips": [
-              "在推進時部署屏障",
-              "屏障可掩護隊友和阻擋敵方視線",
-              "隨時調整屏障位置",
-              "在走廊中央放置遮蔽視線"
-            ],
-            "alternatives": [
-              "Osa",
-              "Nomad",
-              "Ying"
+              "BU-GI 清多層軟牆",
+              "與 Sledge 雙垂直進攻",
+              "壓制守方無法橫向移動"
             ],
             "roles": [
-              "控側翼"
-            ]
-          },
-          {
-            "name": "Ash",
-            "reason": "高機動性快速接近點位並清理防守部署，掌握廚房入口主動權",
-            "tips": [
-              "利用高機動性快速進入",
-              "爆破彈破壞敵方掩護",
-              "快速反應應對突發",
-              "使用R.P.D摧毀軟牆"
-            ],
-            "alternatives": [
-              "IQ",
-              "Zofia",
-              "Sledge",
-              "Nomad"
-            ],
-            "roles": [
-              "軟突破",
-              "先鋒",
-              "情報"
-            ]
-          },
-          {
-            "name": "Amaru",
-            "reason": "繩索快速切入據點進行垂直進攻",
-            "tips": [
-              "使用鉤槍快速進入媒體室",
-              "高機動性適合複雜環境",
-              "快速定位敵方和支援隊友",
-              "利用繩索快速進入高層"
-            ],
-            "alternatives": [
-              "Ash",
-              "IQ",
-              "Nokk"
-            ],
-            "roles": [
-              "先鋒",
-              "垂直壓制"
-            ]
-          },
-          {
-            "name": "Ying",
-            "reason": "閃光彈提供制壓優勢，掩護隊友推進炸彈點",
-            "tips": [
-              "在控制室和媒體室投擲閃光",
-              "制造視覺障礙掩護推進",
-              "多次投擲維持制壓",
-              "在倉庫和健身房投擲閃光彈"
-            ],
-            "alternatives": [
-              "Capitao",
-              "Zofia",
-              "Iana",
-              "Sens"
-            ],
-            "roles": [
+              "垂直壓制",
               "軟突破"
-            ]
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Solid Snake",
+            "reason": "Y11S1 最強 SoloQ 情報，OtaCam 持續偵察無需犧牲自己",
+            "tips": [
+              "OtaCam 投到安全地點持續監控",
+              "標記守方位置給隊友",
+              "操作時保持安全距離"
+            ],
+            "roles": [
+              "情報"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Thatcher",
+            "reason": "EMPs 清除電牆/Mute/Wamai，硬突破前必要支援",
+            "tips": [
+              "EMP 先清 Bandit/Kaid 電流",
+              "再清 Mute 干擾器",
+              "最後清 Wamai/Jäger"
+            ],
+            "roles": [
+              "反裝備"
+            ],
+            "priority": "flex"
+          },
+          {
+            "name": "Zero",
+            "reason": "Argus 鏡頭穿牆情報 + 破壞裝備兩用，垂直壓制後監控點內",
+            "tips": [
+              "Argus 鏡頭射穿牆面監控點內",
+              "同時破壞守方裝備",
+              "垂直壓制後補充情報"
+            ],
+            "roles": [
+              "情報",
+              "反裝備"
+            ],
+            "priority": "flex"
           }
-        ]
+        ],
+        "coreRoles": [
+          "硬突破",
+          "情報",
+          "垂直壓制",
+          "反裝備"
+        ],
+        "tacticNote": "樓梯控制後破牆"
       },
       "defense": {
         "topTasks": [
@@ -162,114 +151,104 @@
         "operators": [
           {
             "name": "Azami",
-            "reason": "流動牆提供臨時掩護和防禦",
+            "reason": "Y11S1 最強全能防守，Kiba 障壁快速重塑交戰線",
             "tips": [
-              "在控制室和媒體室部署流動牆",
-              "快速調整防禦陣地",
-              "支援隊友的防守"
-            ],
-            "alternatives": [
-              "Aruni",
-              "Goyo"
+              "Kiba 障壁收長線改變交戰角度",
+              "快速重塑點內走廊",
+              "配合 Jäger 構建防線"
             ],
             "roles": [
-              "強化"
-            ]
+              "場地控制"
+            ],
+            "priority": "core"
           },
           {
-            "name": "Echo",
-            "reason": "無人攻擊機提供上方視野優勢，遠程消滅推進的攻方幹員",
+            "name": "Jäger",
+            "reason": "ADS 被動反制投擲物，解放隊友設備格，全圖必帶",
             "tips": [
-              "在控制室上方部署無人機",
-              "使用麻醉彈制造優勢",
-              "隱蔽放置無人機",
-              "躲在Hatch上方監視"
-            ],
-            "alternatives": [
-              "Maestro",
-              "Valkyrie",
-              "Mozzie",
-              "Vigil"
-            ],
-            "roles": [
-              "情報",
-              "投擲物反制"
-            ]
-          },
-          {
-            "name": "Oryx",
-            "reason": "高機動性遊走進行快速伏擊和騷擾",
-            "tips": [
-              "在走廊進行快速移動伏擊",
-              "利用機動性規避敵方追蹤",
-              "快速撤退避免被包圍",
-              "在倉庫進行快速移動和伏擊"
-            ],
-            "alternatives": [
-              "Vigil",
-              "Caveira"
-            ],
-            "roles": [
-              "遊走"
-            ]
-          },
-          {
-            "name": "Wamai",
-            "reason": "磁性防禦盤攔截敵方投擲物和槍彈",
-            "tips": [
-              "在多個位置部署磁性盤",
-              "攔截敵方投擲物和閃光彈",
-              "備用盤應對多波攻擊",
-              "在倉庫和健身房部署磁性盤"
-            ],
-            "alternatives": [
-              "Jager",
-              "Thorn"
+              "ADS 分散在多個進入口",
+              "優先保護己方投擲物",
+              "不要浪費在無威脅位置"
             ],
             "roles": [
               "投擲物反制"
-            ]
+            ],
+            "priority": "core"
           },
           {
-            "name": "Kapkan",
-            "reason": "陷阱門裝置在走廊和出入口造成傷害和警示",
+            "name": "Smoke",
+            "reason": "遙控罐拖時間，Rush 點/門口壓力點必帶，時間管理核心",
             "tips": [
-              "在敵方常見路線部署陷阱",
-              "結合隊友防線形成多層網絡",
-              "監控陷阱觸發調整策略",
-              "在敵方常見推進路線部署陷阱"
-            ],
-            "alternatives": [
-              "Lesion",
-              "Thorn",
-              "Goyo",
-              "Frost"
+              "遙控罐放在門口/窗口",
+              "拖到攻方強衝才引爆",
+              "保留最後30秒防衝點"
             ],
             "roles": [
-              "據點"
-            ]
+              "拖時間"
+            ],
+            "priority": "alt"
           },
           {
-            "name": "Pulse",
-            "reason": "心臟感應器偵測攻方位置進行絕對優勢對抗，提供隊友信息支援",
+            "name": "Mute",
+            "reason": "信號干擾器防無人機+破壞工具，封鎖突破路線",
             "tips": [
-              "追蹤進入二樓的攻方",
-              "為隊友提供位置情報",
-              "配合隊友伏擊敵人",
-              "在雪地車庫外圍追蹤攻方進攻路線"
-            ],
-            "alternatives": [
-              "Maestro",
-              "Vigil",
-              "Mozzie",
-              "Solis"
+              "干擾器封鎖無人機進入",
+              "阻擋 Sledge/Buck 軟破",
+              "覆蓋主要突破方向"
             ],
             "roles": [
-              "情報",
-              "遊走"
-            ]
+              "反突破",
+              "投擲物反制"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Bandit",
+            "reason": "電牆拒破核心，地下/硬牆點必帶，與 Kaid 配對",
+            "tips": [
+              "電牆只電強化牆",
+              "配合 Kaid 輪流電牆",
+              "不被 Thatcher EMP 耗盡"
+            ],
+            "roles": [
+              "反突破"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Valkyrie",
+            "reason": "全圖多鏡頭情報網路，SoloQ 情報最穩定選擇",
+            "tips": [
+              "多鏡頭覆蓋全圖死角",
+              "標記攻方位置",
+              "不要第一個 peek"
+            ],
+            "roles": [
+              "情報"
+            ],
+            "priority": "flex"
+          },
+          {
+            "name": "Solis",
+            "reason": "SPECTRE 被動情報偵測攻方裝備，SoloQ 免溝通情報角",
+            "tips": [
+              "被動偵測攻方裝備無需溝通",
+              "SPECTRE 掃描對準進攻方向",
+              "情報傳遞給隊友"
+            ],
+            "roles": [
+              "情報"
+            ],
+            "priority": "flex"
           }
-        ]
+        ],
+        "coreRoles": [
+          "反突破",
+          "場地控制",
+          "投擲物反制",
+          "情報"
+        ],
+        "tacticNote": "Mute 封兩側樓梯"
       }
     },
     {
@@ -294,118 +273,107 @@
         ],
         "operators": [
           {
-            "name": "Ram",
-            "reason": "衝鋒和快速移動能力",
+            "name": "Ace",
+            "reason": "Y11S1 S Tier 硬突破，軟硬牆通吃，SoloQ 首選開牆手",
             "tips": [
-              "利用高速推進進入休息室",
-              "快速清除敵方據點",
-              "配合隊友掩護"
-            ],
-            "alternatives": [
-              "Ash",
-              "Amaru"
+              "主牆優先開在安全角度",
+              "配合 Thatcher/Maverick 先清電牆",
+              "破口後煙霧掩護進點"
             ],
             "roles": [
-              "先鋒"
-            ]
+              "硬突破"
+            ],
+            "priority": "core"
           },
           {
-            "name": "Iana",
-            "reason": "無人機情報掌握吧檯內防守位置和陷阱配置，指導隊友推進策略",
+            "name": "Solid Snake",
+            "reason": "Y11S1 最強 SoloQ 情報，OtaCam 持續偵察無需犧牲自己",
             "tips": [
-              "在安全地點操作無人機",
-              "標記防守方陣地和投擲物",
-              "為主攻方提供實時情報",
-              "操作全息無人機偵察大廳"
-            ],
-            "alternatives": [
-              "Valkyrie",
-              "Nomad",
-              "Twitch",
-              "Flores"
-            ],
-            "roles": [
-              "情報",
-              "垂直壓制"
-            ]
-          },
-          {
-            "name": "Zero",
-            "reason": "屋頂進攻時的關鍵幹員，遠程破壞防守部署和攝像頭",
-            "tips": [
-              "使用無人機進行遠距離偵察",
-              "黑冰爆炸摧毀敵方電子防禦",
-              "保持無人機安全",
-              "從安全位置部署監控無人機"
-            ],
-            "alternatives": [
-              "Twitch",
-              "Flores",
-              "Iana",
-              "Nomad"
-            ],
-            "roles": [
-              "情報",
-              "軟突破"
-            ]
-          },
-          {
-            "name": "Grim",
-            "reason": "生物偵測工具追蹤敵方位置",
-            "tips": [
-              "使用偵測工具定位敵方",
-              "分享情報給隊友",
-              "幫助制定推進策略"
-            ],
-            "alternatives": [
-              "Jackal",
-              "Dokkaebi"
+              "OtaCam 投到安全地點持續監控",
+              "標記守方位置給隊友",
+              "操作時保持安全距離"
             ],
             "roles": [
               "情報"
-            ]
+            ],
+            "priority": "core"
           },
           {
-            "name": "Thermite",
-            "reason": "摧毀點位周圍硬牆開闢主要推進通道，對廚房外側強化牆破壞效率最高",
+            "name": "Sledge",
+            "reason": "S Tier 垂直壓制，榔頭快速打天花板，靜音開孔無預警",
             "tips": [
-              "在控制室周邊的強化牆進行破壞",
-              "確保有充分的掩護火力",
-              "破壞後快速進入掩護位置",
-              "優先從樓下開牆進入"
+              "打天花板建立垂直控制",
+              "靜音開孔偷打防守方",
+              "配合炸彈點上方壓制"
             ],
-            "alternatives": [
-              "Ace",
-              "Hibana",
-              "Thermite",
-              "Iana"
+            "roles": [
+              "垂直壓制",
+              "軟突破"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Maverick",
+            "reason": "Y11S1 S Tier，反 Bandit/Kaid 首選，悄聲開小洞反電牆",
+            "tips": [
+              "小洞反電牆不要開大口",
+              "吹牆配合硬突破幹員",
+              "靜音操作避免暴露位置"
             ],
             "roles": [
               "硬突破",
-              "先鋒"
-            ]
+              "反裝備"
+            ],
+            "priority": "alt"
           },
           {
-            "name": "Flores",
-            "reason": "無人炸彈摧毀防守位置和陷阱，特別是點位外側的防禦工事和銀河系統",
+            "name": "Nomad",
+            "reason": "側翼警戒 Airjab 鎖外圍，讓團隊專注正面突破",
             "tips": [
-              "部署無人機偵察",
-              "爆炸摧毀防守位置",
-              "清除投擲物反制",
-              "爆炸摧毀Mira鏡"
+              "Airjab 放在外圍入口封側翼",
+              "讓隊友專注正面突破",
+              "被觸發時立刻應對"
             ],
-            "alternatives": [
-              "Twitch",
-              "Zero",
-              "Nomad",
-              "IQ"
+            "roles": [
+              "控側翼"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Thatcher",
+            "reason": "EMPs 清除電牆/Mute/Wamai，硬突破前必要支援",
+            "tips": [
+              "EMP 先清 Bandit/Kaid 電流",
+              "再清 Mute 干擾器",
+              "最後清 Wamai/Jäger"
+            ],
+            "roles": [
+              "反裝備"
+            ],
+            "priority": "flex"
+          },
+          {
+            "name": "Zero",
+            "reason": "Argus 鏡頭穿牆情報 + 破壞裝備兩用，垂直壓制後監控點內",
+            "tips": [
+              "Argus 鏡頭射穿牆面監控點內",
+              "同時破壞守方裝備",
+              "垂直壓制後補充情報"
             ],
             "roles": [
               "情報",
-              "軟突破"
-            ]
+              "反裝備"
+            ],
+            "priority": "flex"
           }
-        ]
+        ],
+        "coreRoles": [
+          "硬突破",
+          "情報",
+          "垂直壓制",
+          "控側翼"
+        ],
+        "tacticNote": "頂層窗口先壓制"
       },
       "defense": {
         "topTasks": [
@@ -424,113 +392,106 @@
         ],
         "operators": [
           {
-            "name": "Fenrir",
-            "reason": "心理恐懼裝置控制區域",
+            "name": "Azami",
+            "reason": "Y11S1 最強全能防守，Kiba 障壁快速重塑交戰線",
             "tips": [
-              "在出入口附近部署裝置",
-              "裝置可讓敵方暴露位置或降低移動速度",
-              "隱蔽放置延長有效時間"
-            ],
-            "alternatives": [
-              "Goyo",
-              "Aruni"
+              "Kiba 障壁收長線改變交戰角度",
+              "快速重塑點內走廊",
+              "配合 Jäger 構建防線"
             ],
             "roles": [
-              "據點"
-            ]
+              "場地控制"
+            ],
+            "priority": "core"
           },
           {
-            "name": "Doc",
-            "reason": "治療槍恢復隊友生命值支援防守",
+            "name": "Jäger",
+            "reason": "ADS 被動反制投擲物，解放隊友設備格，全圖必帶",
             "tips": [
-              "持續治療受傷隊友",
-              "在掩護位置進行治療支援",
-              "優先治療受重傷隊友"
-            ],
-            "alternatives": [
-              "Rook",
-              "Thunderbird"
+              "ADS 分散在多個進入口",
+              "優先保護己方投擲物",
+              "不要浪費在無威脅位置"
             ],
             "roles": [
-              "據點"
-            ]
+              "投擲物反制"
+            ],
+            "priority": "core"
           },
           {
             "name": "Smoke",
-            "reason": "毒氣彈駐守點位內側製造防守優勢，逼退攻方推進並造成持續傷害",
+            "reason": "遙控罐拖時間，Rush 點/門口壓力點必帶，時間管理核心",
             "tips": [
-              "在點位內放煙霧阻擋",
-              "保留煙霧給最後防線",
-              "配合Bandit護牆",
-              "在大廳關鍵位置放煙"
-            ],
-            "alternatives": [
-              "Goyo",
-              "Nomad",
-              "Wamai",
-              "Aruni"
+              "遙控罐放在門口/窗口",
+              "拖到攻方強衝才引爆",
+              "保留最後30秒防衝點"
             ],
             "roles": [
-              "據點",
               "拖時間"
-            ]
+            ],
+            "priority": "alt"
           },
           {
-            "name": "Mozzie",
-            "reason": "無人機嵌入提供點位內外的完整視野，預判攻方位置和進攻時機",
+            "name": "Valkyrie",
+            "reason": "全圖多鏡頭情報網路，SoloQ 情報最穩定選擇",
             "tips": [
-              "部署無人機監視關鍵區域",
-              "黑掉攻方無人機",
-              "提供實時位置情報",
-              "部署邪眼在酒吧周邊，竊取敵無人機"
-            ],
-            "alternatives": [
-              "Valkyrie",
-              "Echo",
-              "Maestro",
-              "Vigil"
+              "多鏡頭覆蓋全圖死角",
+              "標記攻方位置",
+              "不要第一個 peek"
             ],
             "roles": [
-              "據點",
-              "反突破"
-            ]
+              "情報"
+            ],
+            "priority": "alt"
           },
           {
-            "name": "Thunderbird",
-            "reason": "遠距離治療支援全隊防守",
+            "name": "Mute",
+            "reason": "信號干擾器防無人機+破壞工具，封鎖突破路線",
             "tips": [
-              "在安全位置部署治療設備",
-              "遠距離治療受傷隊友",
-              "設備隱蔽放置"
-            ],
-            "alternatives": [
-              "Doc",
-              "Rook"
+              "干擾器封鎖無人機進入",
+              "阻擋 Sledge/Buck 軟破",
+              "覆蓋主要突破方向"
             ],
             "roles": [
-              "據點"
-            ]
+              "反突破",
+              "投擲物反制"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Solis",
+            "reason": "SPECTRE 被動情報偵測攻方裝備，SoloQ 免溝通情報角",
+            "tips": [
+              "被動偵測攻方裝備無需溝通",
+              "SPECTRE 掃描對準進攻方向",
+              "情報傳遞給隊友"
+            ],
+            "roles": [
+              "情報"
+            ],
+            "priority": "flex"
           },
           {
             "name": "Goyo",
-            "reason": "近戰防禦者，利用爆炸裝置創造動態防禦",
+            "reason": "Volcán 盾高輸出拖時間，開放空間拖延攻方",
             "tips": [
-              "在酒吧出入口安裝爆炸防禦門",
-              "危急時刻進行自爆防禦打斷敵方推進",
-              "預先計劃自爆位置避免傷及隊友",
-              "在炸彈點周圍放置 Volcan 防盾"
-            ],
-            "alternatives": [
-              "Castle",
-              "Aruni",
-              "Smoke"
+              "Volcán 盾放在開放空間",
+              "攻方進點時引爆",
+              "高輸出拖延時間"
             ],
             "roles": [
-              "據點",
-              "拖時間"
-            ]
+              "拖時間",
+              "場地控制"
+            ],
+            "priority": "flex"
           }
-        ]
+        ],
+        "coreRoles": [
+          "場地控制",
+          "投擲物反制",
+          "情報",
+          "拖時間"
+        ],
+        "tacticNote": "Azami 收窗線"
       }
     },
     {
@@ -541,16 +502,220 @@
       "attack": {
         "topTasks": [],
         "commonMistakes": [],
-        "operators": [],
+        "operators": [
+          {
+            "name": "Ace",
+            "reason": "Y11S1 S Tier 硬突破，軟硬牆通吃，SoloQ 首選開牆手",
+            "tips": [
+              "主牆優先開在安全角度",
+              "配合 Thatcher/Maverick 先清電牆",
+              "破口後煙霧掩護進點"
+            ],
+            "roles": [
+              "硬突破"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Solid Snake",
+            "reason": "Y11S1 最強 SoloQ 情報，OtaCam 持續偵察無需犧牲自己",
+            "tips": [
+              "OtaCam 投到安全地點持續監控",
+              "標記守方位置給隊友",
+              "操作時保持安全距離"
+            ],
+            "roles": [
+              "情報"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Nomad",
+            "reason": "側翼警戒 Airjab 鎖外圍，讓團隊專注正面突破",
+            "tips": [
+              "Airjab 放在外圍入口封側翼",
+              "讓隊友專注正面突破",
+              "被觸發時立刻應對"
+            ],
+            "roles": [
+              "控側翼"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Ying",
+            "reason": "多枚照明彈清點爆發力強，Rush 點進點首選",
+            "tips": [
+              "多枚照明彈同時投入",
+              "隊友配合進點爆發",
+              "Rush 點進點核心用法"
+            ],
+            "roles": [
+              "進點爆發",
+              "控側翼"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Maverick",
+            "reason": "Y11S1 S Tier，反 Bandit/Kaid 首選，悄聲開小洞反電牆",
+            "tips": [
+              "小洞反電牆不要開大口",
+              "吹牆配合硬突破幹員",
+              "靜音操作避免暴露位置"
+            ],
+            "roles": [
+              "硬突破",
+              "反裝備"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Thatcher",
+            "reason": "EMPs 清除電牆/Mute/Wamai，硬突破前必要支援",
+            "tips": [
+              "EMP 先清 Bandit/Kaid 電流",
+              "再清 Mute 干擾器",
+              "最後清 Wamai/Jäger"
+            ],
+            "roles": [
+              "反裝備"
+            ],
+            "priority": "flex"
+          },
+          {
+            "name": "Grim",
+            "reason": "蜂巢炮彈強制偵測側翼，與 Nomad 功能互補",
+            "tips": [
+              "蜂巢炮彈覆蓋側翼走廊",
+              "強制偵測遊走者",
+              "與 Nomad 輪流覆蓋"
+            ],
+            "roles": [
+              "控側翼"
+            ],
+            "priority": "flex"
+          }
+        ],
         "generalTips": [],
-        "videos": []
+        "videos": [],
+        "coreRoles": [
+          "硬突破",
+          "情報",
+          "控側翼",
+          "反裝備"
+        ],
+        "tacticNote": "多入口Rush點"
       },
       "defense": {
         "topTasks": [],
         "commonMistakes": [],
-        "operators": [],
+        "operators": [
+          {
+            "name": "Smoke",
+            "reason": "遙控罐拖時間，Rush 點/門口壓力點必帶，時間管理核心",
+            "tips": [
+              "遙控罐放在門口/窗口",
+              "拖到攻方強衝才引爆",
+              "保留最後30秒防衝點"
+            ],
+            "roles": [
+              "拖時間"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Azami",
+            "reason": "Y11S1 最強全能防守，Kiba 障壁快速重塑交戰線",
+            "tips": [
+              "Kiba 障壁收長線改變交戰角度",
+              "快速重塑點內走廊",
+              "配合 Jäger 構建防線"
+            ],
+            "roles": [
+              "場地控制"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Jäger",
+            "reason": "ADS 被動反制投擲物，解放隊友設備格，全圖必帶",
+            "tips": [
+              "ADS 分散在多個進入口",
+              "優先保護己方投擲物",
+              "不要浪費在無威脅位置"
+            ],
+            "roles": [
+              "投擲物反制"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Melusi",
+            "reason": "蜂巢震盪門口減速，Rush 點反制標配",
+            "tips": [
+              "蜂巢放在門口/窗口",
+              "減速配合 Smoke 引爆",
+              "多個入口各放一個"
+            ],
+            "roles": [
+              "反突破",
+              "拖時間"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Goyo",
+            "reason": "Volcán 盾高輸出拖時間，開放空間拖延攻方",
+            "tips": [
+              "Volcán 盾放在開放空間",
+              "攻方進點時引爆",
+              "高輸出拖延時間"
+            ],
+            "roles": [
+              "拖時間",
+              "場地控制"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Thorn",
+            "reason": "Razorbloom 定向雷達計時引爆，Rush 點反衝補位",
+            "tips": [
+              "Razorbloom 放門框上方",
+              "計時引爆無法躲避",
+              "Rush 點防衝核心"
+            ],
+            "roles": [
+              "拖時間",
+              "投擲物反制"
+            ],
+            "priority": "flex"
+          },
+          {
+            "name": "Lesion",
+            "reason": "Gu 針陷阱持續扣血+情報，遊走點騷擾首選",
+            "tips": [
+              "Gu 針放在遊走路線",
+              "被觸發即知攻方位置",
+              "遊走時找殘血攻方"
+            ],
+            "roles": [
+              "拖時間",
+              "遊走"
+            ],
+            "priority": "flex"
+          }
+        ],
         "generalTips": [],
-        "videos": []
+        "videos": [],
+        "coreRoles": [
+          "拖時間",
+          "投擲物反制",
+          "場地控制",
+          "反突破"
+        ],
+        "tacticNote": "Rush點標準防守"
       }
     },
     {
@@ -561,16 +726,220 @@
       "attack": {
         "topTasks": [],
         "commonMistakes": [],
-        "operators": [],
+        "operators": [
+          {
+            "name": "Ace",
+            "reason": "Y11S1 S Tier 硬突破，軟硬牆通吃，SoloQ 首選開牆手",
+            "tips": [
+              "主牆優先開在安全角度",
+              "配合 Thatcher/Maverick 先清電牆",
+              "破口後煙霧掩護進點"
+            ],
+            "roles": [
+              "硬突破"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Solid Snake",
+            "reason": "Y11S1 最強 SoloQ 情報，OtaCam 持續偵察無需犧牲自己",
+            "tips": [
+              "OtaCam 投到安全地點持續監控",
+              "標記守方位置給隊友",
+              "操作時保持安全距離"
+            ],
+            "roles": [
+              "情報"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Nomad",
+            "reason": "側翼警戒 Airjab 鎖外圍，讓團隊專注正面突破",
+            "tips": [
+              "Airjab 放在外圍入口封側翼",
+              "讓隊友專注正面突破",
+              "被觸發時立刻應對"
+            ],
+            "roles": [
+              "控側翼"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Ying",
+            "reason": "多枚照明彈清點爆發力強，Rush 點進點首選",
+            "tips": [
+              "多枚照明彈同時投入",
+              "隊友配合進點爆發",
+              "Rush 點進點核心用法"
+            ],
+            "roles": [
+              "進點爆發",
+              "控側翼"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Maverick",
+            "reason": "Y11S1 S Tier，反 Bandit/Kaid 首選，悄聲開小洞反電牆",
+            "tips": [
+              "小洞反電牆不要開大口",
+              "吹牆配合硬突破幹員",
+              "靜音操作避免暴露位置"
+            ],
+            "roles": [
+              "硬突破",
+              "反裝備"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Thatcher",
+            "reason": "EMPs 清除電牆/Mute/Wamai，硬突破前必要支援",
+            "tips": [
+              "EMP 先清 Bandit/Kaid 電流",
+              "再清 Mute 干擾器",
+              "最後清 Wamai/Jäger"
+            ],
+            "roles": [
+              "反裝備"
+            ],
+            "priority": "flex"
+          },
+          {
+            "name": "Grim",
+            "reason": "蜂巢炮彈強制偵測側翼，與 Nomad 功能互補",
+            "tips": [
+              "蜂巢炮彈覆蓋側翼走廊",
+              "強制偵測遊走者",
+              "與 Nomad 輪流覆蓋"
+            ],
+            "roles": [
+              "控側翼"
+            ],
+            "priority": "flex"
+          }
+        ],
         "generalTips": [],
-        "videos": []
+        "videos": [],
+        "coreRoles": [
+          "硬突破",
+          "情報",
+          "控側翼",
+          "反裝備"
+        ],
+        "tacticNote": "封閉Rush點"
       },
       "defense": {
         "topTasks": [],
         "commonMistakes": [],
-        "operators": [],
+        "operators": [
+          {
+            "name": "Smoke",
+            "reason": "遙控罐拖時間，Rush 點/門口壓力點必帶，時間管理核心",
+            "tips": [
+              "遙控罐放在門口/窗口",
+              "拖到攻方強衝才引爆",
+              "保留最後30秒防衝點"
+            ],
+            "roles": [
+              "拖時間"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Jäger",
+            "reason": "ADS 被動反制投擲物，解放隊友設備格，全圖必帶",
+            "tips": [
+              "ADS 分散在多個進入口",
+              "優先保護己方投擲物",
+              "不要浪費在無威脅位置"
+            ],
+            "roles": [
+              "投擲物反制"
+            ],
+            "priority": "core"
+          },
+          {
+            "name": "Azami",
+            "reason": "Y11S1 最強全能防守，Kiba 障壁快速重塑交戰線",
+            "tips": [
+              "Kiba 障壁收長線改變交戰角度",
+              "快速重塑點內走廊",
+              "配合 Jäger 構建防線"
+            ],
+            "roles": [
+              "場地控制"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Goyo",
+            "reason": "Volcán 盾高輸出拖時間，開放空間拖延攻方",
+            "tips": [
+              "Volcán 盾放在開放空間",
+              "攻方進點時引爆",
+              "高輸出拖延時間"
+            ],
+            "roles": [
+              "拖時間",
+              "場地控制"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Lesion",
+            "reason": "Gu 針陷阱持續扣血+情報，遊走點騷擾首選",
+            "tips": [
+              "Gu 針放在遊走路線",
+              "被觸發即知攻方位置",
+              "遊走時找殘血攻方"
+            ],
+            "roles": [
+              "拖時間",
+              "遊走"
+            ],
+            "priority": "alt"
+          },
+          {
+            "name": "Melusi",
+            "reason": "蜂巢震盪門口減速，Rush 點反制標配",
+            "tips": [
+              "蜂巢放在門口/窗口",
+              "減速配合 Smoke 引爆",
+              "多個入口各放一個"
+            ],
+            "roles": [
+              "反突破",
+              "拖時間"
+            ],
+            "priority": "flex"
+          },
+          {
+            "name": "Thorn",
+            "reason": "Razorbloom 定向雷達計時引爆，Rush 點反衝補位",
+            "tips": [
+              "Razorbloom 放門框上方",
+              "計時引爆無法躲避",
+              "Rush 點防衝核心"
+            ],
+            "roles": [
+              "拖時間",
+              "投擲物反制"
+            ],
+            "priority": "flex"
+          }
+        ],
         "generalTips": [],
-        "videos": []
+        "videos": [],
+        "coreRoles": [
+          "拖時間",
+          "投擲物反制",
+          "場地控制",
+          "遊走"
+        ],
+        "tacticNote": "多拖時間+陷阱"
       }
     }
   ],
