@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "ore-b",
-      "name": "B1 洗衣房 / 供應室",
+      "name": "二樓 兒童宿舍 / 二樓 宿舍正廳",
       "floor": "B1",
       "shortName": "洗衣房",
       "attack": {
@@ -252,7 +252,7 @@
     },
     {
       "id": "ore-1a",
-      "name": "1F 廚房 / 餐廳",
+      "name": "一樓 廚房 / 一樓 食堂",
       "floor": "1F",
       "shortName": "廚房",
       "attack": {
@@ -495,7 +495,7 @@
     },
     {
       "id": "ore-1b",
-      "name": "1F 會議室 / 大廳",
+      "name": "一樓 會議廳 / 一樓 廚房",
       "floor": "1F",
       "shortName": "會議室",
       "attack": {
@@ -737,7 +737,7 @@
     },
     {
       "id": "ore-2",
-      "name": "2F 兒童宿舍 / 宿舍",
+      "name": "地下室 洗衣間 / 地下室 材料室",
       "floor": "2F",
       "shortName": "宿舍",
       "attack": {

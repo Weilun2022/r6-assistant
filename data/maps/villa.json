@@ -10,9 +10,9 @@
   "sites": [
     {
       "id": "villa-2f",
-      "name": "2F 遊戲室 / 創作室",
+      "name": "二樓 飛行員房 / 二樓 遊戲間",
       "floor": "2F",
-      "shortName": "遊戲 / 創作",
+      "shortName": "遊戲室",
       "attack": {
         "topTasks": [
           "控制遊戲室和創作室走廊位置",
@@ -272,7 +272,7 @@
               "Kapkan"
             ],
             "roles": [
-              "封鎖"
+              "據點"
             ]
           }
         ]
@@ -280,9 +280,9 @@
     },
     {
       "id": "villa-1f-a",
-      "name": "1F 台球室 / 廚房",
+      "name": "二樓 獵物陳列室 / 二樓 雕像室",
       "floor": "1F",
-      "shortName": "台球 / 廚房",
+      "shortName": "撞球室",
       "attack": {
         "topTasks": [
           "控制台球室和廚房之間的主軸線",
@@ -549,7 +549,7 @@
               "Lesion"
             ],
             "roles": [
-              "封鎖"
+              "據點"
             ]
           }
         ]
@@ -557,9 +557,9 @@
     },
     {
       "id": "villa-1f-b",
-      "name": "1F 宴會廳 / 書房",
+      "name": "一樓 客廳 / 一樓 書房",
       "floor": "1F",
-      "shortName": "宴會 / 書房",
+      "shortName": "宴會廳",
       "attack": {
         "topTasks": [
           "控制宴會廳和書房之間走廊",
@@ -833,9 +833,9 @@
     },
     {
       "id": "villa-b1",
-      "name": "B1 地窖 / 酒窖",
+      "name": "一樓 飯廳 / 一樓 廚房",
       "floor": "B1",
-      "shortName": "地窖 / 酒窖",
+      "shortName": "地窖",
       "attack": {
         "topTasks": [
           "控制地窖和酒窖出入口",

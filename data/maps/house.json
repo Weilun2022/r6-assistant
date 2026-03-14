@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "house-b",
-      "name": "B1 健身房 / 車庫",
+      "name": "二樓 主辦公室 / 二樓 虹彩小隊室",
       "floor": "B1",
       "shortName": "健身房",
       "attack": {
@@ -286,7 +286,7 @@
     },
     {
       "id": "house-1",
-      "name": "1F 客廳 / 餐廳",
+      "name": "一樓 床鋪 / 一樓 簡報室",
       "floor": "1F",
       "shortName": "客廳",
       "attack": {
@@ -565,7 +565,7 @@
     },
     {
       "id": "house-2",
-      "name": "2F 兒童房 / 主臥",
+      "name": "一樓 武器保養間 / 一樓 軍械室",
       "floor": "2F",
       "shortName": "主臥",
       "attack": {

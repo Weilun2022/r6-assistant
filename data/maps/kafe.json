@@ -10,7 +10,7 @@
   "sites": [
     {
       "id": "kafe-1",
-      "name": "1F 廚房 / 備餐區",
+      "name": "三樓 吧台 / 三樓 酒吧間",
       "floor": "1F",
       "shortName": "廚房",
       "attack": {
@@ -302,7 +302,7 @@
     },
     {
       "id": "kafe-2a",
-      "name": "2F 壁爐廳 / 採礦室",
+      "name": "二樓 壁爐廳 / 二樓 礦產展覽室",
       "floor": "2F",
       "shortName": "壁爐廳",
       "attack": {
@@ -592,7 +592,7 @@
     },
     {
       "id": "kafe-2b",
-      "name": "2F 閱覽室 / 燈光廊",
+      "name": "二樓 閱覽室 / 二樓 壁爐廳",
       "floor": "2F",
       "shortName": "閱覽室",
       "attack": {
@@ -884,7 +884,7 @@
     },
     {
       "id": "kafe-3",
-      "name": "3F 酒吧廳 / 雞尾酒廊",
+      "name": "一樓 廚房通道 / 一樓 廚房",
       "floor": "3F",
       "shortName": "酒吧廳",
       "attack": {

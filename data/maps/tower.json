@@ -10,9 +10,9 @@
   "sites": [
     {
       "id": "tower-2f",
-      "name": "2F 鹿角室 / 茶室",
+      "name": "二樓 燈籠室 / 二樓 禮品店",
       "floor": "2F",
-      "shortName": "鹿角 / 茶室",
+      "shortName": "鹿角室",
       "attack": {
         "topTasks": [
           "控制屋頂天窗優勢",
@@ -260,7 +260,7 @@
               "Lesion"
             ],
             "roles": [
-              "封鎖"
+              "據點"
             ]
           },
           {
@@ -288,9 +288,9 @@
     },
     {
       "id": "tower-1f",
-      "name": "1F 展示室 / 接待室",
+      "name": "二樓 媒體中心 / 二樓 展覽室",
       "floor": "1F",
-      "shortName": "展示 / 接待",
+      "shortName": "展示室",
       "attack": {
         "topTasks": [
           "控制展示室和接待室之間的走廊",
@@ -471,7 +471,7 @@
               "Kapkan"
             ],
             "roles": [
-              "封鎖"
+              "據點"
             ]
           },
           {
@@ -555,9 +555,9 @@
     },
     {
       "id": "tower-b1",
-      "name": "B1 發電機室 / 儲藏室",
+      "name": "一樓 茶室 / 一樓 酒吧",
       "floor": "B1",
-      "shortName": "發電 / 儲藏",
+      "shortName": "發電機室",
       "attack": {
         "topTasks": [
           "控制發電機室和儲藏室出入口",

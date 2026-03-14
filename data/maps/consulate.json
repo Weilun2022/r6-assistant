@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "cons-b",
-      "name": "B1 車庫 / 食堂",
+      "name": "二樓 領事辦公室 / 二樓 會議室",
       "floor": "B1",
       "shortName": "車庫",
       "attack": {
@@ -288,7 +288,7 @@
     },
     {
       "id": "cons-1",
-      "name": "1F 大廳 / 新聞室",
+      "name": "一樓 展覽廳 / 一樓 鋼琴室",
       "floor": "1F",
       "shortName": "大廳",
       "attack": {
@@ -566,9 +566,9 @@
     },
     {
       "id": "cons-2a",
-      "name": "2F 領事辦公室 / 會議室",
+      "name": "地下室 機房 / 一樓 辦事櫃台",
       "floor": "2F",
-      "shortName": "領事辦",
+      "shortName": "領事辦公室",
       "attack": {
         "topTasks": [
           "從窗外施壓，摧毀防守方的外圍防線",
@@ -842,9 +842,9 @@
     },
     {
       "id": "cons-2b",
-      "name": "2F 開放區 / 列印室",
+      "name": "地下室 餐廳 / 地下室 車庫",
       "floor": "2F",
-      "shortName": "開放辦公",
+      "shortName": "開放辦公區",
       "attack": {
         "topTasks": [
           "清除開放式辦公區的防守陣地",

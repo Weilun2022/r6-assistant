@@ -10,7 +10,7 @@
   "sites": [
     {
       "id": "coast-1a",
-      "name": "1F 廚房 / 服務通道",
+      "name": "二樓 水煙間 / 二樓 撞球間",
       "floor": "1F",
       "shortName": "廚房",
       "attack": {
@@ -303,9 +303,9 @@
     },
     {
       "id": "coast-1b",
-      "name": "1F 藍天吧 / 日落吧",
+      "name": "二樓 頂層房間 / 二樓 電影院",
       "floor": "1F",
-      "shortName": "藍天吧",
+      "shortName": "碧海酒吧",
       "attack": {
         "topTasks": [
           "破壞外窗和軟牆控制大吧檯區域視野",
@@ -593,7 +593,7 @@
     },
     {
       "id": "coast-2a",
-      "name": "2F 大廳 / 劇院",
+      "name": "一樓 廚房 / 一樓 維修入口",
       "floor": "2F",
       "shortName": "大廳",
       "attack": {
@@ -882,9 +882,9 @@
     },
     {
       "id": "coast-2b",
-      "name": "2F 鉤環室 / 水煙吧",
+      "name": "一樓 蔚藍酒吧 / 一樓 日昇酒吧",
       "floor": "2F",
-      "shortName": "鉤環室",
+      "shortName": "鉤形吧",
       "attack": {
         "topTasks": [
           "從屋頂進行垂直破壞威脅防守陣容",

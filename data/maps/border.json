@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "border-1a",
-      "name": "1F 通風道 / 貨運",
+      "name": "二樓 軍械儲物櫃 / 二樓 檔案室",
       "floor": "1F",
       "shortName": "通風道",
       "attack": {
@@ -299,7 +299,7 @@
     },
     {
       "id": "border-1b",
-      "name": "1F 海關 / 物資倉庫",
+      "name": "一樓 通風機房 / 一樓 工作間",
       "floor": "1F",
       "shortName": "海關",
       "attack": {
@@ -589,7 +589,7 @@
     },
     {
       "id": "border-2a",
-      "name": "2F 武器室 / 檔案室",
+      "name": "一樓 浴室 / 一樓 辦事櫃台",
       "floor": "2F",
       "shortName": "武器室",
       "attack": {
@@ -877,9 +877,9 @@
     },
     {
       "id": "border-2b",
-      "name": "2F 浴室 / 出入境",
+      "name": "一樓 驗關台 / 一樓 材料室",
       "floor": "2F",
-      "shortName": "衛浴",
+      "shortName": "浴室",
       "attack": {
         "topTasks": [
           "處理窗戶封鎖和防守火力",

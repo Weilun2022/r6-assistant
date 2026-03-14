@@ -9,9 +9,9 @@
   "sites": [
     {
       "id": "fav-1",
-      "name": "1F 生化危機室 / 倉庫",
+      "name": "二樓 貯藏室 / 二樓 虛擬貨幣農場",
       "floor": "1F",
-      "shortName": "倉庫",
+      "shortName": "化學品室",
       "attack": {
         "topTasks": [
           "控制外部區域，建立進攻陣地",
@@ -287,7 +287,7 @@
     },
     {
       "id": "fav-2",
-      "name": "2F 包裝室 / 主臥",
+      "name": "二樓 虛擬貨幣農場 / 二樓 床鋪",
       "floor": "2F",
       "shortName": "包裝室",
       "attack": {
@@ -399,7 +399,7 @@
               "Gridlock"
             ],
             "roles": [
-              "煙霧"
+              "控側翼"
             ]
           },
           {
@@ -566,7 +566,7 @@
     },
     {
       "id": "fav-3",
-      "name": "3F 足球室 / 閣樓",
+      "name": "一樓 粉紅公寓 / 一樓 粉紅廚房",
       "floor": "3F",
       "shortName": "足球室",
       "attack": {
@@ -840,6 +840,26 @@
             ]
           }
         ]
+      }
+    },
+    {
+      "id": "blue-green",
+      "name": "一樓 藍色臥室 / 一樓 綠色公寓",
+      "floor": "1F",
+      "shortName": "藍色/綠色",
+      "attack": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
+      },
+      "defense": {
+        "topTasks": [],
+        "commonMistakes": [],
+        "operators": [],
+        "generalTips": [],
+        "videos": []
       }
     }
   ],

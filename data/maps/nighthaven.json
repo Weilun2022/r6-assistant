@@ -1,6 +1,6 @@
 {
   "id": "nighthaven",
-  "name": "Nighthaven 實驗室",
+  "name": "NIGHTHAVEN 實驗室",
   "nameEN": "Nighthaven Labs",
   "aliases": [
     "nighthaven",
@@ -10,7 +10,7 @@
   "sites": [
     {
       "id": "nh-b",
-      "name": "B1 儲槽區 / 組裝間",
+      "name": "二樓 指揮中心 / 二樓 機房",
       "floor": "B1",
       "shortName": "儲槽區",
       "attack": {
@@ -279,7 +279,7 @@
     },
     {
       "id": "nh-1a",
-      "name": "1F 控制室 / 儲藏室",
+      "name": "一樓 廚房 / 一樓 餐廳",
       "floor": "1F",
       "shortName": "控制室",
       "attack": {
@@ -554,7 +554,7 @@
     },
     {
       "id": "nh-1b",
-      "name": "1F 廚房 / 餐廳",
+      "name": "一樓 貯藏室 / 一樓 控制室",
       "floor": "1F",
       "shortName": "廚房",
       "attack": {
@@ -824,7 +824,7 @@
     },
     {
       "id": "nh-2",
-      "name": "2F 指揮中心 / 伺服器室",
+      "name": "地下室 組裝間 / 地下室 儲槽存槽",
       "floor": "2F",
       "shortName": "指揮中心",
       "attack": {

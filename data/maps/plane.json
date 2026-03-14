@@ -10,7 +10,7 @@
   "sites": [
     {
       "id": "plane-m",
-      "name": "中段 會議室 / 辦公室",
+      "name": "二樓 主管辦公室 / 二樓 會議室",
       "floor": "中段",
       "shortName": "會議室",
       "attack": {
@@ -254,7 +254,7 @@
     },
     {
       "id": "plane-f",
-      "name": "前段 駕駛艙 / 貴賓廂",
+      "name": "二樓 主管臥室 / 二樓 幕僚辦公區",
       "floor": "前段",
       "shortName": "駕駛艙",
       "attack": {
@@ -497,7 +497,7 @@
     },
     {
       "id": "plane-r",
-      "name": "後段 浴室 / 行李艙",
+      "name": "一樓 貨艙 / 一樓 行李艙",
       "floor": "後段",
       "shortName": "行李艙",
       "attack": {

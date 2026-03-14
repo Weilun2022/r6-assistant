@@ -10,9 +10,9 @@
   "sites": [
     {
       "id": "yacht-3f",
-      "name": "3F 雷達室 / 地圖室",
+      "name": "四樓 駕駛艙 / 四樓 地圖室",
       "floor": "3F",
-      "shortName": "雷達 / 地圖",
+      "shortName": "雷達室",
       "attack": {
         "topTasks": [
           "控制屋頂和上層甲板優勢",
@@ -274,7 +274,7 @@
               "Kapkan"
             ],
             "roles": [
-              "封鎖"
+              "據點"
             ]
           }
         ]
@@ -282,9 +282,9 @@
     },
     {
       "id": "yacht-2f",
-      "name": "2F 餐廳 / 廚房",
+      "name": "二樓 引擎控制室 / 二樓 廚房",
       "floor": "2F",
-      "shortName": "餐廳 / 廚房",
+      "shortName": "餐廳",
       "attack": {
         "topTasks": [
           "控制餐廳和廚房之間走廊",
@@ -555,9 +555,9 @@
     },
     {
       "id": "yacht-1f",
-      "name": "1F 廁所 / 衣帽間",
+      "name": "二樓 餐廳 / 二樓 員工宿舍",
       "floor": "1F",
-      "shortName": "廁所 / 衣帽間",
+      "shortName": "衣帽間",
       "attack": {
         "topTasks": [
           "控制廁所和衣帽間走廊",
@@ -828,9 +828,9 @@
     },
     {
       "id": "yacht-b1",
-      "name": "B1 引擎室 / 貨艙",
+      "name": "一樓 機房 / 一樓 引擎貯藏室",
       "floor": "B1",
-      "shortName": "引擎 / 貨艙",
+      "shortName": "引擎室",
       "attack": {
         "topTasks": [
           "控制引擎室和貨艙出入口",

@@ -10,7 +10,7 @@
   "sites": [
     {
       "id": "em-1a",
-      "name": "1F 酒廊 / 宴會廳",
+      "name": "二樓 管理處 / 二樓 執行長室",
       "floor": "1F",
       "shortName": "酒廊",
       "attack": {
@@ -288,7 +288,7 @@
     },
     {
       "id": "em-1b",
-      "name": "1F 廚房 / 後廚",
+      "name": "二樓 私人藝廊 / 二樓 會議室",
       "floor": "1F",
       "shortName": "廚房",
       "attack": {
@@ -567,9 +567,9 @@
     },
     {
       "id": "em-2a",
-      "name": "2F 行政辦公室 / 執行長室",
+      "name": "一樓 吧台 / 一樓 休息室",
       "floor": "2F",
-      "shortName": "行政辦",
+      "shortName": "行政辦公室",
       "attack": {
         "topTasks": [
           "從窗外施壓，摧毀敵方外圍防線",
@@ -844,7 +844,7 @@
     },
     {
       "id": "em-2b",
-      "name": "2F 展覽廳 / 禮品店",
+      "name": "一樓 飯廳 / 一樓 廚房",
       "floor": "2F",
       "shortName": "展覽廳",
       "attack": {

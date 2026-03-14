@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "out-1a",
-      "name": "1F 機械室 / 生物實驗室",
+      "name": "二樓 洗衣間 / 二樓 鋼琴室",
       "floor": "1F",
       "shortName": "機械室",
       "attack": {
@@ -252,7 +252,7 @@
     },
     {
       "id": "out-1b",
-      "name": "1F 紀念品商店 / 辦公室",
+      "name": "二樓 派對間 / 二樓 辦公室",
       "floor": "1F",
       "shortName": "紀念品店",
       "attack": {
@@ -489,7 +489,7 @@
     },
     {
       "id": "out-2a",
-      "name": "2F 洗衣房 / 遊戲室",
+      "name": "一樓 綠色臥室 / 一樓 紅色臥室",
       "floor": "2F",
       "shortName": "洗衣房",
       "attack": {
@@ -732,7 +732,7 @@
     },
     {
       "id": "out-2b",
-      "name": "2F 總統套房 / 閣樓",
+      "name": "一樓 汽修用品間 / 一樓 廚房",
       "floor": "2F",
       "shortName": "總統套房",
       "attack": {

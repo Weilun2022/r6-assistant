@@ -10,7 +10,7 @@
   "sites": [
     {
       "id": "club-b",
-      "name": "B1 教堂 / 武器庫",
+      "name": "二樓 健身房 / 二樓 臥室",
       "floor": "B1",
       "shortName": "教堂",
       "attack": {
@@ -296,7 +296,7 @@
     },
     {
       "id": "club-1a",
-      "name": "1F 酒吧 / 車庫",
+      "name": "二樓 閉路電視室 / 二樓 現金室",
       "floor": "1F",
       "shortName": "酒吧",
       "attack": {
@@ -584,7 +584,7 @@
     },
     {
       "id": "club-1b",
-      "name": "1F 辦公室 / 大廳",
+      "name": "一樓 吧台 / 一樓 舞台",
       "floor": "1F",
       "shortName": "辦公室",
       "attack": {
@@ -871,7 +871,7 @@
     },
     {
       "id": "club-2",
-      "name": "2F 臥室 / 健身房",
+      "name": "地下室 教堂 / 地下室 武器室",
       "floor": "2F",
       "shortName": "臥室",
       "attack": {

@@ -11,7 +11,7 @@
   "sites": [
     {
       "id": "sky-1a",
-      "name": "1F 廚房 / 備餐室",
+      "name": "二樓 卡拉OK / 二樓 茶室",
       "floor": "1F",
       "shortName": "廚房",
       "attack": {
@@ -210,7 +210,7 @@
     },
     {
       "id": "sky-1b",
-      "name": "1F 茶室 / 龍之間",
+      "name": "二樓 展覽廳 / 二樓 辦公室",
       "floor": "1F",
       "shortName": "茶室",
       "attack": {
@@ -409,7 +409,7 @@
     },
     {
       "id": "sky-2a",
-      "name": "2F 辦公區 / 會客室",
+      "name": "一樓 烤肉區 / 一樓 廚房",
       "floor": "2F",
       "shortName": "辦公區",
       "attack": {
@@ -606,7 +606,7 @@
     },
     {
       "id": "sky-2b",
-      "name": "2F 工作區 / 倉庫",
+      "name": "一樓 臥室 / 一樓 浴室",
       "floor": "2F",
       "shortName": "工作區",
       "attack": {

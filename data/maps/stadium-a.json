@@ -1,6 +1,6 @@
 {
   "id": "stadium-a",
-  "name": "體育場 A",
+  "name": "體育場 2020",
   "nameEN": "Stadium Alpha",
   "aliases": [
     "stadium-a",
@@ -10,9 +10,9 @@
   "sites": [
     {
       "id": "stadium-a-2f",
-      "name": "2F 貴賓室 / 走廊",
+      "name": "二樓 辦公室 / 二樓 打靶室",
       "floor": "2F",
-      "shortName": "貴賓室 / 走廊",
+      "shortName": "貴賓包廂",
       "attack": {
         "topTasks": [
           "利用開闊走廊進行遠距離火力支援",
@@ -280,9 +280,9 @@
     },
     {
       "id": "stadium-a-1f",
-      "name": "1F 儲藏室 / 更衣室",
+      "name": "二樓 兒童宿舍 / 二樓 宿舍",
       "floor": "1F",
-      "shortName": "儲藏室 / 更衣室",
+      "shortName": "更衣室",
       "attack": {
         "topTasks": [
           "快速進入儲藏室和更衣室區域",
@@ -313,7 +313,7 @@
             ],
             "roles": [
               "軟突破",
-              "煙霧"
+              "控側翼"
             ]
           },
           {

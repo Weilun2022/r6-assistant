@@ -11,7 +11,7 @@
   "sites": [
     {
       "id": "tp-1a",
-      "name": "1F 藥局 / 服務中心",
+      "name": "二樓 入會房 / 二樓 辦公室",
       "floor": "1F",
       "shortName": "藥局",
       "attack": {
@@ -208,7 +208,7 @@
     },
     {
       "id": "tp-1b",
-      "name": "1F 爆炸實驗室 / 保全室",
+      "name": "二樓 床鋪 / 二樓 托兒所",
       "floor": "1F",
       "shortName": "爆炸實驗室",
       "attack": {
@@ -407,7 +407,7 @@
     },
     {
       "id": "tp-2a",
-      "name": "2F 辦公室 / 鐵路",
+      "name": "一樓 軍械室 / 一樓 廁所",
       "floor": "2F",
       "shortName": "辦公室",
       "attack": {
@@ -604,7 +604,7 @@
     },
     {
       "id": "tp-2b",
-      "name": "2F 托兒所 / 火車",
+      "name": "一樓 實驗室 / 一樓 儲藏室",
       "floor": "2F",
       "shortName": "托兒所",
       "attack": {

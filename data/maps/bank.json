@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "bank-b",
-      "name": "B1 金庫 / 金庫走廊",
+      "name": "二樓 貴賓室 / 二樓 執行長室",
       "floor": "B1",
       "shortName": "金庫",
       "attack": {
@@ -69,21 +69,6 @@
             ]
           },
           {
-            "name": "Jager",
-            "reason": "防守方空中優勢，主動防禦系統擊落投擲物和無人機",
-            "tips": [
-              "部署AAD在金庫周圍高點",
-              "覆蓋天花板Hatch區域",
-              "站位確保AAD不被摧毀"
-            ],
-            "alternatives": [
-              "Wamai"
-            ],
-            "roles": [
-              "投擲物反制"
-            ]
-          },
-          {
             "name": "Smoke",
             "reason": "提供多點煙霧掩護，保護進地下室路線和炸彈點",
             "tips": [
@@ -100,21 +85,6 @@
             ],
             "roles": [
               "控側翼"
-            ]
-          },
-          {
-            "name": "Bandit",
-            "reason": "電牆防禦是防守金庫點的核心，可電掉Thermite炸藥",
-            "tips": [
-              "必須護住主牆並持續電線",
-              "避免暴露在Twitch無人機視野",
-              "準備後退位置應對EMP"
-            ],
-            "alternatives": [
-              "Kaid"
-            ],
-            "roles": [
-              "反突破"
             ]
           },
           {
@@ -302,7 +272,7 @@
     },
     {
       "id": "bank-1a",
-      "name": "1F 大廳 / 出納",
+      "name": "一樓 行員休息室 / 一樓 開閒區",
       "floor": "1F",
       "shortName": "大廳",
       "attack": {
@@ -593,7 +563,7 @@
     },
     {
       "id": "bank-2a",
-      "name": "2F 行長室 / 開放區",
+      "name": "一樓 櫃台人員辦公室 / 一樓 檔案室",
       "floor": "2F",
       "shortName": "行長室",
       "attack": {
@@ -880,7 +850,7 @@
     },
     {
       "id": "bank-2b",
-      "name": "2F 休息室 / 會議室",
+      "name": "地下室 寄物櫃區 / 地下室 閉路電視室",
       "floor": "2F",
       "shortName": "休息室",
       "attack": {

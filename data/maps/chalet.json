@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "chal-b",
-      "name": "B1 酒窖 / 雪車庫",
+      "name": "二樓 主臥室 / 二樓 辦公室",
       "floor": "B1",
       "shortName": "酒窖",
       "attack": {
@@ -283,7 +283,7 @@
     },
     {
       "id": "chal-1a",
-      "name": "1F 廚房 / 餐廳",
+      "name": "一樓 酒吧 / 一樓 娛樂室",
       "floor": "1F",
       "shortName": "廚房",
       "attack": {
@@ -313,7 +313,7 @@
               "Nomad"
             ],
             "roles": [
-              "煙霧",
+              "控側翼",
               "干擾"
             ]
           },
@@ -560,7 +560,7 @@
     },
     {
       "id": "chal-1b",
-      "name": "1F 酒吧 / 遊戲室",
+      "name": "一樓 廚房 / 一樓 飯廳",
       "floor": "1F",
       "shortName": "酒吧",
       "attack": {
@@ -836,7 +836,7 @@
     },
     {
       "id": "chal-2",
-      "name": "2F 主臥 / 辦公室",
+      "name": "地下室 酒窖 / 地下室 雪機車庫",
       "floor": "2F",
       "shortName": "主臥",
       "attack": {

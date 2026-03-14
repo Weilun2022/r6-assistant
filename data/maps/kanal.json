@@ -9,7 +9,7 @@
   "sites": [
     {
       "id": "kan-1a",
-      "name": "1F 伺服器室 / 機房",
+      "name": "二樓 雷達室 / 二樓 機房",
       "floor": "1F",
       "shortName": "伺服器室",
       "attack": {
@@ -290,9 +290,9 @@
     },
     {
       "id": "kan-1b",
-      "name": "1F 海岸警衛隊辦公室 / 等候區",
+      "name": "一樓 地圖辦公室 / 一樓 警衛室",
       "floor": "1F",
-      "shortName": "海警辦",
+      "shortName": "海警辦公室",
       "attack": {
         "topTasks": [
           "控制一樓外部區域建立進攻陣地",
@@ -571,7 +571,7 @@
     },
     {
       "id": "kan-2a",
-      "name": "2F 雷達室 / 地圖室",
+      "name": "一樓 海巡隊會議室 / 一樓 休息室",
       "floor": "2F",
       "shortName": "雷達室",
       "attack": {
@@ -850,7 +850,7 @@
     },
     {
       "id": "kan-2b",
-      "name": "2F 管制室 / 休息室",
+      "name": "地下一樓 材料室 / 地下一樓 船隻材料區",
       "floor": "2F",
       "shortName": "管制室",
       "attack": {
