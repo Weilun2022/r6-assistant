@@ -11,8 +11,8 @@ const state = {
 };
 
 const MAP_IDS = [
-    'bank','border','chalet','closequarter','clubhouse','coastline',
-    'consulate','district','emerald','favela','fortress','hereford',
+    'bank','border','chalet','clubhouse','coastline',
+    'consulate','emerald','favela','fortress',
     'house','kafe','kanal','lair','nighthaven','oregon','outback',
     'plane','skyscraper','stadium-a','stadium-b','themepark','tower',
     'villa','yacht'
