@@ -15,18 +15,18 @@
       "shortName": "鹿角室",
       "attack": {
         "topTasks": [
-          "控制屋頂天窗優勢",
-          "打開關鍵牆壁創造攻擊點",
-          "追蹤並清除遊走守衛",
-          "建立垂直壓制縮小防守活動範圍",
-          "在衝擊前消除外圍防守工事"
+          "Solid Snake OtaCam 投入 Lantern/Gift Shop 偵察",
+          "Ace 開 Lantern Room 主強化牆，Thatcher 先清電牆",
+          "控制屋頂對 Lantern Room 的垂直制高點",
+          "Nomad 封鎖 Gift Shop 側走廊",
+          "兩路同時施壓兩個入口"
         ],
         "commonMistakes": [
-          "忽視屋頂天窗防守導致遭受垂直壓制",
-          "過早進入據點被Smoke煙霧彈困住",
-          "分散兵力被各個擊破",
-          "忽視梯井電磁干擾損失人員",
-          "沒有情報掩護直接衝點"
+          "電牆沒清就開主牆",
+          "沒有屋頂控制，守方天窗輕鬆 peek",
+          "只走 Lantern 入口",
+          "沒有偵察直接衝點",
+          "側翼不封，守方繞後"
         ],
         "operators": [
           {
@@ -133,18 +133,18 @@
       },
       "defense": {
         "topTasks": [
-          "控制屋頂天窗防止垂直壓制",
-          "在走廊和入口設置陷阱延緩進攻",
-          "維持多角度監控掌握攻擊方動向",
-          "強化關鍵牆壁抵擋硬突破",
-          "遊走清側翼打亂攻擊方計劃"
+          "Bandit + Kaid 電牆覆蓋 Lantern Room 主強化牆",
+          "Jäger ADS 放兩個入口",
+          "一人守屋頂早期騷擾",
+          "Smoke RC 罐守住最後入口",
+          "Azami Kiba 障壁封鎖屋頂長線"
         ],
         "commonMistakes": [
-          "屋頂防守過度分散導致據點空虛",
-          "過早使用Smoke煙霧彈浪費資源",
-          "遊走走位不當被追蹤",
-          "忽視上層窗戶被Ying混亂",
-          "多人集中同一點被Fuze集火"
+          "電牆被清",
+          "屋頂無人守，攻方建立制高點",
+          "Smoke 罐太早炸",
+          "守方全縮點，Gift Shop 方向空門",
+          "Jäger ADS 全堆一個入口"
         ],
         "operators": [
           {
@@ -257,18 +257,18 @@
       "shortName": "展示室",
       "attack": {
         "topTasks": [
-          "控制展示室和接待室之間的走廊",
-          "打開展示室加固牆創造進攻通道",
-          "建立垂直掩護確保地板進攻點",
-          "清除走廊陷阱和防守裝置",
-          "協調多點進攻分散防守兵力"
+          "Solid Snake OtaCam 投入 Media Center/Exhibition 偵察",
+          "Ace 開 Media Center 主強化牆",
+          "控制3樓對 Media Center 的垂直制高點",
+          "Nomad 封鎖 Exhibition 側走廊",
+          "兩路同時施壓兩個入口"
         ],
         "commonMistakes": [
-          "無視梯井防守直接衝點",
-          "被Kapkan陷阱連續擊殺",
-          "忽視Caveira遊走被伏擊",
-          "過度依賴天花板進攻被Smoke控制",
-          "分散進攻被各個擊破"
+          "電牆沒清就開主牆",
+          "沒有3樓垂直制高",
+          "只走 Media 入口",
+          "沒有偵察直接衝點",
+          "側翼不封"
         ],
         "operators": [
           {
@@ -376,18 +376,18 @@
       },
       "defense": {
         "topTasks": [
-          "封鎖展示室和接待室之間通道",
-          "在走廊部署陷阱和防守工事",
-          "維持走廊防線掌握進攻時機",
-          "強化展示室牆壁防止突破",
-          "多角度監控掌握敵方推進"
+          "Bandit + Kaid 電牆覆蓋 Media Center 主強化牆",
+          "Jäger ADS 放兩個入口",
+          "一人在3樓監控垂直",
+          "Smoke RC 罐守住最後入口",
+          "Maestro 電眼架在 Media Center"
         ],
         "commonMistakes": [
-          "走廊防守過度分散被逐點消滅",
-          "陷阱放置位置太明顯無效",
-          "Smoke過早使用導致冷卻期內無法防守",
-          "遊走走位不當被追蹤",
-          "集中防守被垂直壓制繞開"
+          "電牆被清",
+          "沒人守3樓垂直",
+          "Smoke 罐太早炸",
+          "守方全縮點，Exhibition 方向空門",
+          "Maestro 只放點內"
         ],
         "operators": [
           {
@@ -499,18 +499,18 @@
       "shortName": "發電機室",
       "attack": {
         "topTasks": [
-          "控制發電機室和儲藏室出入口",
-          "打開地下樓梯和通道加固牆",
-          "建立多方向進攻確保優勢",
-          "清除陷阱確保隊友安全推進",
-          "在衝擊前完全摧毀防守工事"
+          "Thatcher + Ace 清電牆後攻 Tea Room/Bar 主強化牆",
+          "Solid Snake OtaCam 偵察兩個房間守方",
+          "從2樓打開垂直孔洞",
+          "Ying 照明彈從 Tea Room 和 Bar 入口同時投入",
+          "Nomad 封鎖走廊"
         ],
         "commonMistakes": [
-          "忽視地下多入口被分批消滅",
-          "被Smoke煙霧彈困住無法推進",
-          "無視梯井防守直接衝點",
-          "陷阱傷害積累導致人員大幅減少",
-          "進攻節奏不當被防守各個擊破"
+          "電牆沒清就開主牆",
+          "照明彈只打一個入口",
+          "沒有垂直壓制",
+          "只走一個入口",
+          "沒有偵察直接衝點"
         ],
         "operators": [
           {
@@ -617,18 +617,18 @@
       },
       "defense": {
         "topTasks": [
-          "控制地下多出入口建立防線",
-          "在走廊放置陷阱延緩進攻",
-          "強化發電機室和儲藏室牆壁",
-          "維持多角度監控掌握敵方動向",
-          "遊走清側翼打亂敵方計劃"
+          "Bandit + Kaid 電牆覆蓋兩個房間主強化牆",
+          "Jäger ADS 放兩個入口",
+          "一人在2樓監控垂直",
+          "Smoke RC 罐守住最後入口",
+          "Thorn Razorbloom 掛在 Bar 主門"
         ],
         "commonMistakes": [
-          "防守點位分散被逐點擊殺",
-          "陷阱過多導致移動受限",
-          "Smoke過早使用冷卻期無法防守",
-          "遊走走位不當被追蹤消滅",
-          "集中一個點被垂直壓制繞開"
+          "電牆被清",
+          "沒人守2樓垂直",
+          "Smoke 罐太早炸",
+          "守方全縮點",
+          "Thorn 太早炸"
         ],
         "operators": [
           {
@@ -742,8 +742,20 @@
       "floor": "",
       "shortName": "一樓 餐廳",
       "attack": {
-        "topTasks": [],
-        "commonMistakes": [],
+        "topTasks": [
+          "Thatcher + Ace 清電牆後破 Restaurant/Bird Room 主強化牆",
+          "Maverick 反電牆作備用",
+          "Solid Snake 偵察 Bird Room 守方站位",
+          "從2樓天花板建立垂直威脅",
+          "兩路同時施壓"
+        ],
+        "commonMistakes": [
+          "電牆沒清就開牆，失敗",
+          "沒有垂直壓制，守方換位無壓力",
+          "只走一條路，守方集中守住",
+          "沒有偵察就衝",
+          "開牆手沒人保護"
+        ],
         "operators": [
           {
             "name": "Ace",
@@ -852,8 +864,20 @@
         "tacticNote": "封閉空間反裝備"
       },
       "defense": {
-        "topTasks": [],
-        "commonMistakes": [],
+        "topTasks": [
+          "Bandit + Kaid 電牆覆蓋所有強化牆",
+          "Smoke RC 罐守住最後入口",
+          "Jäger ADS 放在主入口",
+          "一人監控2樓，防垂直",
+          "Mute 干擾器配合電牆封鎖"
+        ],
+        "commonMistakes": [
+          "Bandit 被 Thatcher 打光，Kaid 沒補電",
+          "沒人守2樓，天花板被打穿",
+          "Smoke 罐太早炸",
+          "全員縮 Bird Room，Restaurant 方向被佔",
+          "Mute 干擾器放太裡面"
+        ],
         "operators": [
           {
             "name": "Bandit",

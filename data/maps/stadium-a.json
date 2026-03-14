@@ -15,18 +15,18 @@
       "shortName": "貴賓包廂",
       "attack": {
         "topTasks": [
-          "利用開闊走廊進行遠距離火力支援",
-          "清除貴賓室和周邊的防守方據點",
-          "使用垂直壓制控制上下層",
-          "建立多個進攻路線避免單點突破",
-          "快速定位並破壞炸彈點"
+          "Solid Snake OtaCam 投入 Office/Shooting Range 偵察",
+          "Ace 開 Office 主強化牆，Thatcher 先清電牆",
+          "控制3樓對 Office 的制高點",
+          "Nomad 封鎖 Shooting Range 側走廊",
+          "兩路同時施壓兩個入口"
         ],
         "commonMistakes": [
-          "開放區域暴露導致被遠距離射擊",
-          "沒有充分的掩護和支援推進",
-          "忽視上層防守方射擊視野",
-          "推進路線過於單一被預判",
-          "缺乏協調導致被逐個消滅"
+          "電牆沒清就開主牆",
+          "沒有3樓垂直制高",
+          "只走 Office 入口",
+          "沒有偵察直接衝點",
+          "側翼不封，守方繞後"
         ],
         "operators": [
           {
@@ -134,18 +134,18 @@
       },
       "defense": {
         "topTasks": [
-          "在貴賓室建立密集的防守火線",
-          "利用走廊掩護物進行分散防守",
-          "部署投擲物防禦設施攔截敵方投擲物",
-          "準備狙擊手在走廊進行遠距離支援",
-          "監控多個進攻路線防止側翼"
+          "Bandit + Kaid 電牆覆蓋 Office 主強化牆",
+          "Jäger ADS 放兩個入口",
+          "一人在3樓監控垂直",
+          "Smoke RC 罐守住最後入口",
+          "Azami Kiba 障壁封鎖3樓長線"
         ],
         "commonMistakes": [
-          "防守過於集中在一點被投擲物全滅",
-          "沒有充分利用走廊的掩護",
-          "防守方位置過於明顯被敵方狙擊",
-          "缺乏遊走騷擾導致敵方推進順利",
-          "上層防守方被忽視"
+          "電牆被清",
+          "沒人守3樓垂直",
+          "Smoke 罐太早炸",
+          "守方全縮點，外圍被完全佔領",
+          "Jäger ADS 全堆一個入口"
         ],
         "operators": [
           {
@@ -258,18 +258,18 @@
       "shortName": "更衣室",
       "attack": {
         "topTasks": [
-          "快速進入儲藏室和更衣室區域",
-          "清除防守方密集的防禦據點",
-          "利用開闊空間進行分散推進",
-          "使用硬突破破壞強化結構",
-          "快速拆除炸彈點完成目標"
+          "Sledge/Ram 從3樓打開 Kids/Dorm 天花板垂直路線",
+          "Solid Snake OtaCam 投入 Kids Dorm 偵察",
+          "Ace 開主強化牆，Thatcher 先清電牆",
+          "Nomad 封鎖走廊防守方遊走",
+          "兩路夾攻兩個入口"
         ],
         "commonMistakes": [
-          "在開闊空間受到多角度火力攻擊",
-          "沒有充分的掩護和火力支援",
-          "推進路線預測不當被包圍",
-          "缺乏側翼控制被遊走騷擾",
-          "投擲物和地雷未能有效清理"
+          "沒有3樓垂直，守方站在點內絕對安全",
+          "電牆沒清就開主牆",
+          "只走一條走廊",
+          "沒有偵察直接衝點",
+          "炸彈放下後無人推進"
         ],
         "operators": [
           {
@@ -377,18 +377,18 @@
       },
       "defense": {
         "topTasks": [
-          "在儲藏室和更衣室建立多層防守陣地",
-          "充分利用房間掩護物進行防守",
-          "部署反突破幹員在出入口進行防守",
-          "準備遊走伏擊騷擾敵方推進",
-          "監控炸彈點周圍所有進出點"
+          "Bandit + Kaid 電牆覆蓋主強化牆",
+          "Jäger ADS 放兩個入口",
+          "一人在3樓監控垂直",
+          "Smoke RC 罐守住最後入口",
+          "Azami Kiba 障壁封鎖走廊長線"
         ],
         "commonMistakes": [
-          "防守過於集中易被投擲物全滅",
-          "沒有利用房間的複雜結構",
-          "電子防禦設施覆蓋不足",
-          "遊走推進時機不當被敵方包圍",
-          "缺乏退路導致被困"
+          "沒人守3樓，垂直被打穿",
+          "電牆被清",
+          "Smoke 罐太早炸",
+          "守方全縮點",
+          "Jäger ADS 全堆一個入口"
         ],
         "operators": [
           {
@@ -499,8 +499,20 @@
       "floor": "",
       "shortName": "一樓 鋼琴室",
       "attack": {
-        "topTasks": [],
-        "commonMistakes": [],
+        "topTasks": [
+          "Thatcher + Ace 清電牆後攻 Piano/Living Room 主強化牆",
+          "Solid Snake OtaCam 偵察兩個房間守方站位",
+          "從2樓打開垂直孔洞",
+          "Ying 照明彈從兩個入口同時投入",
+          "Nomad 封鎖連接走廊"
+        ],
+        "commonMistakes": [
+          "電牆沒清就開主牆",
+          "照明彈只打一個入口",
+          "沒有垂直壓制",
+          "只走一個入口",
+          "沒有偵察直接衝點"
+        ],
         "operators": [
           {
             "name": "Solid Snake",
@@ -608,8 +620,20 @@
         "tacticNote": "多窗口側翼鎖定"
       },
       "defense": {
-        "topTasks": [],
-        "commonMistakes": [],
+        "topTasks": [
+          "Bandit + Kaid 電牆覆蓋兩個房間主強化牆",
+          "Jäger ADS 放兩個入口",
+          "一人在2樓監控垂直",
+          "Smoke RC 罐守住最後入口",
+          "Lesion Gu 針放走廊"
+        ],
+        "commonMistakes": [
+          "電牆被清",
+          "沒人守2樓垂直",
+          "Smoke 罐太早炸",
+          "守方全縮點",
+          "Lesion 針全放點內"
+        ],
         "operators": [
           {
             "name": "Azami",
@@ -722,8 +746,20 @@
       "floor": "",
       "shortName": "一樓 廚房",
       "attack": {
-        "topTasks": [],
-        "commonMistakes": [],
+        "topTasks": [
+          "Solid Snake OtaCam 投入 Kitchen/Dining 偵察",
+          "Ace 開 Kitchen 主強化牆，Thatcher 先清電牆",
+          "Ying 照明彈從 Kitchen 和 Dining 入口同時投入",
+          "Nomad 封鎖側走廊",
+          "兩路分攻 Kitchen 和 Dining 入口"
+        ],
+        "commonMistakes": [
+          "電牆沒清就開主牆",
+          "照明彈只打一個入口",
+          "只走 Kitchen 入口，守方集中火力",
+          "沒有偵察直接衝點",
+          "側翼不封"
+        ],
         "operators": [
           {
             "name": "Ace",
@@ -830,8 +866,20 @@
         "tacticNote": "Rush點"
       },
       "defense": {
-        "topTasks": [],
-        "commonMistakes": [],
+        "topTasks": [
+          "Bandit + Kaid 電牆覆蓋 Kitchen 主強化牆",
+          "Jäger ADS 放 Kitchen 和 Dining 入口",
+          "Thorn Razorbloom 掛在 Kitchen 主門",
+          "Smoke RC 罐守住最後入口",
+          "Lesion Gu 針放走廊"
+        ],
+        "commonMistakes": [
+          "電牆被清",
+          "Thorn 太早炸",
+          "Lesion 針全放點內",
+          "Smoke 罐太早爆",
+          "守方全縮點"
+        ],
         "operators": [
           {
             "name": "Smoke",
