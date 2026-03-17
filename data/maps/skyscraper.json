@@ -16,18 +16,18 @@
       "shortName": "廚房",
       "attack": {
         "topTasks": [
-          "Sledge/Ram 打天花板，壓制 Karaoke/Tea 守方",
-          "Ace 開 Karaoke/Tea 強化牆",
-          "Solid Snake 偵察 Tea Room 守方站位",
-          "控制陽台和外圍走廊",
-          "Thatcher 清電牆後立刻讓 Ace 突破"
+          "先拿 Geisha 陽台控制權，這是進攻這點最關鍵的外圍位置",
+          "清掉 Shrine 和 Drum 的守方後，才從多方向夾壓 Tea/Karaoke",
+          "Sledge/Ram 打 2F Geisha 或 Drum 地板，建立垂直壓力逼守方離開核心位",
+          "在 Black Stairs 側安排一人報點，有跡象就讓隊友衝正面",
+          "開 Karaoke→Black 和 Karaoke→Geisha 的 rotate 孔，讓守方沒有安全退路"
         ],
         "commonMistakes": [
-          "天花板沒打，守方換位無壓力",
-          "電牆沒清就開牆",
-          "陽台無人控制，守方從陽台騷擾",
-          "只走一條路，守方集中守住",
-          "開牆手暴露被射殺"
+          "沒先控制 Geisha 就直接推點，在最危險的角度接槍",
+          "忽略 Drum 方向，守方從這裡換位無人察覺",
+          "沒有打開垂直壓制，守方在點內站位非常舒服",
+          "Black Stairs 無人盯，守方從這裡繞後抄殺",
+          "全隊從同一個入口進，Smoke 一顆 RC 罐封死整隊"
         ],
         "operators": [
           {
@@ -134,18 +134,18 @@
       },
       "defense": {
         "topTasks": [
-          "Azami Kiba 障壁封鎖 Tea Room 陽台長線",
-          "Jäger ADS 放在兩個主入口",
-          "一人在陽台早期騷擾，打完立刻退",
-          "Valkyrie 鏡頭覆蓋陽台和外圍",
-          "Smoke RC 罐守住 Karaoke 最後入口"
+          "牢牢控制 Geisha 和 Drum，這兩個位置丟掉就很難守住 Tea/Karaoke",
+          "在 Karaoke→Black 和 Karaoke→Geisha 方向做 rotate 孔，讓守方可以快速換位",
+          "在 Geisha 和 Drum 方向做 feet holes，卡攻方進點視線",
+          "Azami Kiba 障壁封鎖 Geisha 陽台方向的長線",
+          "Smoke RC 罐留到攻方要植彈時才用，不要浪費在早期"
         ],
         "commonMistakes": [
-          "陽台無人，攻方輕鬆建立外圍控制",
-          "障壁太晚放，走廊已被佔",
-          "守方遊走太積極死在外圍",
-          "Smoke 罐引爆太早",
-          "全員縮點，外圍全部丟失"
+          "太早放棄 Geisha 和 Drum，守方被壓縮到點內後很難撐",
+          "Smoke 罐太早引爆，後段植彈階段完全沒牌可打",
+          "沒有做 feet holes，攻方進點視線完全清晰",
+          "守方全員縮點，Geisha 和陽台讓攻方輕鬆建立制高點",
+          "rotate 孔沒做，被包夾時無法換位只能硬接槍"
         ],
         "operators": [
           {
@@ -258,18 +258,18 @@
       "shortName": "茶室",
       "attack": {
         "topTasks": [
-          "Ace 開 Exhibition/Office 強化牆，建立進攻路線",
-          "Sledge 打天花板，建立垂直壓制",
-          "Solid Snake 偵察 Office 守方站位",
-          "控制陽台，封鎖守方遊走",
-          "Zero Argus 鏡頭破壞 Maestro Evil Eye"
+          "優先控制 Terrace（露台）和 Samurai Window，這兩個位置是打開 Office 主牆的關鍵",
+          "Ace 突破 Office 主牆前，確認 Terrace 和 Samurai 已有人壓制守方視線",
+          "利用 Exhibition→Dragon 之間的 head holes 和軟牆，慢慢拆開守方站位",
+          "植彈點通常在 Office 破牆後方區域，需要同時壓制 Exhibition 和 Dragon 方向",
+          "Solid Snake OtaCam 先偵察 Dragon Stairs 守方是否有人守線"
         ],
         "commonMistakes": [
-          "Maestro Evil Eye 沒清就推，被機槍掃射死掉",
-          "天花板沒打，守方換位無壓力",
-          "陽台無人控制，守方騷擾",
-          "只走一條路，守方集中守住",
-          "沒有偵察就衝"
+          "沒有先控制 Terrace 就嘗試開 Office 主牆，開牆手直接暴露被射殺",
+          "Maestro Evil Eye 沒清就推，被機槍封死整條進攻路線",
+          "忽略 Dragon Stairs 方向，守方從這裡偷攻方後方",
+          "只走 Exhibition 入口，守方從 Office 方向輕鬆夾擊",
+          "植彈沒有人壓制 Samurai Window，守方從外部偷植彈者"
         ],
         "operators": [
           {
@@ -377,18 +377,18 @@
       },
       "defense": {
         "topTasks": [
-          "Azami Kiba 障壁封鎖 Exhibition 陽台長線和走廊",
-          "Maestro Evil Eye 放在 Office 走廊末端，控制長線",
-          "Jäger ADS 放在主入口",
-          "一人在陽台早期騷擾，打完立刻退",
-          "Smoke RC 罐守住最後入口"
+          "提早規劃 Office 主牆被打開後的 denial 方案和 rotate 路線",
+          "在 Exhibition 和 Dragon 之間開 head holes 和小 rotate，維持換位能力",
+          "Maestro Evil Eye 放在 Exhibition/Dragon 交叉視線位置，而不是塞在點內",
+          "守方要明確分工：一人顧 Terrace，一人守 Dragon Stairs，避免被單點突破",
+          "Smoke RC 罐守住 Office 被破牆後的最後進點通道"
         ],
         "commonMistakes": [
-          "Maestro Evil Eye 太早開啟被 Brava/Zero 破壞",
-          "陽台無人，攻方輕鬆外圍控制",
-          "障壁太晚放，走廊已被佔",
-          "守方遊走太貪死在外圍",
-          "Smoke 罐引爆太早"
+          "Maestro Evil Eye 太早開啟，被 Brava/Zero 提前破壞",
+          "沒有做 head holes 和 rotate 孔，被包夾時只能 jiggle 接槍",
+          "Terrace 無人盯，攻方輕鬆建立外圍控制後再開主牆",
+          "守方全縮在 Office 內，Exhibition 整條走廊讓攻方佔領",
+          "沒有規劃 Office 主牆被開後的應對方案，直接慌掉"
         ],
         "operators": [
           {
@@ -500,18 +500,18 @@
       "shortName": "辦公區",
       "attack": {
         "topTasks": [
-          "Ying 照明彈從 BBQ 和 Kitchen 兩個入口同時打入",
-          "Solid Snake OtaCam 偵察 BBQ/Kitchen 守方站位",
-          "Nomad 封鎖側翼走廊",
-          "Ace 開 BBQ/Kitchen 強化牆",
-          "至少兩人協調衝點"
+          "先控制 2F Geisha 和 Karaoke 的 hatch，對 BBQ/Kitchen 建立垂直壓制",
+          "上層失守不要急著推點，先把 2F 重新奪回再往下打",
+          "利用軟牆和窗口慢慢拆開站點，不需要硬衝門口",
+          "Sledge/Ram 從 2F 打開對 BBQ 和 Kitchen 的垂直洞，逼守方離開舒適站位",
+          "Solid Snake OtaCam 先確認 BBQ 和 Kitchen 守方各在哪個角落"
         ],
         "commonMistakes": [
-          "單人衝點被 Smoke + Maestro 聯合守住",
-          "照明彈只打一個入口",
-          "沒有偵察就衝",
-          "側翼無人封，守方繞後",
-          "倒數才強衝"
+          "沒有先確保上層控制就衝 1F 點，被守方從天花板消滅",
+          "上層被攻方奪走後還繼續守 1F，守方天花板完全沒有安全站位",
+          "硬衝 BBQ 或 Kitchen 門口，守方在點內等著接槍",
+          "全員從同一條路線進，Smoke RC 罐一顆封死",
+          "沒有偵察就進，守方 Maestro 電眼架在角落直接掃射"
         ],
         "operators": [
           {
@@ -619,18 +619,18 @@
       },
       "defense": {
         "topTasks": [
-          "Smoke RC 罐分別放 BBQ 和 Kitchen 主入口",
-          "Maestro Evil Eye 放在 BBQ 戶外走廊，控制長線",
-          "Jäger ADS 放在主入口攔截照明彈",
-          "Azami Kiba 障壁封鎖走廊長線",
-          "Solis 掃描確認攻方進攻路線"
+          "確保 2F 上層（Geisha、Karaoke）有人守住，這是守 BBQ/Kitchen 的生命線",
+          "一旦上層丟失，立刻和隊友報告並準備應對垂直壓制",
+          "Maestro Evil Eye 架在 BBQ 戶外走廊方向，控制外圍長線",
+          "在 BBQ/Kitchen 天花板上方做 feet holes，讓守方可以卡攻方進點視線",
+          "Smoke RC 罐留到攻方植彈才引爆，不要浪費"
         ],
         "commonMistakes": [
-          "Maestro Evil Eye 太早開啟被破壞",
-          "Jäger 沒有，攻方 Ying Rush 清空",
-          "Smoke 罐全放一個點",
-          "障壁太晚放",
-          "守方全縮點，外圍被完全佔領"
+          "2F 上層無人守，攻方輕鬆打開天花板後守方完全無法動",
+          "Maestro Evil Eye 太早開啟被破壞，失去外圍視野控制",
+          "守方全員縮在 BBQ/Kitchen 點內，上層和外圍全部送給攻方",
+          "Smoke 罐太早炸掉，後段植彈沒有任何工具應對",
+          "沒有 feet holes，攻方從上方打下來守方毫無反制能力"
         ],
         "operators": [
           {
@@ -743,18 +743,18 @@
       "shortName": "工作區",
       "attack": {
         "topTasks": [
-          "Ying 照明彈從 Bedroom 和 Bathroom 入口同時打入",
-          "Nomad 封鎖側翼走廊",
-          "Ace 開 Bedroom/Bathroom 強化牆",
-          "至少兩人協調衝點",
-          "Solid Snake 先偵察點內守方站位"
+          "充分利用外窗和近點入口，這個點的優勢在於接近點位的路線很多",
+          "比起其他點更容易快速打開局面，優先從外窗和門口施壓逼守方接短距離槍",
+          "Solid Snake OtaCam 先確認守方是否有人在外圍等偷攻",
+          "多路同時施壓 Bedroom 窗口、主門和 Bathroom 入口，讓守方顧不過來",
+          "這個點守方操作空間差，穩穩推進不需要做複雜戰術"
         ],
         "commonMistakes": [
-          "單人衝點被 Thorn + Smoke 秒殺",
-          "照明彈只打一個入口",
-          "側翼無人封，守方繞後",
-          "沒有偵察就衝",
-          "倒數才強衝"
+          "把這個點當成其他點一樣打，過度謹慎反而讓守方回血",
+          "只走主門，忽略外窗這個近距離優勢接觸點",
+          "全員擠在一起，一顆投擲物帶走多人",
+          "植彈後不守彈，守方輕鬆從走廊拆彈",
+          "沒有偵察外圍，守方在外面偷攻的話攻方完全不知道"
         ],
         "operators": [
           {
@@ -861,18 +861,18 @@
       },
       "defense": {
         "topTasks": [
-          "Smoke RC 罐分別放 Bedroom 和 Bathroom 主入口",
-          "Thorn Razorbloom 放 Bedroom 主門上方",
-          "Jäger ADS 放在兩個入口",
-          "Melusi 蜂巢放主入口減速",
-          "Lesion Gu 針放入口走廊"
+          "認清這個點是比較難守的點位，守方可操作空間有限",
+          "盡量在有限資源下做好 rotate 孔和外圍騷擾，拖慢攻方節奏",
+          "Thorn Razorbloom 放在主入口上方，是這個點最有效的工具之一",
+          "Smoke RC 罐是後段最後防線，務必留到攻方植彈才用",
+          "一人在外圍做早期騷擾，打一個就退回點內，不要貪"
         ],
         "commonMistakes": [
-          "沒有 Thorn，攻方 Ying Rush 直接清空",
-          "Smoke 罐全放一個點",
-          "守方太早 peek 死在外圍",
-          "陷阱只放點內",
-          "守方全縮點，走廊被佔"
+          "以為這個點可以守得很強，投入太多資源結果還是輸",
+          "守方太積極在外圍接槍，在短距離環境輸給攻方後人數劣勢",
+          "Thorn 和 Smoke 太早浪費掉，後段完全沒工具",
+          "全員縮點等，讓攻方在外圍隨意建立攻勢完全沒有壓力",
+          "沒有做 rotate 孔，被包夾後只能硬接槍"
         ],
         "operators": [
           {
