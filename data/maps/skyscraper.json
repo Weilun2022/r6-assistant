@@ -134,18 +134,18 @@
       },
       "defense": {
         "topTasks": [
-          "牢牢控制 Geisha 和 Drum，這兩個位置丟掉就很難守住 Tea/Karaoke",
-          "在 Karaoke→Black 和 Karaoke→Geisha 方向做 rotate 孔，讓守方可以快速換位",
-          "在 Geisha 和 Drum 方向做 feet holes，卡攻方進點視線",
-          "Azami Kiba 障壁封鎖 Geisha 陽台方向的長線",
-          "Smoke RC 罐留到攻方要植彈時才用，不要浪費在早期"
+          "1人主守 Geisha（藝妓）：負責拖住東側推進，優先保住 Geisha 外牆與窗口壓力，不要太早放棄這個位置",
+          "1人在 Karaoke/Tea 內做主播：盯窗口壓力與植彈線，是整個守點的核心錨點",
+          "1人看 Black Stairs（黑樓梯）或 Drum（太鼓）方向：防攻方從內部補切，這條線丟掉就會被兩面夾擊",
+          "1～2人做外圍淺遊走（VIP 方向）：管理 Tea 窗口並維持回防線，打完就退，不要貪",
+          "Smoke RC 罐留到攻方植彈才引爆，是最後防線，不要浪費在外圍"
         ],
         "commonMistakes": [
-          "太早放棄 Geisha 和 Drum，守方被壓縮到點內後很難撐",
-          "Smoke 罐太早引爆，後段植彈階段完全沒牌可打",
-          "沒有做 feet holes，攻方進點視線完全清晰",
-          "守方全員縮點，Geisha 和陽台讓攻方輕鬆建立制高點",
-          "rotate 孔沒做，被包夾時無法換位只能硬接槍"
+          "太早放棄 Geisha，讓攻方輕鬆建立東側控制，後面整個防守方向就垮了",
+          "所有人都盯著 Karaoke 窗口，Black Stairs 和 Drum 完全無人，被攻方從內部切斷",
+          "攻方同時拿到 Geisha 和內部走廊（Drum/Black Stairs），守方被兩個方向同時切，幾乎必輸",
+          "外圍遊走太積極貪殺，死在外面後點內人數不夠守",
+          "Smoke 罐太早引爆，植彈階段完全沒有工具應對"
         ],
         "operators": [
           {
