@@ -15,18 +15,16 @@
       "shortName": "教堂",
       "attack": {
         "topTasks": [
-          "Sledge/Ram 從屋頂打 Gym 天花板，壓制守方",
-          "Ace 開 Gym/Bedroom 之間的強化牆",
-          "Solid Snake 偵察 Bedroom 和走廊守方站位",
-          "Thatcher 清除電牆和 Mute 干擾器",
-          "控制屋頂，不讓守方從窗口封制高點"
+          "先清屋頂和 Gym 外側漫遊：Clubhouse Gym 有屋頂窗口，守方漫遊常在屋頂和外圍走廊",
+          "Thatcher + Ace 從主走廊清電牆後打開 Gym 面向走廊的主牆，配合從 Bedroom 走廊或外窗同步施壓",
+          "Sledge/Ram 從屋頂打開 Gym 天花板，搭配走廊突破形成垂直+水平雙向壓制",
+          "Gym 走廊和 Bedroom 走廊兩路同時施壓，讓守方無法只守一個入口",
+          "植彈時用煙霧彈遮住 Gym 外窗和走廊視角，選靠牆角落位置"
         ],
         "commonMistakes": [
-          "不控制屋頂直接推，守方從屋頂窗口狙殺攻方",
-          "沒清電牆和干擾器就開牆，失敗",
-          "只從 Gym 主門推，守方集中防守輕鬆守住",
-          "開牆手暴露在屋頂被守方射殺",
-          "沒人做垂直，守方可以隨意在點內換位"
+          "屋頂沒清漫遊就進入 Gym，被守方在屋頂或外圍角度夾殺",
+          "只從 Gym 走廊一側推進，守方集中力量守入口即可",
+          "沒建立垂直，守方在 Gym 靠牆安全等待攻方衝點"
         ],
         "operators": [
           {
@@ -141,18 +139,16 @@
       },
       "defense": {
         "topTasks": [
-          "Bandit/Kaid 電牆覆蓋 Gym 主強化牆",
-          "Azami Kiba 障壁封鎖 Gym 走廊和窗口長線",
-          "至少一人在屋頂監聽垂直壓制",
-          "Jäger ADS 分別放在 Gym 和 Bedroom 入口",
-          "Valkyrie 鏡頭覆蓋屋頂和外圍"
+          "強化 Gym 面向走廊的主牆，讓攻方必須消耗 Ace/Thermite 工具才能建立視角",
+          "Bandit/Kaid 電牆覆蓋 Gym 主強化牆，逼攻方消耗 Thatcher 工具",
+          "指派 1-2 人去屋頂或外圍走廊做漫遊，干擾攻方在屋頂和外圍的設置",
+          "Jäger/Wamai ADS/Mag-NET 放在 Gym 和 Bedroom 走廊入口，截擊手榴彈",
+          "Smoke RC罐在 Bedroom 能看到 Gym 植彈位的掩體後方"
         ],
         "commonMistakes": [
-          "沒人去屋頂，攻方輕鬆控制屋頂制高點",
-          "Bandit 被 Thatcher 打光後無人補電",
-          "守方遊走太積極死在外圍",
-          "全員縮在點內，走廊完全被攻方佔領",
-          "障壁太晚放，攻方早已建立射擊角度"
+          "沒人去屋頂漫遊，攻方輕鬆在屋頂打開 Gym 天花板建立垂直",
+          "主牆電牆沒全覆蓋，Ace 直接開牆",
+          "全體縮在點位，攻方清完屋頂和外圍後四面施壓"
         ],
         "operators": [
           {
@@ -271,18 +267,16 @@
       "shortName": "酒吧",
       "attack": {
         "topTasks": [
-          "Sledge 從屋頂打天花板，壓制 CCTV/Cash 守方",
-          "Ace 開 CCTV/Cash 之間的強化牆",
-          "Iana 全息複製人偵察 Cash Room 守方站位和陷阱",
-          "Thatcher EMP 清電牆後立刻開主牆",
-          "控制2樓走廊，防守方遊走繞後"
+          "CCTV/Cash Room 是 Clubhouse 最常見的競爭站點，外圍漫遊非常活躍，開局偵察必須到位",
+          "Thatcher + Ace 清 CCTV 主強化牆，配合從 Cash Room 走廊或外窗施壓的隊友同步突破",
+          "Sledge/Ram 從屋頂或 3F 打開 CCTV 和 Cash Room 天花板，垂直壓制讓守方無法在點位內站立",
+          "一組從 CCTV 正面突破，一組從 Cash Room 走廊施壓，讓守方必須分兵守兩個方向",
+          "植彈前確認 Garage 方向的漫遊已清，防止植彈時被側翼包抄"
         ],
         "commonMistakes": [
-          "沒有屋頂垂直壓制就推，Cash Room 守方完全無壓力",
-          "Iana 全息複製人沒做偵察就衝，被 Kapkan 陷阱炸死",
-          "電牆沒清就開牆，浪費",
-          "只走 CCTV 主門，守方集中守住一點",
-          "倒數才衝，守方 Smoke 罐全部引爆守住"
+          "沒清 Garage 走廊方向的漫遊，植彈時被守方從側翼反包",
+          "只從 CCTV 一側突破，守方集中力量守一個入口",
+          "沒建立垂直，守方在 CCTV 和 Cash 內安全移動和提線"
         ],
         "operators": [
           {
@@ -396,18 +390,16 @@
       },
       "defense": {
         "topTasks": [
-          "Bandit/Kaid 電牆覆蓋 Cash Room 強化牆",
-          "Kapkan EDD 放在 CCTV 和 Cash 所有入口",
-          "一人早期去屋頂騷擾，遲緩攻方建立屋頂控制",
-          "Smoke RC 罐守住 Cash Room 最後入口",
-          "Jäger ADS 放在 CCTV 和走廊入口"
+          "Bandit/Kaid 優先電牆覆蓋 CCTV 和 Cash Room 所有主強化牆",
+          "指派 1-2 人在屋頂和外圍走廊做漫遊，CCTV/Cash 是最常被攻打的站點，外圈壓力非常重要",
+          "Jäger/Wamai ADS/Mag-NET 在 Cash Room 入口和 CCTV 走廊，截擊攻方手榴彈",
+          "確保 Garage 走廊方向有漫遊，防止攻方從側翼輕鬆繞到背後",
+          "Smoke RC罐在 Cash Room 能看到 CCTV 植彈位的掩體後方"
         ],
         "commonMistakes": [
-          "Kapkan 陷阱只放一個入口，其他入口攻方輕鬆進",
-          "沒人去屋頂，攻方屋頂制高點完全無阻礙",
-          "Smoke 罐太早炸，後段無法拖時間",
-          "守方全縮點內，2樓走廊被攻方佔領",
-          "電牆沒做到位，攻方輕鬆從主牆突破"
+          "電牆沒全覆蓋，Ace 輕鬆開牆建立視角",
+          "Garage 方向沒人，攻方從側翼輕鬆包抄無人阻擋",
+          "全體縮在點位，攻方清完外圍後從三個方向同時施壓"
         ],
         "operators": [
           {
@@ -526,18 +518,16 @@
       "shortName": "辦公室",
       "attack": {
         "topTasks": [
-          "Thatcher + Ace 清電牆後攻 Bar/Stage 主強化牆",
-          "Solid Snake OtaCam 從 Stage 入口偵察",
-          "控制 2 樓走廊，建立垂直壓制",
-          "Nomad 封鎖 Bar 後方連接廚房走廊",
-          "分兩路同時進攻 Bar 入口和 Stage 側入口"
+          "先偵察 Bar 和 Stage 周邊走廊的漫遊：特別注意 Armory 走廊，守方常在此做淺遊走",
+          "Thatcher + Ace 清 Bar 主強化牆，配合從 Stage 後門方向施壓",
+          "Sledge/Ram 從 2F 打開 Bar 和 Stage 天花板，建立垂直威脅讓守方無法靠牆",
+          "Bar 正門和 Stage 後門同時施壓，讓守方無法集中力量守一個入口",
+          "植彈時確認 Armory 走廊的漫遊已清，防止植彈時被從走廊背後夾殺"
         ],
         "commonMistakes": [
-          "沒清電牆就強攻主牆，Ace 炸彈浪費",
-          "全員走同一條路線，一顆 Thorn 帶走多人",
-          "沒有控制 2 樓，守方天花板有絕對優勢",
-          "忽略 Stage 窗口，守方從這裡 peek 殺人",
-          "沒有偵察直接衝點，遇到 Maestro 電眼當場掃射"
+          "Armory 走廊的漫遊沒清，植彈時被從走廊背後反包",
+          "只從 Bar 主入口進攻，守方集中力量守一個門即可",
+          "沒建立垂直，守方在 Bar 靠牆安全等待攻方衝點"
         ],
         "operators": [
           {
@@ -650,18 +640,16 @@
       },
       "defense": {
         "topTasks": [
-          "Bandit + Kaid 電牆覆蓋 Bar 和 Stage 所有強化牆",
-          "Jäger ADS 放 Bar 入口和 Stage 主門",
-          "Azami Kiba 障壁封鎖2樓對 Bar 的長線",
-          "Smoke RC 罐放 Bar 主入口，守住最後防線",
-          "一人在 2 樓持續監控垂直壓制"
+          "Bandit/Kaid 電牆覆蓋 Bar 和 Stage 所有主強化牆",
+          "指派 1 人上 2F 守垂直，Bar 和 Stage 天花板是 2F 軟地板",
+          "Thorn Razorbloom 放在 Bar 主門和 Stage 後門，反制快推",
+          "外圈漫遊選 Armory 走廊，利用走廊視線優勢做動態管理",
+          "Smoke RC罐在 Stage 能看到 Bar 植彈位的掩體後方"
         ],
         "commonMistakes": [
-          "電牆被 Thatcher 全清，Kaid 沒補，主牆直接被開",
-          "沒人守 2 樓，攻方垂直打穿後守方完全無法動",
-          "Jäger 全部 ADS 放在同一個入口，另一側投擲物全通",
-          "Smoke 罐早爆，後段攻方輕鬆強衝",
-          "全員縮在點內，外圍控制讓攻方輕鬆接炸彈"
+          "2F 沒人守垂直，攻方打開天花板從上俯射，守方完全暴露",
+          "Bar 主門和 Stage 後門沒有陷阱，被快推或 Ying 直接清掉",
+          "外圈漫遊縮太早，攻方輕鬆建立包圍"
         ],
         "operators": [
           {
@@ -780,18 +768,16 @@
       "shortName": "臥室",
       "attack": {
         "topTasks": [
-          "從1樓打開地板，建立 Church/Armory 垂直威脅",
-          "Thatcher + Maverick 清電牆，Ace 開主強化牆",
-          "Solid Snake OtaCam 投入地下室偵察 Bandit/Kaid 位置",
-          "兩條路同時施壓，不讓守方集中火力",
-          "控制地下室走廊，不讓守方遊走"
+          "先從 1F 打開教堂天花板：不走垂直直接走地下走廊等於衝點，是最常見的失誤",
+          "Ace/Thermite 打開 Church 面向地下走廊的主牆，建立安全突破口",
+          "武器室有多個入口，利用地下通道分散進攻讓守方無法預判，不要全隊從同一個樓梯下去",
+          "Sledge/Ram 配合從 1F 建立的垂直，讓守方在 Church 中央無法站立",
+          "植彈前確認 Church 走廊和武器室入口都有人壓制"
         ],
         "commonMistakes": [
-          "直走地下室走廊，被 Lesion 陷阱和 Kapkan 炸掉大量血量",
-          "沒有垂直壓制就推，守方在點內完全無壓力",
-          "電牆沒清就開主牆，完全失敗",
-          "只走一條路，守方集中火力輕鬆守住",
-          "倒數才衝，守方完全準備好了"
+          "不建立垂直直接走地下走廊，被守方在走廊預判堵殺",
+          "全隊集中走同一條走廊，被守方用電牆或 Smoke RC罐攔截",
+          "忽略武器室入口，讓守方可以從武器室側翼反包植彈手"
         ],
         "operators": [
           {
@@ -906,18 +892,16 @@
       },
       "defense": {
         "topTasks": [
-          "Bandit + Kaid 電牆覆蓋 Church 和 Armory 所有強化牆",
-          "Lesion Gu 針放滿地下室走廊",
-          "Kapkan EDD 放在所有地下室入口",
-          "一人監控1樓，防止垂直從地板壓下來",
-          "Smoke RC 罐守住最後入口"
+          "強化 Church 面向地下走廊的所有主牆，讓攻方只能從固定突破口進攻",
+          "指派 1 人在 1F 守垂直，Church 上方是 1F 軟地板",
+          "Kapkan/Frost 陷阱放在地下走廊主要入口，配合走廊守方做夾擊",
+          "外圈漫遊在 1F 走廊，讓攻方無法安全從 1F 建立垂直威脅",
+          "Smoke RC罐在武器室能看到 Church 植彈位的掩體後方"
         ],
         "commonMistakes": [
-          "Bandit 被 Thatcher 打光，Kaid 沒補電",
-          "地下室走廊陷阱太少，攻方輕鬆推到點門口",
-          "沒人監控1樓地板，被打穿後毫無反應",
-          "Smoke 罐太早炸，後段擋不住",
-          "守方全縮 Armory，Church 方向被輕鬆佔領"
+          "1F 沒人守垂直，攻方在 1F 打開 Church 天花板後從上俯射",
+          "地下走廊陷阱位置太明顯，被攻方無人機提前發現",
+          "外圈漫遊縮太早，攻方在 1F 輕鬆建立垂直"
         ],
         "operators": [
           {

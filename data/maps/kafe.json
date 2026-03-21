@@ -15,18 +15,16 @@
       "shortName": "廚房",
       "attack": {
         "topTasks": [
-          "Sledge/Ram 從屋頂猛打 Bar/Back Bar 天花板，全面垂直壓制",
-          "Ace 開 Bar/Back Bar 強化牆",
-          "Solid Snake 偵察 Back Bar 守方站位",
-          "控制屋頂，不讓守方從屋頂窗口狙殺",
-          "兩路同時施壓"
+          "先清屋頂電牆：Kafe 3F 守方幾乎必電屋頂入口，用 Thatcher 清電牆後才能安全從屋頂進入",
+          "Ace/Thermite 清電牆後從 Bar 外側走廊打主牆，與從 Back Bar 外窗或屋頂施壓的隊友同步突破",
+          "屋頂入口和外走廊必須同步施壓：只走屋頂入口守方預判堵門；只走走廊守方只需守一條線",
+          "煙霧彈覆蓋 Bar 外窗和走廊盡頭的視角，讓突破手能安全移動到破口位置",
+          "植彈時用煙霧彈遮住 Bar 外窗視角，選能被屋頂方向和走廊同時覆蓋的植彈位置"
         ],
         "commonMistakes": [
-          "沒有屋頂控制就推，守方從屋頂窗口狙殺攻方",
-          "天花板沒打，守方在 Bar 內完全無壓力換位",
-          "只走正面，被 Azami 障壁 + Smoke 守住",
-          "屋頂無人監聽，守方 Skopós 從屋頂窗口偷出",
-          "開牆手暴露在屋頂被守方射殺"
+          "只從屋頂入口進攻，守方預判堵屋頂入口，整隊在屋頂被清掉",
+          "電牆沒清就試圖從屋頂進入，被電牆炸死",
+          "屋頂進攻和走廊進攻不同步，守方分別各個擊破"
         ],
         "operators": [
           {
@@ -142,18 +140,16 @@
       },
       "defense": {
         "topTasks": [
-          "Azami Kiba 障壁封鎖 Bar 屋頂入口和走廊長線",
-          "Jäger ADS 放在 Bar 主入口和屋頂樓梯口",
-          "一人早期在屋頂騷擾，打完立刻退",
-          "Valkyrie 鏡頭覆蓋屋頂和外圍",
-          "Smoke RC 罐守住 Back Bar 最後入口"
+          "Azami Kiba 障壁封鎖 Bar 屋頂入口，讓攻方無法從屋頂直接跳入點位",
+          "Bandit/Kaid 電牆覆蓋 Bar 和 Back Bar 主強化牆，逼迫攻方消耗 Thatcher 工具",
+          "外圍漫遊選 Bar 外走廊，用走廊長視線做動態管理拖住攻方推進",
+          "Jäger/Wamai ADS/Mag-NET 在 Bar 走廊入口，截擊攻方飛入的手榴彈",
+          "Smoke RC罐在 Back Bar 能看到 Bar 植彈位的掩體後方"
         ],
         "commonMistakes": [
-          "沒人去屋頂，攻方輕鬆建立屋頂全面控制",
-          "障壁太晚放，屋頂入口和走廊已被攻方佔位",
-          "守方遊走太積極死在屋頂",
-          "Smoke 罐引爆時機太早",
-          "全員縮在 Bar 區，屋頂完全是攻方的"
+          "屋頂入口沒有 Azami 封鎖，攻方直接從屋頂跳入點位",
+          "主牆電牆沒全覆蓋，Ace 直接開牆建立視角",
+          "外圈漫遊縮太早，攻方輕鬆建立屋頂+走廊包圍"
         ],
         "operators": [
           {
@@ -272,18 +268,16 @@
       "shortName": "壁爐廳",
       "attack": {
         "topTasks": [
-          "Sledge 打 Fireplace 天花板，壓制守方",
-          "Ace 開 Fireplace/Mining 強化牆",
-          "Solid Snake 偵察 Mining 守方站位和 Maestro 位置",
-          "Zero Argus 鏡頭破壞 Maestro Evil Eye",
-          "控制3樓，封鎖守方遊走路線"
+          "先偵察 Fireplace Hall 外窗和 Mining 走廊的漫遊：守方漫遊常在這兩個位置做動態管理",
+          "Ace/Thermite 打開 Fireplace 面向走廊的主牆，配合 Mining 外窗 rappel 施壓的隊友同步突破",
+          "Sledge/Ram 從 3F 打開 Fireplace 天花板，建立垂直威脅讓守方在點位內無法靠牆",
+          "一組從 Fireplace 走廊突破，一組從 Mining 外窗 rappel，讓守方無法只守一個方向",
+          "植彈時確認 3F 垂直被壓制，選靠牆位置下包避免被垂直線提走"
         ],
         "commonMistakes": [
-          "Maestro Evil Eye 沒清就推走廊，被機槍掃射",
-          "天花板沒打，守方換位無壓力",
-          "沒有情報就衝，被 Mira 黑鏡後角度打死",
-          "3樓無人控制，守方遊走繞後",
-          "只走一條路，守方集中守住"
+          "沒建立垂直直接強推 Fireplace，守方在牆後安全提線",
+          "只從走廊一個方向進攻，守方集中力量守一個入口",
+          "外圍漫遊沒清就大推，被守方從 Mining 外窗或走廊背後夾殺"
         ],
         "operators": [
           {
@@ -398,18 +392,16 @@
       },
       "defense": {
         "topTasks": [
-          "Mira 黑鏡開在 Fireplace/Mining 主交戰牆",
-          "Maestro Evil Eye 放在 Mining 走廊，控制長線",
-          "Jäger ADS 放在 Fireplace 主入口",
-          "一人在3樓外圍騷擾，打一個就退",
-          "Smoke RC 罐守住 Mining 最後入口"
+          "Mira 黑鏡開在 Fireplace/Mining 主交戰牆，提供無法迴避的長線視角控制",
+          "指派 1 人上 3F 守垂直，Fireplace 天花板是 3F 軟地板，3F 沒人必輸",
+          "外圍漫遊在 2F 走廊做動態管理，利用走廊視線優勢拖時間",
+          "Jäger/Wamai ADS/Mag-NET 在 Mining 入口和 Fireplace 走廊，截擊手榴彈",
+          "Smoke RC罐在 Mining 能看到 Fireplace 植彈位的掩體後方"
         ],
         "commonMistakes": [
-          "Mira 黑鏡開在錯誤的牆，沒有交戰優勢",
-          "Maestro Evil Eye 太早開啟被 Brava/Zero 破壞",
-          "沒人在3樓，攻方輕鬆控制整個3樓",
-          "守方遊走太貪死在外圍",
-          "Smoke 罐引爆太早"
+          "3F 沒人守垂直，攻方打開 Fireplace 天花板後守方失去掩護",
+          "Mira 黑鏡架在不好的角度，沒有有效覆蓋主交戰線",
+          "外圈縮太早，攻方建立垂直後直接包圍點位"
         ],
         "operators": [
           {
@@ -527,18 +519,16 @@
       "shortName": "閱覽室",
       "attack": {
         "topTasks": [
-          "Ace 開 Reading/Fireplace 強化牆，建立兩條進攻路線",
-          "Sledge 打天花板，建立垂直壓制",
-          "Solid Snake 偵察 Fireplace 後方守方站位",
-          "控制3樓，封鎖守方遊走路線",
-          "兩路同時施壓，不讓守方集中防守"
+          "先偵察 Reading Room 外窗和 Fireplace 側走廊的漫遊：守方漫遊在這兩個位置非常活躍",
+          "Ace/Thermite 打開 Reading Room 面向走廊的主牆，配合 Fireplace 方向施壓",
+          "Sledge/Ram 從 3F 打開 Reading 天花板，建立垂直威脅讓守方在點位內無法安心",
+          "利用 Reading Room 的多個外窗做多方向施壓，讓守方無法守一個入口",
+          "植彈時用煙霧彈遮住外窗視角，選靠牆位置下包"
         ],
         "commonMistakes": [
-          "只走一條路，守方集中守住",
-          "天花板沒打，守方換位無壓力",
-          "3樓無人控制，守方繞後",
-          "沒有偵察就衝，被 Maestro + Mira 打死",
-          "倒數才衝，守方全部準備好"
+          "沒建立垂直，守方在 Reading Room 靠牆安全等待攻方衝點",
+          "外窗沒利用，放棄多個進攻角度讓守方只守走廊即可",
+          "走廊進攻沒有煙霧掩護，被守方長廊角度打掉"
         ],
         "operators": [
           {
@@ -653,18 +643,16 @@
       },
       "defense": {
         "topTasks": [
-          "Mira 黑鏡開在 Reading/Fireplace 主交戰牆",
-          "Maestro Evil Eye 放在走廊末端",
-          "Jäger ADS 放在主入口",
-          "一人在3樓外圍騷擾，打完立刻退",
-          "Smoke RC 罐守住最後入口"
+          "Mira 黑鏡開在 Reading/Fireplace 主交戰牆，提供穩定的長線視角",
+          "指派 1 人上 3F 守垂直，Reading Room 天花板是 3F 軟地板",
+          "Reading Room 多個外窗用 Azami Kiba 封鎖，防攻方 rappel 後直接有整個房間視角",
+          "外圍漫遊在 2F 走廊做動態管理，利用走廊優勢拖時間",
+          "Smoke RC罐在 Fireplace 能看到 Reading 植彈位的掩體後方"
         ],
         "commonMistakes": [
-          "Mira 黑鏡位置錯誤，沒有交戰優勢",
-          "Maestro Evil Eye 太早開啟被破壞",
-          "沒人去3樓，攻方輕鬆建立3樓控制",
-          "守方遊走太貪死在外圍",
-          "Smoke 罐引爆太早"
+          "3F 沒人守垂直，攻方打開 Reading 天花板後守方失去掩護",
+          "外窗沒 Azami 遮蔽，攻方 rappel 後直接有整個房間視角提線",
+          "Mira 黑鏡架在不好的位置，沒有有效覆蓋主交戰線"
         ],
         "operators": [
           {
@@ -782,18 +770,16 @@
       "shortName": "酒吧廳",
       "attack": {
         "topTasks": [
-          "Ying 照明彈從 Kitchen 正門和通道同時打入，爆發衝點",
-          "Nomad Airjab 封鎖廚房側翼走廊",
-          "Ace 開 Kitchen Passage/Kitchen 強化牆",
-          "至少兩人協調同時衝點",
-          "Solid Snake 先偵察點內 Smoke 罐和守方站位"
+          "先偵察廚房後門和通道外側的漫遊：Kafe 廚房守方常主動在外圍做漫遊，沒清很容易被夾殺",
+          "Ace/Thermite 打開廚房通道面向廚房的主牆，配合廚房後門方向施壓",
+          "Sledge/Ram 從 2F 打開廚房天花板，垂直壓制讓守方在廚房內無法靠牆安全站立",
+          "Ying 照明彈從廚房正門和通道入口同時打入，讓守方無法同時應對兩個方向",
+          "植彈時確認外圍漫遊已清，防止植彈時被守方從外側包抄"
         ],
         "commonMistakes": [
-          "單人衝廚房被 Thorn + Smoke 秒殺",
-          "照明彈只打一個入口",
-          "側翼無人封，守方繞後夾擊",
-          "沒有偵察就衝",
-          "倒數才強衝，守方準備好了所有防線"
+          "走廚房通道沒有煙霧掩護，被守方廚房方向或通道長線角度打掉",
+          "外圍漫遊沒清就大推，被守方從廚房後門或外側夾殺突破手",
+          "沒建立垂直，守方在廚房安全靠牆等待攻方衝點"
         ],
         "operators": [
           {
@@ -906,18 +892,16 @@
       },
       "defense": {
         "topTasks": [
-          "Smoke RC 罐分別放 Kitchen 正門和通道入口",
-          "Thorn Razorbloom 放 Kitchen 主門上方",
-          "Jäger ADS 放在兩個入口攔截照明彈",
-          "Melusi 蜂巢放主入口減速",
-          "Goyo Volcán 盾放在廚房開放區域拖時間"
+          "指派 1 人上 2F 守垂直，廚房天花板是 2F 軟地板，沒有垂直保護幾乎無法守",
+          "外圍漫遊在廚房外走廊做動態管理，Kafe 廚房守方有良好的外圍機動空間",
+          "Thorn Razorbloom 放在廚房正門和通道入口，反制 Ying 閃彈衝點和快推",
+          "強化廚房面向通道的主牆，讓攻方必須開牆才能建立視角",
+          "Smoke RC罐在廚房通道能看到廚房植彈位的掩體後方"
         ],
         "commonMistakes": [
-          "沒有 Thorn，攻方 Ying Rush 直接清空",
-          "Smoke 罐全放一個入口，另一個被輕鬆衝進",
-          "守方太早 peek 死在外圍",
-          "陷阱只放點內，走廊無陷阱",
-          "Goyo 盾引爆太早，後段無法拖時間"
+          "2F 沒人守垂直，攻方打開廚房天花板後守方完全暴露在垂直視角下",
+          "廚房正門和通道入口沒有陷阱，被 Ying 閃彈衝點或 Rush 直接清掉",
+          "外圈漫遊縮太早，攻方輕鬆建立外圍包圍"
         ],
         "operators": [
           {
